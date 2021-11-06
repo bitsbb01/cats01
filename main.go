@@ -180,7 +180,22 @@ func main() {
 	const iptvCatDomain = "iptvcat.com"
 
 	urlList := [...]string{
+		"https://iptvcat.com/arab_countries",
+		"https://iptvcat.com/latin_america",
+		"https://iptvcat.com/africa",
+		"https://iptvcat.com/asia",
+		"https://iptvcat.com/sport",
+		"https://iptvcat.com/europe",
+		"https://iptvcat.com/north_america",
+		"https://iptvcat.com/south_america",
+		"https://iptvcat.com/s/movies",
+		"https://iptvcat.com/s/hbo",
+		"https://iptvcat.com/s/starz",
+		"https://iptvcat.com/s/sky",
+		"https://iptvcat.com/united_kingdom",
 		"https://iptvcat.com/canada",
+		"https://iptvcat.com/united_states_of_america",
+		"https://iptvcat.com/undefined",
 	}
 
 	for _, element := range urlList {
