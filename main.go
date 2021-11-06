@@ -136,8 +136,8 @@ func writeToFile() {
 
 	os.MkdirAll("data/countries", os.ModePerm)
 
-	ioutil.WriteFile("data/all-streams.json", streamsAll, 0644)
-	ioutil.WriteFile("data/all-by-country.json", streamsCountry, 0644)
+	ioutil.WriteFile("data/countries/allstreams.json", streamsAll, 0644)
+	ioutil.WriteFile("data/countries/allbycountry.json", streamsCountry, 0644)
 	for key, val := range app.Streams.ByCountry {
 		// streamsCountry, err := json.Marshal(val)
 		streamsCountry, err := json.MarshalIndent(val, "", "    ")
@@ -180,26 +180,7 @@ func main() {
 	const iptvCatDomain = "iptvcat.com"
 
 	urlList := [...]string{
-		"https://iptvcat.com/china",
-		"https://iptvcat.com/hong_kong",
-		"https://iptvcat.com/india",
-		"https://iptvcat.com/indonesia",
-		"https://iptvcat.com/japan",
-		"https://iptvcat.com/malaysia",
-		"https://iptvcat.com/singapore",
-		"https://iptvcat.com/south_korea",
-		"https://iptvcat.com/austria",
-		"https://iptvcat.com/belgium",
-		"https://iptvcat.com/france",
-		"https://iptvcat.com/germany",
-		"https://iptvcat.com/ireland",
-		"https://iptvcat.com/italy",
-		"https://iptvcat.com/switzerland",
-		"https://iptvcat.com/united_kingdom",
 		"https://iptvcat.com/canada",
-		"https://iptvcat.com/united_states_of_america",
-		"https://iptvcat.com/australia",
-		"https://iptvcat.com/new_zealand",
 	}
 
 	for _, element := range urlList {
