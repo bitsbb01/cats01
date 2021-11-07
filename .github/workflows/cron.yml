@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        run: echo "NOW::$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
 
       - name: Set up Go 1.x
         uses: actions/setup-go@v2
@@ -55,8 +55,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.scrapper_token }}
         with:
-          tag_name: ${{ steps.date.outputs.date }}
-          release_name: Release ${{ steps.date.outputs.date }}
+          tag_name: $NOW
+          release_name: Release $NOW
           draft: false
           prerelease: false
 
@@ -66,7 +66,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.scrapper_token }}
         with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          upload_url: $NOW
           asset_path: ./streams.zip
           asset_name: streams.zip
           asset_content_type: application/zip
+
