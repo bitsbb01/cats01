@@ -16,23 +16,23 @@ jobs:
     steps:
       - uses: actions/checkout@v2
     
-      - name: Delete Old Files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git rm ./data/countries/*.json
-                       
-      - name: commit deleted old files
-        uses: zwaldowski/git-commit-action@v1
-        with:
-             commit_message:  "deleted old files by bot"
-             working_directory: .
-           
-      - name: Push changes for old files
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.scrapper_token }}
-          branch: ${{ github.ref }}
+#      - name: Delete Old Files
+#        run: |
+#          git config --local user.email "action@github.com"
+#          git config --local user.name "GitHub Action"
+#          git rm ./data/countries/*.json
+#                       
+#      - name: commit deleted old files
+#        uses: zwaldowski/git-commit-action@v1
+#        with:
+#             commit_message:  "deleted old files by bot"
+#             working_directory: .
+#           
+#      - name: Push changes for old files
+#        uses: ad-m/github-push-action@master
+#        with:
+#          github_token: ${{ secrets.scrapper_token }}
+#          branch: ${{ github.ref }}
 
 
       - name: Get current date
