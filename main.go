@@ -183,8 +183,6 @@ func main() {
 		
 		"https://od.lk/s/MzJfMTcwOTQ4Mjhf/Free2ViewTV-2021-Master-PC.m3u",
 		"https://raw.githubusercontent.com/bitsbb01/i.mjh.nz/master/PlutoTV/all.m3u8",
-		"https://iptvcat.com/s/sky",
-		"https://iptvcat.com/s/sky",
 	}
 
 	for _, element := range urlList {
