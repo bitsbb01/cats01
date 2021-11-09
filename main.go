@@ -180,9 +180,28 @@ func main() {
 	const iptvCatDomain = "iptvcat.com"
 
 	urlList := [...]string{
-		
-		"https://od.lk/s/MzJfMTcwOTQ4Mjhf/Free2ViewTV-2021-Master-PC.m3u",
-		"https://raw.githubusercontent.com/bitsbb01/i.mjh.nz/master/PlutoTV/all.m3u8",
+
+		"https://iptvcat.com/africa",
+		"https://iptvcat.com/arab_countries",
+		"https://iptvcat.com/asia",
+		"https://iptvcat.com/canada",
+		"https://iptvcat.com/europe",
+		"https://iptvcat.com/ex_yugoslavia",
+		"https://iptvcat.com/latin_america",
+		"https://iptvcat.com/north_america",
+		"https://iptvcat.com/oceania",
+		"https://iptvcat.com/scandinavia",
+		"https://iptvcat.com/south_america",
+		"https://iptvcat.com/spain",
+		"https://iptvcat.com/united_kingdom",
+		"https://iptvcat.com/united_states_of_america",
+		"https://iptvcat.com/undefined",
+		"https://iptvcat.com/sport",
+		"https://iptvcat.com/s/movies",
+		"https://iptvcat.com/s/mbc",
+		"https://iptvcat.com/s/hbo",
+		"https://iptvcat.com/s/starz",
+		"https://iptvcat.com/s/sky",
 	}
 
 	for _, element := range urlList {
