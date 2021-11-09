@@ -290,7 +290,7 @@
         "status": "online",
         "lastChecked": "2021-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "1357, ...",
+        "mbps": "1178",
         "URI": [
             "africa_-_-_-_-"
         ]
@@ -952,7 +952,7 @@
         "status": "online",
         "lastChecked": "2021-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "1357, ...",
+        "mbps": "1178",
         "URI": [
             "africa_-_-_-_-"
         ]
@@ -2928,22 +2928,6 @@
         ]
     },
     {
-        "id": "9116",
-        "channel": "Al Horreya, AL HORREYA TV (1920×1080), EG | Al Horreya",
-        "link": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "africa",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "9546, ...",
-        "URI": [
-            "africa_-_-_-_-",
-            "arab_countries_-_-_-_-_-_-_-_",
-            "asia_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "1336779",
         "channel": "GBS TV [Not 24/7]",
         "link": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8?checkedby:iptvcat.com",
@@ -3000,6 +2984,22 @@
         "mbps": "523",
         "URI": [
             "africa_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "9116",
+        "channel": "Al Horreya, AL HORREYA TV (1920×1080), EG | Al Horreya",
+        "link": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-11-09T00:00:00Z",
+        "format": "hd",
+        "mbps": "9546, ...",
+        "URI": [
+            "africa_-_-_-_-",
+            "arab_countries_-_-_-_-_-_-_-_",
             "asia_-_-_-_-_-_-_-_-_"
         ]
     },
