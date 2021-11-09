@@ -81,8 +81,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.scrapper_token }}
         with:
-          tag_name: ${{ steps.date.outputs.date }}
-          release_name: Release ${{ steps.date.outputs.date }}
+          tag_name: Pushed - ${{ steps.date.outputs.date }}
+          release_name: Pushed Release - ${{ steps.date.outputs.date }}
           draft: false
           prerelease: false
 
