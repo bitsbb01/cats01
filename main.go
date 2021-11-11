@@ -177,7 +177,7 @@ func processUrl(url string, domain string) {
 }
 
 func main() {
-	const iptvCatDomain = "iptvcat.com"
+	const iptvCatDomain = "dailyfreeiptvlist.com"
 
 	urlList := [...]string{
 
