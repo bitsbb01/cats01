@@ -136,8 +136,8 @@ func writeToFile() {
 
 	os.MkdirAll("data/countries", os.ModePerm)
 
-	ioutil.WriteFile("data/countries/allstreams.json", streamsAll, 0644)
-	ioutil.WriteFile("data/countries/allbycountry.json", streamsCountry, 0644)
+	ioutil.WriteFile("data/allstreams.json", streamsAll, 0644)
+	ioutil.WriteFile("data/allbycountry.json", streamsCountry, 0644)
 	for key, val := range app.Streams.ByCountry {
 		// streamsCountry, err := json.Marshal(val)
 		streamsCountry, err := json.MarshalIndent(val, "", "    ")
