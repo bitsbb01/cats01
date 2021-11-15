@@ -136,7 +136,8 @@ func writeToFile() {
 
 	os.MkdirAll("data/countries", os.ModePerm)
 
-	ioutil.WriteFile("data/allbycountry.json", streamsCountry, 0644)
+	ioutil.WriteFile("data/all-streams.json", streamsAll, 0644)
+	ioutil.WriteFile("data/all-by-country.json", streamsCountry, 0644)
 	for key, val := range app.Streams.ByCountry {
 		// streamsCountry, err := json.Marshal(val)
 		streamsCountry, err := json.MarshalIndent(val, "", "    ")
@@ -195,7 +196,8 @@ func main() {
 		"https://iptvcat.com/united_kingdom",
 		"https://iptvcat.com/united_states_of_america",
 		"https://iptvcat.com/undefined",
-	}
+		"https://iptvcat.com/sport",
+		}
 
 	for _, element := range urlList {
 		processUrl(element, iptvCatDomain)
