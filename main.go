@@ -183,6 +183,144 @@ func main() {
 
 		
 		"https://iptvcat.com/algeria",
+		
+		"https://iptvcat.com/bahrain",
+		
+		"https://iptvcat.com/djibouti",
+		
+		"https://iptvcat.com/iraq",
+		
+		"https://iptvcat.com/jordan",
+		
+		"https://iptvcat.com/kuwait",
+		
+		"https://iptvcat.com/lebanon",
+		
+		"https://iptvcat.com/libya",
+		
+		"https://iptvcat.com/mauritania",
+		
+		"https://iptvcat.com/morocco",
+		
+		"https://iptvcat.com/oman",
+		
+		"https://iptvcat.com/qatar",
+		
+		"https://iptvcat.com/saudi_arabia",
+		
+		"https://iptvcat.com/somalia",
+		
+		"https://iptvcat.com/sudan",
+		
+		"https://iptvcat.com/syria",
+		
+		"https://iptvcat.com/tunisia",
+		
+		"https://iptvcat.com/united_arab_emirates",
+		
+		"https://iptvcat.com/yemen",
+		
+		"https://iptvcat.com/brazil",
+		
+		"https://iptvcat.com/mexico",
+		
+		"https://iptvcat.com/puerto_rico",
+		
+		"https://iptvcat.com/egypt",
+		
+		"https://iptvcat.com/seychelles",
+		
+		"https://iptvcat.com/new_zealand",
+		
+		"https://iptvcat.com/afghanistan",
+		
+		"https://iptvcat.com/azerbaijan",
+		
+		"https://iptvcat.com/china",
+		
+		"https://iptvcat.com/hong_kong",
+		
+		"https://iptvcat.com/india",
+		
+		"https://iptvcat.com/indonesia",
+		
+		"https://iptvcat.com/iran",
+		
+		"https://iptvcat.com/israel",
+		
+		"https://iptvcat.com/japan",
+		
+		"https://iptvcat.com/malaysia",
+		
+		"https://iptvcat.com/pakistan",
+		
+		"https://iptvcat.com/palestine",
+		
+		"https://iptvcat.com/south_korea",
+		
+		"https://iptvcat.com/taiwan",
+		
+		"https://iptvcat.com/thailand",
+		
+		"https://iptvcat.com/turkmenistan",
+		
+		"https://iptvcat.com/ex_yugoslavia",
+		
+		"https://iptvcat.com/scandinavia",
+		
+		"https://iptvcat.com/albania",
+		
+		"https://iptvcat.com/austria",
+		
+		"https://iptvcat.com/belgium",
+		
+		"https://iptvcat.com/bulgaria",
+		
+		"https://iptvcat.com/czech_republic",
+		
+		"https://iptvcat.com/france",
+		
+		"https://iptvcat.com/germany",
+		
+		"https://iptvcat.com/greece",
+		
+		"https://iptvcat.com/hungary",
+		
+		"https://iptvcat.com/ireland",
+		
+		"https://iptvcat.com/italy",
+		
+		"https://iptvcat.com/netherlands",
+		
+		"https://iptvcat.com/poland",
+		
+		"https://iptvcat.com/portugal",
+		
+		"https://iptvcat.com/russian_federation",
+		
+		"https://iptvcat.com/spain",
+		
+		"https://iptvcat.com/switzerland",
+		
+		"https://iptvcat.com/turkey",
+		
+		"https://iptvcat.com/united_kingdom",
+		
+		"https://iptvcat.com/canada",
+		
+		"https://iptvcat.com/united_states_of_america",
+		
+		"https://iptvcat.com/australia",
+		
+		"https://iptvcat.com/new_channels-26",
+		
+		"https://iptvcat.com/sport",
+		
+		"https://iptvcat.com/s/movie/mark/movie",
+		
+		"https://iptvcat.com/s/star/mark/star",
+		
+		"https://iptvcat.com/s/hbo/mark/hbo",
 		}
 
 	for _, element := range urlList {
