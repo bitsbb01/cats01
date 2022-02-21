@@ -181,22 +181,8 @@ func main() {
 
 	urlList := [...]string{
 
-		"https://iptvcat.com/africa",
-		"https://iptvcat.com/arab_countries",
-		"https://iptvcat.com/asia",
-		"https://iptvcat.com/canada",
-		"https://iptvcat.com/europe",
-		"https://iptvcat.com/ex_yugoslavia",
-		"https://iptvcat.com/latin_america",
-		"https://iptvcat.com/north_america",
-		"https://iptvcat.com/oceania",
-		"https://iptvcat.com/scandinavia",
-		"https://iptvcat.com/south_america",
-		"https://iptvcat.com/spain",
-		"https://iptvcat.com/united_kingdom",
-		"https://iptvcat.com/united_states_of_america",
-		"https://iptvcat.com/undefined",
-		"https://iptvcat.com/sport",
+		
+		"https://iptvcat.com/algeria",
 		}
 
 	for _, element := range urlList {
