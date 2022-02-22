@@ -196,7 +196,6 @@ func main() {
 		"https://iptvcat.com/turkey",
 		"https://iptvcat.com/united_kingdom",
 		"https://iptvcat.com/canada",
-		"https://iptvcat.com/united_states_of_america",
 		"https://iptvcat.com/australia",
 		"https://iptvcat.com/new_channels-26",
 		"https://iptvcat.com/sport",
