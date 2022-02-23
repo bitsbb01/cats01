@@ -184,8 +184,6 @@ func main() {
 		
 		"https://iptvcat.com/s/osn/mark/osn",
 		"https://iptvcat.com/s/sky/mark/sky",
-		"https://iptvcat.com/new_channels-26",
-		"https://iptvcat.com/sport",
 		"https://iptvcat.com/s/movie/mark/movie",
 		"https://iptvcat.com/s/star/mark/star",
 		"https://iptvcat.com/s/hbo/mark/hbo",
