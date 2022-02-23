@@ -187,6 +187,10 @@ func main() {
 		"https://iptvcat.com/s/movie/mark/movie",
 		"https://iptvcat.com/s/star/mark/star",
 		"https://iptvcat.com/s/hbo/mark/hbo",
+		"https://iptvcat.com/turkey",
+		"https://iptvcat.com/canada",
+		"https://iptvcat.com/united_states_of_america",
+		"https://iptvcat.com/united_kingdom",
 		}
 
 	for _, element := range urlList {
