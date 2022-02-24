@@ -6,9 +6,9 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -18,39 +18,11 @@
         "channel": "CSTAR_HD",
         "link": "https://list.iptvcat.com/my_list/s/4dd2fee7f2ba8aa04865a6a6a40722ae.m3u8",
         "country": "france",
-        "liveliness": "87",
-        "status": "offline",
-        "lastChecked": "2022-02-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2372749",
-        "channel": "FR_CSTAR_FHD",
-        "link": "https://list.iptvcat.com/my_list/s/4045f680a3fa714ad4c2f5a73320e629.m3u8",
-        "country": "france",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2022-02-23T00:00:00Z",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2022-02-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2372399",
-        "channel": "FR_C_Star_HD",
-        "link": "https://list.iptvcat.com/my_list/s/9667db52dfa613db224779869016e8dd.m3u8",
-        "country": "france",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2022-02-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
         "URI": [
             "s"
         ]
@@ -62,7 +34,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-23T00:00:00Z",
+        "lastChecked": "2022-02-24T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -70,13 +42,237 @@
         ]
     },
     {
-        "id": "2371876",
-        "channel": "_CStar",
-        "link": "https://list.iptvcat.com/my_list/s/7633ed85c72b1b4cefa2b221ceb61e24.m3u8",
+        "id": "2371488",
+        "channel": "CANAL+ CINEMA",
+        "link": "https://list.iptvcat.com/my_list/s/d786fd6e46731e6976d18fc96e5f9d38.m3u8",
         "country": "france",
-        "liveliness": "13",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2371489",
+        "channel": "CANAL+ CINEMA FHD",
+        "link": "https://list.iptvcat.com/my_list/s/2f3fcc95e32f2e6aa11bf564298cae85.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2344946",
+        "channel": "CANAL_CINEMA_HD",
+        "link": "https://list.iptvcat.com/my_list/s/5dd4b8109b3a71da56e54fe9b34cbe70.m3u8",
+        "country": "france",
+        "liveliness": "65",
+        "status": "online",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2371844",
+        "channel": "Orange Cinema 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/eb3c53a98f5f37b09018698ac6b88679.m3u8",
+        "country": "france",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-02-23T00:00:00Z",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "3826",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2371847",
+        "channel": "Orange Cinema 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/10adb012dcc3e304ac34a861b74ca014.m3u8",
+        "country": "france",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2371848",
+        "channel": "Orange Cinema Aventure HD",
+        "link": "https://list.iptvcat.com/my_list/s/b31cad07ae44a4da543a3a48e0336ba4.m3u8",
+        "country": "france",
+        "liveliness": "82",
+        "status": "offline",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "827",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2371850",
+        "channel": "Orange Cinema HD",
+        "link": "https://list.iptvcat.com/my_list/s/b2dc1cae649c25ed2e458318e87464f6.m3u8",
+        "country": "france",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "3731",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2371524",
+        "channel": "TCM CINEMA",
+        "link": "https://list.iptvcat.com/my_list/s/dfeb768c2a6d255c76793d54a62a260c.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2371525",
+        "channel": "TCM CINEMA FHD",
+        "link": "https://list.iptvcat.com/my_list/s/8eeffb7f55b9128ddf6f5f2e6d8108b6.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2371696",
+        "channel": "DISNEY FHD",
+        "link": "https://list.iptvcat.com/my_list/s/bb67cb699e2da4bab3eca48200282889.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2371700",
+        "channel": "DISNEY JUNIOR FHD",
+        "link": "https://list.iptvcat.com/my_list/s/5d21f58fa6389866cdde0fc9904462ca.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2371697",
+        "channel": "DISNEY+ FHD",
+        "link": "https://list.iptvcat.com/my_list/s/27299beda9d0e2d0702ec6e9857a274b.m3u8",
+        "country": "france",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2371694",
+        "channel": "DISNEY+1 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/8c4f055d2efc29b41aa16629494edcba.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2371693",
+        "channel": "Disney",
+        "link": "https://list.iptvcat.com/my_list/s/d445bd715b8a98151f01dbfc05f29b42.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2344956",
+        "channel": "Disney",
+        "link": "https://list.iptvcat.com/my_list/s/a73bc3aa32fe28a8acb7d28c7df11162.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2371699",
+        "channel": "Disney Junior",
+        "link": "https://list.iptvcat.com/my_list/s/91ca81e51a1b2faae9447faa36703509.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2344958",
+        "channel": "Disney_Plus",
+        "link": "https://list.iptvcat.com/my_list/s/d29707028d4ff96d92208cf86e8c1a7b.m3u8",
+        "country": "france",
+        "liveliness": "40",
+        "status": "offline",
+        "lastChecked": "2022-02-24T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
