@@ -182,15 +182,18 @@ func main() {
 	urlList := [...]string{
 
 		
-		"https://iptvcat.com/s/osn/mark/osn",
+		"https://iptvcat.com/s/mbc/mark/mbc",
 		"https://iptvcat.com/s/sky/mark/sky",
 		"https://iptvcat.com/s/movie/mark/movie",
 		"https://iptvcat.com/s/star/mark/star",
 		"https://iptvcat.com/s/hbo/mark/hbo",
+		"https://iptvcat.com/s/hallmark/mark/hallmark",
+		"https://iptvcat.com/s/lifetime/mark/lifetime",
+		"https://iptvcat.com/s/cinema/mark/cinema",
+		"https://iptvcat.com/s/lifetime/mark/lifetime",
+		"https://iptvcat.com/s/disney/mark/disney",
+		"https://iptvcat.com/s/netflix/mark/netflix",
 		"https://iptvcat.com/turkey",
-		"https://iptvcat.com/canada",
-		"https://iptvcat.com/united_states_of_america",
-		"https://iptvcat.com/united_kingdom",
 		}
 
 	for _, element := range urlList {
