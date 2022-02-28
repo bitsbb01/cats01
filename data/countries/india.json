@@ -6,7 +6,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-27T00:00:00Z",
+        "lastChecked": "2022-02-28T00:00:00Z",
         "format": "sd",
         "mbps": "1490, ...",
         "URI": [
@@ -20,9 +20,9 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-27T00:00:00Z",
+        "lastChecked": "2022-02-28T00:00:00Z",
         "format": "sd",
-        "mbps": "474, ...",
+        "mbps": "1490, ...",
         "URI": [
             "s"
         ]
@@ -34,7 +34,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-27T00:00:00Z",
+        "lastChecked": "2022-02-28T00:00:00Z",
         "format": "sd",
         "mbps": "1490, ...",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "india",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-02-27T00:00:00Z",
+        "lastChecked": "2022-02-28T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -62,9 +62,9 @@
         "country": "india",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-02-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "lastChecked": "2022-02-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -74,9 +74,9 @@
         "channel": "STAR_GOLD_HD",
         "link": "https://list.iptvcat.com/my_list/s/76398198596e94305972a1dbcd0c34f6.m3u8",
         "country": "india",
-        "liveliness": "88",
+        "liveliness": "86",
         "status": "offline",
-        "lastChecked": "2022-02-27T00:00:00Z",
+        "lastChecked": "2022-02-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -88,9 +88,9 @@
         "channel": "STAR_SPORTS_2",
         "link": "https://list.iptvcat.com/my_list/s/a2ac604bab8e742f209ac1e202361c29.m3u8",
         "country": "india",
-        "liveliness": "81",
+        "liveliness": "82",
         "status": "online",
-        "lastChecked": "2022-02-27T00:00:00Z",
+        "lastChecked": "2022-02-28T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -102,7 +102,7 @@
         "channel": "Star Gold",
         "link": "https://list.iptvcat.com/my_list/s/a4c1d622e861c955113cb3375bf38158.m3u8",
         "country": "india",
-        "liveliness": "42",
+        "liveliness": "41",
         "status": "offline",
         "lastChecked": "2022-02-27T00:00:00Z",
         "format": "fhd 2k",
@@ -112,13 +112,13 @@
         ]
     },
     {
-        "id": "2395410",
-        "channel": "Star Sports2-SD",
-        "link": "https://list.iptvcat.com/my_list/s/27ae976a014e50325f694a920fb2c5ba.m3u8",
+        "id": "2402617",
+        "channel": "Star Jalsha HD",
+        "link": "https://list.iptvcat.com/my_list/s/c6817282633b589c4d31c126f8523a76.m3u8",
         "country": "india",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2022-02-27T00:00:00Z",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -126,11 +126,25 @@
         ]
     },
     {
-        "id": "2395411",
-        "channel": "Star sports HD1",
-        "link": "https://list.iptvcat.com/my_list/s/4770783e894a9685cf5010f48f9bad19.m3u8",
+        "id": "2402627",
+        "channel": "Star Sports 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/963deb3b88c5bc37c5c1220153bf40df.m3u8",
         "country": "india",
-        "liveliness": "30",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2395410",
+        "channel": "Star Sports2-SD",
+        "link": "https://list.iptvcat.com/my_list/s/27ae976a014e50325f694a920fb2c5ba.m3u8",
+        "country": "india",
+        "liveliness": "31",
         "status": "offline",
         "lastChecked": "2022-02-27T00:00:00Z",
         "format": "fhd 2k",
