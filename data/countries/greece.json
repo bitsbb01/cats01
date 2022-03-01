@@ -5,10 +5,10 @@
         "link": "https://list.iptvcat.com/my_list/s/4b8e0208d0e4a915b7f6e199375323f8.m3u8",
         "country": "greece",
         "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2022-02-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "status": "online",
+        "lastChecked": "2022-03-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "s"
         ]
@@ -18,9 +18,9 @@
         "channel": "STAR HD",
         "link": "https://list.iptvcat.com/my_list/s/a2067ec4f9c747593a5e4ee2c0a82bcd.m3u8",
         "country": "greece",
-        "liveliness": "50",
+        "liveliness": "25",
         "status": "offline",
-        "lastChecked": "2022-02-28T00:00:00Z",
+        "lastChecked": "2022-03-01T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -32,11 +32,25 @@
         "channel": "Start TV",
         "link": "https://list.iptvcat.com/my_list/s/21bf6e4523aa93a33cf522da5c9df886.m3u8",
         "country": "greece",
-        "liveliness": "33",
+        "liveliness": "20",
         "status": "offline",
-        "lastChecked": "2022-02-28T00:00:00Z",
+        "lastChecked": "2022-03-01T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2397890",
+        "channel": "Disney Junior",
+        "link": "https://list.iptvcat.com/my_list/s/f8fd5540c69c9a418cb2ed2964ce154b.m3u8",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "s"
         ]
