@@ -6,7 +6,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -20,9 +20,23 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2405616",
+        "channel": "MOVISTAR ACCION HD",
+        "link": "https://list.iptvcat.com/my_list/s/d6103308532da916f21ce339890a370f.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "5007",
         "URI": [
             "s"
         ]
@@ -34,7 +48,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -46,11 +60,53 @@
         "channel": "MOVISTAR COMEDIA",
         "link": "https://list.iptvcat.com/my_list/s/c019f461231a9d340dced63a1fac7dae.m3u8",
         "country": "spain",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "sd",
         "mbps": "5007",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2405657",
+        "channel": "MOVISTAR COMEDIA",
+        "link": "https://list.iptvcat.com/my_list/s/a69bb9f111ba53da547e89da469efb83.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2404931",
+        "channel": "MOVISTAR COMEDIA HD",
+        "link": "https://list.iptvcat.com/my_list/s/563a17c8c7d779f1c61b5a573663f5b3.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "5007",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2405674",
+        "channel": "MOVISTAR DEPORTE HD",
+        "link": "https://list.iptvcat.com/my_list/s/a3589730e07a86b9d485e819dde93348.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -62,7 +118,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -70,15 +126,15 @@
         ]
     },
     {
-        "id": "2395771",
-        "channel": "MOVISTAR DEPORTES 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/6b4db887200092f881ccd0c2b7083e3e.m3u8",
+        "id": "2405620",
+        "channel": "MOVISTAR DEPORTES",
+        "link": "https://list.iptvcat.com/my_list/s/8566f901fb2c69f8fb6a89f09db3d926.m3u8",
         "country": "spain",
-        "liveliness": "61",
-        "status": "offline",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -88,7 +144,7 @@
         "channel": "MOVISTAR DEPORTES 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/b210a1d622ee2f91aad0049d4e0da23e.m3u8",
         "country": "spain",
-        "liveliness": "63",
+        "liveliness": "60",
         "status": "offline",
         "lastChecked": "2022-03-01T00:00:00Z",
         "format": "sd",
@@ -98,15 +154,15 @@
         ]
     },
     {
-        "id": "2395782",
-        "channel": "MOVISTAR DEPORTES HD",
-        "link": "https://list.iptvcat.com/my_list/s/d47fd9cb452b4b98a97fdf0d2fd38134.m3u8",
+        "id": "2405676",
+        "channel": "MOVISTAR DRAMA",
+        "link": "https://list.iptvcat.com/my_list/s/8e32b74cfe5650816a2bd2733acf60fb.m3u8",
         "country": "spain",
-        "liveliness": "65",
-        "status": "offline",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "5007",
         "URI": [
             "s"
         ]
@@ -118,9 +174,51 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2405677",
+        "channel": "MOVISTAR ESTRENOS",
+        "link": "https://list.iptvcat.com/my_list/s/c1bcd50358176e22b07d92b6e928991f.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2405678",
+        "channel": "MOVISTAR ESTRENOS FHD",
+        "link": "https://list.iptvcat.com/my_list/s/fc9bab25db9c685745b95fd94b072191.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "sd",
         "mbps": "5007",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2405621",
+        "channel": "MOVISTAR F1",
+        "link": "https://list.iptvcat.com/my_list/s/34bf96b3fa3e2e5ae5f33747ac3dc12f.m3u8",
+        "country": "spain",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -132,9 +230,9 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "5007",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -146,7 +244,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "sd",
         "mbps": "2098",
         "URI": [
@@ -158,25 +256,11 @@
         "channel": "MOVISTAR FORMULA 1",
         "link": "https://list.iptvcat.com/my_list/s/1fa53cfca77e8111d75475315d77c85a.m3u8",
         "country": "spain",
-        "liveliness": "89",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "sd",
         "mbps": "4532",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2395784",
-        "channel": "MOVISTAR FORMULA 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/4ddd003cdb10d9291875e00cf3f15ff7.m3u8",
-        "country": "spain",
-        "liveliness": "68",
-        "status": "offline",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -186,25 +270,11 @@
         "channel": "MOVISTAR FORMULA 1 SD",
         "link": "https://list.iptvcat.com/my_list/s/7f43ddc049e3d84c30d2d83ff64926b7.m3u8",
         "country": "spain",
-        "liveliness": "57",
+        "liveliness": "52",
         "status": "offline",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "sd",
         "mbps": "4532",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2395783",
-        "channel": "MOVISTAR FOTBOL FHD 4K",
-        "link": "https://list.iptvcat.com/my_list/s/b663d5e895d85ea8f215a0ceb8da03fc.m3u8",
-        "country": "spain",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -216,9 +286,23 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "5007",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2405679",
+        "channel": "MOVISTAR GOLF FHD/HD",
+        "link": "https://list.iptvcat.com/my_list/s/6695f4e56ab9bb14e677eaa92b3cd69f.m3u8",
+        "country": "spain",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
         "URI": [
             "s"
         ]
@@ -228,9 +312,9 @@
         "channel": "MOVISTAR GOLF HD",
         "link": "https://list.iptvcat.com/my_list/s/33da1988b3bff1f5cffa9913d2b397ec.m3u8",
         "country": "spain",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -242,9 +326,9 @@
         "channel": "MOVISTAR LA LIGA 1",
         "link": "https://list.iptvcat.com/my_list/s/33f25b8ff3d6d72908cd1ffd5729d023.m3u8",
         "country": "spain",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "sd",
         "mbps": "11105",
         "URI": [
@@ -258,7 +342,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -266,15 +350,15 @@
         ]
     },
     {
-        "id": "2395769",
-        "channel": "MOVISTAR LALIGA HD",
-        "link": "https://list.iptvcat.com/my_list/s/309996f7cda3ae2588b532331052d6c2.m3u8",
+        "id": "2407256",
+        "channel": "MOVISTAR LaLiga HD",
+        "link": "https://list.iptvcat.com/my_list/s/1877e9abaf57506f4c3d6de21dcb7944.m3u8",
         "country": "spain",
-        "liveliness": "60",
-        "status": "offline",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -284,11 +368,11 @@
         "channel": "MOVISTAR MOTO GP FHD ( SOLO EVENTOS)",
         "link": "https://list.iptvcat.com/my_list/s/63ab6210215b36463e9263d2c8572292.m3u8",
         "country": "spain",
-        "liveliness": "89",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "13873",
         "URI": [
             "s"
         ]
@@ -298,11 +382,11 @@
         "channel": "MOVISTAR MOTO GP HD",
         "link": "https://list.iptvcat.com/my_list/s/d9b8baa1da5d88cc372031f67b204a80.m3u8",
         "country": "spain",
-        "liveliness": "89",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "13873",
         "URI": [
             "s"
         ]
@@ -312,9 +396,37 @@
         "channel": "MOVISTAR SERIES",
         "link": "https://list.iptvcat.com/my_list/s/98c6c9aa6b8b0df6f8250ba8a207edd4.m3u8",
         "country": "spain",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2405681",
+        "channel": "MOVISTAR SERIES",
+        "link": "https://list.iptvcat.com/my_list/s/b0593d61eea4d1e8050bb41d4ef58c5b.m3u8",
+        "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2405853",
+        "channel": "MOVISTAR SERIES FHD",
+        "link": "https://list.iptvcat.com/my_list/s/07ad8bb81b068c365d1a2909456c6fec.m3u8",
+        "country": "spain",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -322,15 +434,99 @@
         ]
     },
     {
-        "id": "2394894",
-        "channel": "MOVISTAR TAQUILLA 4 HD",
-        "link": "https://list.iptvcat.com/my_list/s/ffdb20e20b5c06a79a0237819b4d1d78.m3u8",
+        "id": "2405682",
+        "channel": "MOVISTAR SERIES FHD",
+        "link": "https://list.iptvcat.com/my_list/s/0b14c15a5520f7cd62df5d0b24278494.m3u8",
         "country": "spain",
-        "liveliness": "44",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2405683",
+        "channel": "MOVISTAR SERIESMANIA",
+        "link": "https://list.iptvcat.com/my_list/s/e0494a0f041698cfa410769253f48e65.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2407544",
+        "channel": "MOVISTAR TAQUILLA 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/b1cbb766858d2d23936d0384ad84c57c.m3u8",
+        "country": "spain",
+        "liveliness": "50",
         "status": "offline",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2407548",
+        "channel": "MOVISTAR TAQUILLA 4 HD",
+        "link": "https://list.iptvcat.com/my_list/s/9453c871a777d358c723330a2288bdb1.m3u8",
+        "country": "spain",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2407549",
+        "channel": "MOVISTAR TAQUILLA 5 HD",
+        "link": "https://list.iptvcat.com/my_list/s/2dd3dc20c4bf72a45759fb31f616d1d5.m3u8",
+        "country": "spain",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2407550",
+        "channel": "MOVISTAR TAQUILLA 8 HD",
+        "link": "https://list.iptvcat.com/my_list/s/68b4f8419dfa917d2b2eccd5548c3a2d.m3u8",
+        "country": "spain",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2405685",
+        "channel": "MOVISTAR TOROS HD",
+        "link": "https://list.iptvcat.com/my_list/s/a0060eafaf658a563a334119a5065c67.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -340,9 +536,9 @@
         "channel": "MOVISTAR TOROS TV",
         "link": "https://list.iptvcat.com/my_list/s/3499ca98c12090360e0eb61c3782bad2.m3u8",
         "country": "spain",
-        "liveliness": "88",
+        "liveliness": "82",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
+        "lastChecked": "2022-03-02T00:00:00Z",
         "format": "sd",
         "mbps": "5007",
         "URI": [
@@ -350,197 +546,29 @@
         ]
     },
     {
-        "id": "2401167",
-        "channel": "MOVISTAR+ ACCION 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/fd31ab419145f474fc47de92d6408813.m3u8",
+        "id": "2405635",
+        "channel": "MOVISTAR TOROS TV",
+        "link": "https://list.iptvcat.com/my_list/s/e9b82745416b871652c8e6f1153a99cd.m3u8",
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "5016",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
     },
     {
-        "id": "2401185",
-        "channel": "MOVISTAR+ ACCION 10 HD",
-        "link": "https://list.iptvcat.com/my_list/s/c47d897bd4221d0a55b3307308607ca7.m3u8",
+        "id": "2405638",
+        "channel": "MOVISTAR VAMOS",
+        "link": "https://list.iptvcat.com/my_list/s/837bcbe934142ed448d75ff09b5abc55.m3u8",
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "6272",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2401169",
-        "channel": "MOVISTAR+ ACCION 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/bab052e8a410b80ab76c28d85473f38f.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "6287",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2401171",
-        "channel": "MOVISTAR+ ACCION 3 HD",
-        "link": "https://list.iptvcat.com/my_list/s/484076c0cfa8fc5f735058d9bf7871b6.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "8042",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2401173",
-        "channel": "MOVISTAR+ ACCION 4 HD",
-        "link": "https://list.iptvcat.com/my_list/s/48d0241f99cf6e1e5a45ed9445563692.m3u8",
-        "country": "spain",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "6456",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2401175",
-        "channel": "MOVISTAR+ ACCION 5 HD",
-        "link": "https://list.iptvcat.com/my_list/s/6ec2940e5c86d0cb7bb30ea8ddec0df5.m3u8",
-        "country": "spain",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "6241",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2401177",
-        "channel": "MOVISTAR+ ACCION 6 HD",
-        "link": "https://list.iptvcat.com/my_list/s/cdfbcaf2b2f7fe26dcbd0104c29aea80.m3u8",
-        "country": "spain",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "5016",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2401179",
-        "channel": "MOVISTAR+ ACCION 7 HD",
-        "link": "https://list.iptvcat.com/my_list/s/3ee9770974041ce779fe849e62f11963.m3u8",
-        "country": "spain",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "5224",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2401181",
-        "channel": "MOVISTAR+ ACCION 8 HD",
-        "link": "https://list.iptvcat.com/my_list/s/3929fbb71d7a1ebcdd6b4ae880a61ec1.m3u8",
-        "country": "spain",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "5016",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2401183",
-        "channel": "MOVISTAR+ ACCION 9 HD",
-        "link": "https://list.iptvcat.com/my_list/s/998414259ac068629cf1c698ef10e2ec.m3u8",
-        "country": "spain",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "5041",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2401193",
-        "channel": "MOVISTAR+ LA LIGA BAR HD",
-        "link": "https://list.iptvcat.com/my_list/s/cc63eb70adc404e679a1921f1809f083.m3u8",
-        "country": "spain",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2401187",
-        "channel": "MOVISTAR+ NINOS 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/baeff6ab604a5484bae7ce61598c474a.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "8370",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2401189",
-        "channel": "MOVISTAR+ XTRM HD",
-        "link": "https://list.iptvcat.com/my_list/s/fad6eaaaf24a5072503eb15e2748f46d.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2400925",
-        "channel": "Movistar  Deportes 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/26dc81da8e4c85d8ca0f3cb6edeebfee.m3u8",
-        "country": "spain",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2022-02-28T00:00:00Z",
-        "format": "sd",
-        "mbps": "5007",
+        "lastChecked": "2022-03-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
