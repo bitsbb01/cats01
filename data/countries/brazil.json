@@ -6,7 +6,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-05T00:00:00Z",
+        "lastChecked": "2022-03-06T00:00:00Z",
         "format": "sd",
         "mbps": "2098, ...",
         "URI": [
@@ -18,9 +18,9 @@
         "channel": "HBO 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/4fba3d572524841006dd90c7ec812e94.m3u8",
         "country": "brazil",
-        "liveliness": "46",
-        "status": "online",
-        "lastChecked": "2022-03-05T00:00:00Z",
+        "liveliness": "43",
+        "status": "offline",
+        "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -32,11 +32,25 @@
         "channel": "HBO PLUS HD",
         "link": "https://list.iptvcat.com/my_list/s/444cfc87d0b1f2f66272b4c096ae0d6f.m3u8",
         "country": "brazil",
-        "liveliness": "43",
+        "liveliness": "41",
         "status": "offline",
-        "lastChecked": "2022-03-05T00:00:00Z",
+        "lastChecked": "2022-03-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2213734",
+        "channel": "DISNEY CHANNEL",
+        "link": "https://list.iptvcat.com/my_list/s/e23de8c589756fc323c974ac432f06f1.m3u8",
+        "country": "brazil",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2022-03-06T00:00:00Z",
+        "format": "sd",
+        "mbps": "2771",
         "URI": [
             "s"
         ]
@@ -48,21 +62,7 @@
         "country": "brazil",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-03-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2771",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2213734",
-        "channel": "DISNEY CHANNEL",
-        "link": "https://list.iptvcat.com/my_list/s/e23de8c589756fc323c974ac432f06f1.m3u8",
-        "country": "brazil",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2022-03-05T00:00:00Z",
+        "lastChecked": "2022-03-06T00:00:00Z",
         "format": "sd",
         "mbps": "2771",
         "URI": [
@@ -76,7 +76,7 @@
         "country": "brazil",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2022-03-05T00:00:00Z",
+        "lastChecked": "2022-03-06T00:00:00Z",
         "format": "sd",
         "mbps": "2771",
         "URI": [
@@ -88,11 +88,25 @@
         "channel": "DISNEY CHANNEL HD",
         "link": "https://list.iptvcat.com/my_list/s/feedac47376866addf4f6669cf047cc7.m3u8",
         "country": "brazil",
-        "liveliness": "53",
+        "liveliness": "54",
         "status": "online",
-        "lastChecked": "2022-03-05T00:00:00Z",
+        "lastChecked": "2022-03-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2213739",
+        "channel": "DISNEY JR",
+        "link": "https://list.iptvcat.com/my_list/s/cfb3b19799830e7146eb2e231a26cb29.m3u8",
+        "country": "brazil",
+        "liveliness": "87",
+        "status": "offline",
+        "lastChecked": "2022-03-06T00:00:00Z",
+        "format": "sd",
+        "mbps": "2771",
         "URI": [
             "s"
         ]
@@ -104,7 +118,7 @@
         "country": "brazil",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-03-05T00:00:00Z",
+        "lastChecked": "2022-03-06T00:00:00Z",
         "format": "sd",
         "mbps": "2771",
         "URI": [
@@ -116,23 +130,9 @@
         "channel": "DISNEY JR",
         "link": "https://list.iptvcat.com/my_list/s/8dba2733b7d1e98ad952a6c9a10dac7f.m3u8",
         "country": "brazil",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-03-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2771",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2213739",
-        "channel": "DISNEY JR",
-        "link": "https://list.iptvcat.com/my_list/s/cfb3b19799830e7146eb2e231a26cb29.m3u8",
-        "country": "brazil",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2022-03-05T00:00:00Z",
+        "lastChecked": "2022-03-06T00:00:00Z",
         "format": "sd",
         "mbps": "2771",
         "URI": [
@@ -144,25 +144,11 @@
         "channel": "DISNEY JR HD",
         "link": "https://list.iptvcat.com/my_list/s/f2d96285d9cd71942bb2a71df66656f9.m3u8",
         "country": "brazil",
-        "liveliness": "39",
+        "liveliness": "38",
         "status": "offline",
-        "lastChecked": "2022-03-05T00:00:00Z",
+        "lastChecked": "2022-03-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2188496",
-        "channel": "DISNEY XD",
-        "link": "https://list.iptvcat.com/my_list/s/59f53d6641a767b7f1f6fc80d9ef298a.m3u8",
-        "country": "brazil",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-03-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2771",
         "URI": [
             "s"
         ]
@@ -173,8 +159,8 @@
         "link": "https://list.iptvcat.com/my_list/s/d09d556daed14e76da22cb45d04518b3.m3u8",
         "country": "brazil",
         "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-03-05T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-03-06T00:00:00Z",
         "format": "sd",
         "mbps": "2771",
         "URI": [
@@ -186,9 +172,23 @@
         "channel": "DISNEY XD",
         "link": "https://list.iptvcat.com/my_list/s/a0dac08140e48670d75981604c8bdbc3.m3u8",
         "country": "brazil",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2022-03-05T00:00:00Z",
+        "lastChecked": "2022-03-06T00:00:00Z",
+        "format": "sd",
+        "mbps": "2771",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2188496",
+        "channel": "DISNEY XD",
+        "link": "https://list.iptvcat.com/my_list/s/59f53d6641a767b7f1f6fc80d9ef298a.m3u8",
+        "country": "brazil",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-03-06T00:00:00Z",
         "format": "sd",
         "mbps": "2771",
         "URI": [

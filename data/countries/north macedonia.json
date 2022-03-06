@@ -1,14 +1,28 @@
 [
     {
-        "id": "2400079",
-        "channel": "Star TVⓧ",
-        "link": "https://list.iptvcat.com/my_list/s/67300b51669b005afcfa1119ed3f9ff6.m3u8",
+        "id": "2421897",
+        "channel": "HBO 2",
+        "link": "https://list.iptvcat.com/my_list/s/ac91102cd5c15b396118573485a3e05f.m3u8",
         "country": "north macedonia",
-        "liveliness": "45",
-        "status": "offline",
-        "lastChecked": "2022-03-02T00:00:00Z",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2421898",
+        "channel": "HBO 3",
+        "link": "https://list.iptvcat.com/my_list/s/13a03beb51c8424019441e5c0995efac.m3u8",
+        "country": "north macedonia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "s"
         ]
