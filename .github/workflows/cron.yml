@@ -3,8 +3,8 @@ name: Scrape Cron
 on:
   workflow_dispatch:
   schedule:
-  #starts are 6.10am UTC or 12.10 Central time
-    - cron: "10 6 * * *"
+  #starts are every day at 6:30 and 17:30 UTC:
+  - cron:  '30 6,17 * * *'
   push:
     branches:
     - master
