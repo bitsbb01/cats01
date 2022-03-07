@@ -6,7 +6,7 @@
         "country": "czech republic",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "2098",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "czech republic",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "2098",
         "URI": [
@@ -42,20 +42,6 @@
         ]
     },
     {
-        "id": "2419387",
-        "channel": "HBO 3",
-        "link": "https://list.iptvcat.com/my_list/s/b8d21dd603f7a54baaabf2e56139f914.m3u8",
-        "country": "czech republic",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2417526",
         "channel": "HBO 3",
         "link": "https://list.iptvcat.com/my_list/s/78d7cc75d70980b7fca4196634d6c937.m3u8",
@@ -70,13 +56,27 @@
         ]
     },
     {
+        "id": "2419387",
+        "channel": "HBO 3",
+        "link": "https://list.iptvcat.com/my_list/s/b8d21dd603f7a54baaabf2e56139f914.m3u8",
+        "country": "czech republic",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-03-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2388638",
         "channel": "HBO 3",
         "link": "https://list.iptvcat.com/my_list/s/367b4cfd0e7dd2a037bb17ba06888cc3.m3u8",
         "country": "czech republic",
-        "liveliness": "79",
+        "liveliness": "80",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -102,25 +102,11 @@
         "channel": "HBO FHD",
         "link": "https://list.iptvcat.com/my_list/s/c53dd68187e887a959e4f7d990384414.m3u8",
         "country": "czech republic",
-        "liveliness": "79",
+        "liveliness": "80",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2416764",
-        "channel": "HBO HD",
-        "link": "https://list.iptvcat.com/my_list/s/7377741a837bba8c02f3bc3bcc260bb1.m3u8",
-        "country": "czech republic",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -140,13 +126,27 @@
         ]
     },
     {
+        "id": "2416764",
+        "channel": "HBO HD",
+        "link": "https://list.iptvcat.com/my_list/s/7377741a837bba8c02f3bc3bcc260bb1.m3u8",
+        "country": "czech republic",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-03-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2416770",
         "channel": "HBO2",
         "link": "https://list.iptvcat.com/my_list/s/f77d87886ac696a8544fde6f3a76bbd0.m3u8",
         "country": "czech republic",
-        "liveliness": "67",
-        "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "liveliness": "60",
+        "status": "offline",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -186,9 +186,9 @@
         "channel": "Nova Cinema HD",
         "link": "https://list.iptvcat.com/my_list/s/f006fc12c9b777fdd727aa49a89642a3.m3u8",
         "country": "czech republic",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -210,29 +210,29 @@
         ]
     },
     {
-        "id": "2388616",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/52a730f7c56714b94e2b2547eb9187d6.m3u8",
-        "country": "czech republic",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2416721",
         "channel": "Disney Channel",
         "link": "https://list.iptvcat.com/my_list/s/d38a0328a39199350ce00f2914868e36.m3u8",
         "country": "czech republic",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
-        "mbps": "1509",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2388616",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/52a730f7c56714b94e2b2547eb9187d6.m3u8",
+        "country": "czech republic",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2022-03-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "s"
         ]
