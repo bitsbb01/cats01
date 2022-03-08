@@ -21,8 +21,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-08T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795, ...",
+        "format": "sd",
+        "mbps": "663",
         "URI": [
             "s"
         ]
@@ -61,7 +61,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a0e99eb55b5861ba7f8da109b64a2cad.m3u8",
         "country": "undefined",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-08T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
@@ -75,7 +75,7 @@
         "link": "https://list.iptvcat.com/my_list/s/fb5bd0c9c44096e14c8ba16b6684d8fe.m3u8",
         "country": "undefined",
         "liveliness": "73",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-08T00:00:00Z",
         "format": "sd",
         "mbps": "1567",
@@ -98,25 +98,25 @@
         ]
     },
     {
-        "id": "957077",
-        "channel": "Hallmark Movies \u0026 More",
-        "link": "https://list.iptvcat.com/my_list/s/7ed8d42cbdabc12bfc88a78b96dcaa73.m3u8",
-        "country": "undefined",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-08T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "1162474",
         "channel": "Hallmark Movies \u0026 More, Hallmark Movies \u0026 More : HD",
         "link": "https://list.iptvcat.com/my_list/s/b7b950bb142b2feff5283a19a599b065.m3u8",
         "country": "undefined",
         "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2022-03-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957077",
+        "channel": "Hallmark Movies \u0026 More",
+        "link": "https://list.iptvcat.com/my_list/s/7ed8d42cbdabc12bfc88a78b96dcaa73.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-08T00:00:00Z",
         "format": "hd",
