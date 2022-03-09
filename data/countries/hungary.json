@@ -4,7 +4,7 @@
         "channel": "Sony Movie Channel",
         "link": "https://list.iptvcat.com/my_list/s/449e66e44bce3c751a7093ad7e218905.m3u8",
         "country": "hungary",
-        "liveliness": "85",
+        "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-03-09T00:00:00Z",
         "format": "fhd 2k",
@@ -21,8 +21,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-03-09T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -32,7 +32,7 @@
         "channel": "HBO 2",
         "link": "https://list.iptvcat.com/my_list/s/51bb2d497b81375cb67f595d4b88018a.m3u8",
         "country": "hungary",
-        "liveliness": "58",
+        "liveliness": "54",
         "status": "offline",
         "lastChecked": "2022-03-09T00:00:00Z",
         "format": "sd",
@@ -46,11 +46,11 @@
         "channel": "HBO 2",
         "link": "https://list.iptvcat.com/my_list/s/b88352d5e3249856da46150f3e0b8b5b.m3u8",
         "country": "hungary",
-        "liveliness": "80",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-03-09T00:00:00Z",
         "format": "sd",
-        "mbps": "1509",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -74,7 +74,21 @@
         "channel": "HBO 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/2a0ef6ff9eacc203c5e3cf1f53eb7def.m3u8",
         "country": "hungary",
-        "liveliness": "92",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-03-09T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2419675",
+        "channel": "HBO 3",
+        "link": "https://list.iptvcat.com/my_list/s/d19940cc993231d66d4f4f99ccfb2035.m3u8",
+        "country": "hungary",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-03-09T00:00:00Z",
         "format": "fhd 2k",
@@ -88,25 +102,11 @@
         "channel": "HBO 3",
         "link": "https://list.iptvcat.com/my_list/s/2ca29420393eded8942cf7993dd27cbc.m3u8",
         "country": "hungary",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2022-03-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2419675",
-        "channel": "HBO 3",
-        "link": "https://list.iptvcat.com/my_list/s/d19940cc993231d66d4f4f99ccfb2035.m3u8",
-        "country": "hungary",
-        "liveliness": "92",
+        "liveliness": "42",
         "status": "online",
         "lastChecked": "2022-03-09T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -130,7 +130,7 @@
         "channel": "HBO HD",
         "link": "https://list.iptvcat.com/my_list/s/c4dd9157a11263ff9271939d49180c1b.m3u8",
         "country": "hungary",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-03-09T00:00:00Z",
         "format": "fhd 2k",
@@ -144,7 +144,7 @@
         "channel": "HBO2",
         "link": "https://list.iptvcat.com/my_list/s/e22bc45d6b24c48eb3ce7b3a99114f58.m3u8",
         "country": "hungary",
-        "liveliness": "71",
+        "liveliness": "63",
         "status": "offline",
         "lastChecked": "2022-03-09T00:00:00Z",
         "format": "sd",

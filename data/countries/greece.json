@@ -4,7 +4,7 @@
         "channel": "4E Star",
         "link": "https://list.iptvcat.com/my_list/s/aa23a397ddb3bc323e13803ec1787f7e.m3u8",
         "country": "greece",
-        "liveliness": "44",
+        "liveliness": "40",
         "status": "offline",
         "lastChecked": "2022-03-09T00:00:00Z",
         "format": "hd",
@@ -42,20 +42,6 @@
         ]
     },
     {
-        "id": "2433430",
-        "channel": "STAR",
-        "link": "https://list.iptvcat.com/my_list/s/3de468fdc9c8724b449dfc2ab296d888.m3u8",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2397857",
         "channel": "STAR",
         "link": "https://list.iptvcat.com/my_list/s/4b8e0208d0e4a915b7f6e199375323f8.m3u8",
@@ -65,6 +51,20 @@
         "lastChecked": "2022-03-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2433430",
+        "channel": "STAR",
+        "link": "https://list.iptvcat.com/my_list/s/3de468fdc9c8724b449dfc2ab296d888.m3u8",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-09T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -87,6 +87,34 @@
         "id": "2432944",
         "channel": "Star",
         "link": "https://list.iptvcat.com/my_list/s/23263b7426025c047a32bb0866054907.m3u8",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-09T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2427499",
+        "channel": "Star GR",
+        "link": "https://list.iptvcat.com/my_list/s/59060c2081f7f539ed55328eddfdc92a.m3u8",
+        "country": "greece",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-03-09T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2432945",
+        "channel": "Start TV",
+        "link": "https://list.iptvcat.com/my_list/s/ee7bcee639b159da32d2079de7943dfd.m3u8",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
