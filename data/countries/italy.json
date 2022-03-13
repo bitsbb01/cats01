@@ -4,7 +4,7 @@
         "channel": "RAI MOVIE FULL HD",
         "link": "https://list.iptvcat.com/my_list/s/6a060fbdb9fdf3b6a2047055df1f0b17.m3u8",
         "country": "italy",
-        "liveliness": "89",
+        "liveliness": "85",
         "status": "offline",
         "lastChecked": "2022-03-13T00:00:00Z",
         "format": "fhd 2k",
@@ -18,7 +18,7 @@
         "channel": "RAI MOVIE HD",
         "link": "https://list.iptvcat.com/my_list/s/ad4e38b9fd1a1460aba4d7b14dbd9852.m3u8",
         "country": "italy",
-        "liveliness": "23",
+        "liveliness": "20",
         "status": "offline",
         "lastChecked": "2022-03-13T00:00:00Z",
         "format": "fhd 2k",
@@ -32,7 +32,7 @@
         "channel": "RAI MOVIE HD",
         "link": "https://list.iptvcat.com/my_list/s/04f2340e27f981104496bff603b6e63e.m3u8",
         "country": "italy",
-        "liveliness": "89",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-03-13T00:00:00Z",
         "format": "hd",
@@ -46,7 +46,7 @@
         "channel": "Rai Movie",
         "link": "https://list.iptvcat.com/my_list/s/add014034f9214d9fc6e256574668f8e.m3u8",
         "country": "italy",
-        "liveliness": "42",
+        "liveliness": "38",
         "status": "offline",
         "lastChecked": "2022-03-13T00:00:00Z",
         "format": "fhd 2k",
@@ -75,10 +75,10 @@
         "link": "https://list.iptvcat.com/my_list/s/e14edb2453d923a8e9b9726ace1981bc.m3u8",
         "country": "italy",
         "liveliness": "66",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -88,7 +88,7 @@
         "channel": "Rai Movie HD",
         "link": "https://list.iptvcat.com/my_list/s/a5aff613c8b9afcc752d0ab8cda6bbd5.m3u8",
         "country": "italy",
-        "liveliness": "35",
+        "liveliness": "32",
         "status": "offline",
         "lastChecked": "2022-03-13T00:00:00Z",
         "format": "fhd 2k",
@@ -116,11 +116,39 @@
         "channel": "Rai Movie HD+",
         "link": "https://list.iptvcat.com/my_list/s/bc9212f2f92075ebae17b48e3133e0f2.m3u8",
         "country": "italy",
-        "liveliness": "47",
+        "liveliness": "50",
         "status": "online",
         "lastChecked": "2022-03-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2442757",
+        "channel": "VIP Rai Movie FHD",
+        "link": "https://list.iptvcat.com/my_list/s/d4c800dc01d09032e616b97f5c541523.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-13T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2442758",
+        "channel": "VIP Rai Movie HD",
+        "link": "https://list.iptvcat.com/my_list/s/0072c6a91e7e7c547b2e3111314477a5.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]

@@ -4,7 +4,7 @@
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/a7fc82e34895fdcff34d1636a18cf7bc.m3u8",
         "country": "netherlands",
-        "liveliness": "42",
+        "liveliness": "40",
         "status": "offline",
         "lastChecked": "2022-03-13T00:00:00Z",
         "format": "fhd 2k",
@@ -18,7 +18,7 @@
         "channel": "HBO 2",
         "link": "https://list.iptvcat.com/my_list/s/3b05cb00195548d509b7aa0eae8fdbc1.m3u8",
         "country": "netherlands",
-        "liveliness": "58",
+        "liveliness": "56",
         "status": "offline",
         "lastChecked": "2022-03-13T00:00:00Z",
         "format": "fhd 2k",
@@ -36,7 +36,7 @@
         "status": "online",
         "lastChecked": "2022-03-13T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -46,7 +46,7 @@
         "channel": "HBO 3",
         "link": "https://list.iptvcat.com/my_list/s/64b9e94c5854667230fbfe27d6422130.m3u8",
         "country": "netherlands",
-        "liveliness": "54",
+        "liveliness": "52",
         "status": "offline",
         "lastChecked": "2022-03-13T00:00:00Z",
         "format": "fhd 2k",
@@ -60,7 +60,7 @@
         "channel": "HBO 3 HD NL",
         "link": "https://list.iptvcat.com/my_list/s/daded746994625cec2c04209cd618d13.m3u8",
         "country": "netherlands",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-03-13T00:00:00Z",
         "format": "sd",
@@ -74,11 +74,53 @@
         "channel": "HBO HD",
         "link": "https://list.iptvcat.com/my_list/s/9b1e9f241db8f9368d807b679e002845.m3u8",
         "country": "netherlands",
-        "liveliness": "56",
+        "liveliness": "54",
         "status": "offline",
         "lastChecked": "2022-03-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2444523",
+        "channel": "VIP HBO 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/ed5508baeb484c5c12583668f753c585.m3u8",
+        "country": "netherlands",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-13T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2444524",
+        "channel": "VIP HBO 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/dfe38f802bd84d7acc72168005a9b29f.m3u8",
+        "country": "netherlands",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-13T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2444525",
+        "channel": "VIP HBO 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/2f5b0fa09639a4bc35b3cfbff3c7020c.m3u8",
+        "country": "netherlands",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-13T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
