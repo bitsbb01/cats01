@@ -231,8 +231,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -288,7 +288,7 @@
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "sd",
-        "mbps": "2473",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -316,7 +316,7 @@
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -330,7 +330,7 @@
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -383,10 +383,10 @@
         "link": "https://list.iptvcat.com/my_list/s/d302b11f2223371dfacd0ed22ef0bfb3.m3u8",
         "country": "arab countries",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -415,6 +415,20 @@
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2446347",
+        "channel": "MBC 3",
+        "link": "https://list.iptvcat.com/my_list/s/06d761413a3bc400e215ea5476ee344d.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-16T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -526,7 +540,7 @@
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -588,6 +602,20 @@
         ]
     },
     {
+        "id": "2446238",
+        "channel": "MBC 5 MAROC",
+        "link": "https://list.iptvcat.com/my_list/s/40ad84b15cbc2772aac4221f09456f2f.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2346084",
         "channel": "MBC ACTION HD  ™",
         "link": "https://list.iptvcat.com/my_list/s/1208dadab3172bca291a7ad90fc33ea8.m3u8",
@@ -637,8 +665,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -830,7 +858,7 @@
         "channel": "MBC MASR +2H",
         "link": "https://list.iptvcat.com/my_list/s/2b93d998219690d9d47be4883bcb253a.m3u8",
         "country": "arab countries",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
@@ -928,7 +956,7 @@
         "channel": "MBC MAX +2H",
         "link": "https://list.iptvcat.com/my_list/s/d92216145bdcdf0cd85477d89756a609.m3u8",
         "country": "arab countries",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "sd",
@@ -1025,34 +1053,6 @@
         "id": "2346096",
         "channel": "MBC+ DRAMA HD",
         "link": "https://list.iptvcat.com/my_list/s/5daf8ab97c3c1b10be483f94f2a65b3d.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2378812",
-        "channel": "MBC+ Drama 4K",
-        "link": "https://list.iptvcat.com/my_list/s/ce815a7a6acbc791f46a84b1aca068da.m3u8",
-        "country": "arab countries",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2346097",
-        "channel": "MBC+ Drama HD +2H",
-        "link": "https://list.iptvcat.com/my_list/s/4fd8ea994d09bfd89f717403545513a5.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -1226,7 +1226,7 @@
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4825",
+        "mbps": "4821",
         "URI": [
             "s"
         ]
@@ -1310,7 +1310,7 @@
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4825",
+        "mbps": "4821",
         "URI": [
             "s"
         ]
@@ -1390,11 +1390,11 @@
         "channel": "NETFLIX Discovery",
         "link": "https://list.iptvcat.com/my_list/s/64c8cf7c70d2c6b6c3bf12076e9d8ecd.m3u8",
         "country": "arab countries",
-        "liveliness": "94",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "6724",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -1446,7 +1446,7 @@
         "channel": "NETFLIX PREMIUM 1 FHD",
         "link": "https://list.iptvcat.com/my_list/s/f81173b1e39954ddb9515d0ba418055c.m3u8",
         "country": "arab countries",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "fhd 2k",
@@ -1656,7 +1656,7 @@
         "channel": "Netflix 10",
         "link": "https://list.iptvcat.com/my_list/s/e771212a5fdad635f43a03b18fab1e45.m3u8",
         "country": "arab countries",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
@@ -1670,7 +1670,7 @@
         "channel": "Netflix 11",
         "link": "https://list.iptvcat.com/my_list/s/099a0bfdeb2bd7195935e558e1cc6405.m3u8",
         "country": "arab countries",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "fhd 2k",
@@ -1698,8 +1698,8 @@
         "channel": "Netflix 13",
         "link": "https://list.iptvcat.com/my_list/s/f033b70e3599af3ab985140327685787.m3u8",
         "country": "arab countries",
-        "liveliness": "77",
-        "status": "online",
+        "liveliness": "76",
+        "status": "offline",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
@@ -1713,7 +1713,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1d531fe8ecb5df59f29d2b114ccd5c04.m3u8",
         "country": "arab countries",
         "liveliness": "75",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "10017",
@@ -1768,8 +1768,8 @@
         "channel": "Netflix 4",
         "link": "https://list.iptvcat.com/my_list/s/02da301bd0e8cef3dd900f54f0a2a151.m3u8",
         "country": "arab countries",
-        "liveliness": "92",
-        "status": "offline",
+        "liveliness": "91",
+        "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "4825",
@@ -1796,7 +1796,7 @@
         "channel": "Netflix 6",
         "link": "https://list.iptvcat.com/my_list/s/d2cce30dac091621bdc56a2d13cf6c08.m3u8",
         "country": "arab countries",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
@@ -1811,7 +1811,7 @@
         "link": "https://list.iptvcat.com/my_list/s/f5452a1c8ae6fdf34150b5774ec1aeee.m3u8",
         "country": "arab countries",
         "liveliness": "86",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "4825",
@@ -1824,7 +1824,7 @@
         "channel": "Netflix 8",
         "link": "https://list.iptvcat.com/my_list/s/45daab4cc20d097a751da7e6c98d53e2.m3u8",
         "country": "arab countries",
-        "liveliness": "86",
+        "liveliness": "85",
         "status": "offline",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
@@ -1838,8 +1838,8 @@
         "channel": "Netflix 9",
         "link": "https://list.iptvcat.com/my_list/s/e972243c32b0a140e78d2474cd05ecf8.m3u8",
         "country": "arab countries",
-        "liveliness": "86",
-        "status": "online",
+        "liveliness": "85",
+        "status": "offline",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "4825",
@@ -1856,7 +1856,7 @@
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4825",
+        "mbps": "4821",
         "URI": [
             "s"
         ]
@@ -1870,7 +1870,7 @@
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4825",
+        "mbps": "4821",
         "URI": [
             "s"
         ]
@@ -1881,7 +1881,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a19ba49fc707cd860264bb66d563d979.m3u8",
         "country": "arab countries",
         "liveliness": "66",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "4821",
@@ -1894,7 +1894,7 @@
         "channel": "Netflix Horror 1",
         "link": "https://list.iptvcat.com/my_list/s/f5d5285f321d9406731a1922f1cefcc1.m3u8",
         "country": "arab countries",
-        "liveliness": "63",
+        "liveliness": "64",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
@@ -1908,7 +1908,7 @@
         "channel": "Netflix Romance 1",
         "link": "https://list.iptvcat.com/my_list/s/48f7401205293ab41e28ccca53539991.m3u8",
         "country": "arab countries",
-        "liveliness": "62",
+        "liveliness": "61",
         "status": "offline",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
@@ -1922,7 +1922,7 @@
         "channel": "Netflix Romance 2",
         "link": "https://list.iptvcat.com/my_list/s/6606c2070f534770e51ca76246d44ad6.m3u8",
         "country": "arab countries",
-        "liveliness": "51",
+        "liveliness": "49",
         "status": "offline",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",
@@ -1936,7 +1936,7 @@
         "channel": "Netflix Sci-Fi",
         "link": "https://list.iptvcat.com/my_list/s/1ff5616877f38f6681ef6df8b84543a3.m3u8",
         "country": "arab countries",
-        "liveliness": "74",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "hd",

@@ -4,7 +4,7 @@
         "channel": "AXN MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/19cc6def6ce94a32122edc2926289be0.m3u8",
         "country": "portugal",
-        "liveliness": "10",
+        "liveliness": "9",
         "status": "offline",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "sd",
@@ -32,7 +32,7 @@
         "channel": "AXN MOVIES FHD PT",
         "link": "https://list.iptvcat.com/my_list/s/9e605113dbc19c137b636a2037af7464.m3u8",
         "country": "portugal",
-        "liveliness": "78",
+        "liveliness": "74",
         "status": "offline",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "fhd 2k",
@@ -46,7 +46,7 @@
         "channel": "AXN MOVIES H.265/HEVC",
         "link": "https://list.iptvcat.com/my_list/s/7865693bda509aa75740949240c08096.m3u8",
         "country": "portugal",
-        "liveliness": "100",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "fhd 2k",
@@ -102,7 +102,7 @@
         "channel": "FOX MOVIES FHD PT",
         "link": "https://list.iptvcat.com/my_list/s/472a93c2fcccded81040eed0922e0af7.m3u8",
         "country": "portugal",
-        "liveliness": "78",
+        "liveliness": "76",
         "status": "offline",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "sd",
@@ -116,7 +116,7 @@
         "channel": "FOX MOVIES H.265/HEVC",
         "link": "https://list.iptvcat.com/my_list/s/ba3effe35835670697441f748e40552b.m3u8",
         "country": "portugal",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "fhd 2k",
@@ -144,11 +144,25 @@
         "channel": "FOX Movies",
         "link": "https://list.iptvcat.com/my_list/s/8892d78fac91b9fbe459fbe4ac6919f6.m3u8",
         "country": "portugal",
-        "liveliness": "86",
+        "liveliness": "85",
         "status": "offline",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2403902",
+        "channel": "FOX Movies",
+        "link": "https://list.iptvcat.com/my_list/s/c14dea5ac9c6ac099ead1f2cb5a0e6db.m3u8",
+        "country": "portugal",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-03-16T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -168,25 +182,11 @@
         ]
     },
     {
-        "id": "2403902",
-        "channel": "FOX Movies",
-        "link": "https://list.iptvcat.com/my_list/s/c14dea5ac9c6ac099ead1f2cb5a0e6db.m3u8",
-        "country": "portugal",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-03-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2441202",
         "channel": "MOVIES DISNEY EXCLUSIVO",
         "link": "https://list.iptvcat.com/my_list/s/17581ca552802ec72e7dde539eea0f73.m3u8",
         "country": "portugal",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
         "format": "sd",
@@ -200,11 +200,11 @@
         "channel": "NETFLIX EXCLUSIVO",
         "link": "https://list.iptvcat.com/my_list/s/6fd8913560631f6cd7f0956879b5fca1.m3u8",
         "country": "portugal",
-        "liveliness": "83",
+        "liveliness": "85",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -214,11 +214,11 @@
         "channel": "NETFLIX KIDS EXCLUSIVO",
         "link": "https://list.iptvcat.com/my_list/s/88c26dc30d0504d2c025e703041dab97.m3u8",
         "country": "portugal",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-03-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "2442",
         "URI": [
             "s"
         ]
