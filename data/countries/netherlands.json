@@ -4,7 +4,7 @@
         "channel": "HBO 2 HD NL",
         "link": "https://list.iptvcat.com/my_list/s/3d7397dc1451cd879b301c867936832f.m3u8",
         "country": "netherlands",
-        "liveliness": "64",
+        "liveliness": "61",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -18,7 +18,7 @@
         "channel": "HBO 3 HD NL",
         "link": "https://list.iptvcat.com/my_list/s/daded746994625cec2c04209cd618d13.m3u8",
         "country": "netherlands",
-        "liveliness": "61",
+        "liveliness": "58",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -74,11 +74,25 @@
         "channel": "DISNEY CHANNEL HD",
         "link": "https://list.iptvcat.com/my_list/s/8253d28190af3a30a216c9f87eefba3e.m3u8",
         "country": "netherlands",
-        "liveliness": "56",
+        "liveliness": "55",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2444530",
+        "channel": "DISNEY CHANNEL NEDERLAND",
+        "link": "https://list.iptvcat.com/my_list/s/4ecca7cd8fe3d1cc5e3bd8a98f13ed09.m3u8",
+        "country": "netherlands",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
