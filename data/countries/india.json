@@ -47,10 +47,10 @@
         "link": "https://list.iptvcat.com/my_list/s/b42272fd15bccfc71179482b9686ea46.m3u8",
         "country": "india",
         "liveliness": "94",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-20T00:00:00Z",
         "format": "sd",
-        "mbps": "2369",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -60,11 +60,25 @@
         "channel": "Star Gold",
         "link": "https://list.iptvcat.com/my_list/s/a4c1d622e861c955113cb3375bf38158.m3u8",
         "country": "india",
-        "liveliness": "34",
-        "status": "online",
+        "liveliness": "33",
+        "status": "offline",
         "lastChecked": "2022-03-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2402617",
+        "channel": "Star Jalsha HD",
+        "link": "https://list.iptvcat.com/my_list/s/c6817282633b589c4d31c126f8523a76.m3u8",
+        "country": "india",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-20T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
