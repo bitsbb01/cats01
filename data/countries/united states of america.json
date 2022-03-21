@@ -4,7 +4,7 @@
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/74ee51551b1d2b98125823ce996c1c34.m3u8",
         "country": "united states of america",
-        "liveliness": "58",
+        "liveliness": "56",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
@@ -60,7 +60,7 @@
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/7f4b6da4bf7bbd211519d04628c103b0.m3u8",
         "country": "united states of america",
-        "liveliness": "81",
+        "liveliness": "79",
         "status": "online",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
@@ -74,7 +74,7 @@
         "channel": "HBO 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/a6174aa95f5a8a4360fad3120a36de03.m3u8",
         "country": "united states of america",
-        "liveliness": "71",
+        "liveliness": "65",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
@@ -89,10 +89,10 @@
         "link": "https://list.iptvcat.com/my_list/s/abe4ec88e175f2f8e1e633a330cf285e.m3u8",
         "country": "united states of america",
         "liveliness": "53",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "3789",
         "URI": [
             "s"
         ]
@@ -102,39 +102,11 @@
         "channel": "HBO COMEDY HD",
         "link": "https://list.iptvcat.com/my_list/s/8151c722adad750cc3cf9462acdc5a33.m3u8",
         "country": "united states of america",
-        "liveliness": "64",
+        "liveliness": "59",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2430018",
-        "channel": "HBO Comedy",
-        "link": "https://list.iptvcat.com/my_list/s/31a30ed7eb0f47dc8b376df6928d3bb6.m3u8",
-        "country": "united states of america",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2022-03-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2448567",
-        "channel": "HBO Comedy",
-        "link": "https://list.iptvcat.com/my_list/s/2387c2ac36281fcc69e6ff2ba73e5c15.m3u8",
-        "country": "united states of america",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
         "URI": [
             "s"
         ]
@@ -154,12 +126,26 @@
         ]
     },
     {
+        "id": "2448567",
+        "channel": "HBO Comedy",
+        "link": "https://list.iptvcat.com/my_list/s/2387c2ac36281fcc69e6ff2ba73e5c15.m3u8",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-21T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2290110",
         "channel": "HBO Comedy HD",
         "link": "https://list.iptvcat.com/my_list/s/2a4c3cae4dc1756f9b4b7da166640cc2.m3u8",
         "country": "united states of america",
         "liveliness": "54",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -182,11 +168,67 @@
         ]
     },
     {
+        "id": "2441496",
+        "channel": "HBO FAMILY HD",
+        "link": "https://list.iptvcat.com/my_list/s/e9187764d9345b0569708cf118cf0f13.m3u8",
+        "country": "united states of america",
+        "liveliness": "60",
+        "status": "offline",
+        "lastChecked": "2022-03-21T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2378320",
+        "channel": "HBO Family",
+        "link": "https://list.iptvcat.com/my_list/s/67c11454e3fa69a478b4a18c847b1386.m3u8",
+        "country": "united states of america",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2022-03-21T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2445159",
+        "channel": "HBO Family HD",
+        "link": "https://list.iptvcat.com/my_list/s/8b3eb4f7fb0a94689fc69c406fcb879b.m3u8",
+        "country": "united states of america",
+        "liveliness": "65",
+        "status": "offline",
+        "lastChecked": "2022-03-21T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2290112",
+        "channel": "HBO Family HD",
+        "link": "https://list.iptvcat.com/my_list/s/b040466deb653f9d83654b8bfebb425f.m3u8",
+        "country": "united states of america",
+        "liveliness": "59",
+        "status": "online",
+        "lastChecked": "2022-03-21T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2435979",
         "channel": "HALLMARK CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/64c999a67bf997f49aa3bbaffbad8fec.m3u8",
         "country": "united states of america",
-        "liveliness": "88",
+        "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "hd",
@@ -200,7 +242,7 @@
         "channel": "HALLMARK CHANNEL HD",
         "link": "https://list.iptvcat.com/my_list/s/d333f965129ebf254e7adc06341bbeab.m3u8",
         "country": "united states of america",
-        "liveliness": "66",
+        "liveliness": "61",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "hd",
@@ -214,7 +256,7 @@
         "channel": "HALLMARK MOVIES \u0026 MYSTERIES",
         "link": "https://list.iptvcat.com/my_list/s/dd213ddb9e39f712bf8e7fa02ac12443.m3u8",
         "country": "united states of america",
-        "liveliness": "63",
+        "liveliness": "59",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
@@ -224,11 +266,11 @@
         ]
     },
     {
-        "id": "2448661",
+        "id": "2378327",
         "channel": "Hallmark Channel",
-        "link": "https://list.iptvcat.com/my_list/s/19b4aef9d35e2d3309c214b2967f065c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/122346005005a56de9c059baa5ffaa85.m3u8",
         "country": "united states of america",
-        "liveliness": "62",
+        "liveliness": "85",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "hd",
@@ -238,11 +280,11 @@
         ]
     },
     {
-        "id": "2378327",
+        "id": "2448661",
         "channel": "Hallmark Channel",
-        "link": "https://list.iptvcat.com/my_list/s/122346005005a56de9c059baa5ffaa85.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/19b4aef9d35e2d3309c214b2967f065c.m3u8",
         "country": "united states of america",
-        "liveliness": "86",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "hd",
@@ -257,7 +299,7 @@
         "link": "https://list.iptvcat.com/my_list/s/2f24f4dc6ad281ed14eb94f18b35e8ee.m3u8",
         "country": "united states of america",
         "liveliness": "56",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
@@ -270,7 +312,7 @@
         "channel": "Hallmark Channel HD",
         "link": "https://list.iptvcat.com/my_list/s/f7f657c864589919633fbb7bb590af39.m3u8",
         "country": "united states of america",
-        "liveliness": "72",
+        "liveliness": "67",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "hd",
@@ -284,8 +326,22 @@
         "channel": "Hallmark Drama",
         "link": "https://list.iptvcat.com/my_list/s/06a089365581e594486ca35e4a19cacd.m3u8",
         "country": "united states of america",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
+        "lastChecked": "2022-03-21T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2290104",
+        "channel": "Hallmark Drama HD",
+        "link": "https://list.iptvcat.com/my_list/s/61734a750bb8a841f40bc715375fbb34.m3u8",
+        "country": "united states of america",
+        "liveliness": "58",
+        "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -298,7 +354,7 @@
         "channel": "Hallmark Drama HD",
         "link": "https://list.iptvcat.com/my_list/s/de5a9805f532f59cd9b1343de7ee9ff8.m3u8",
         "country": "united states of america",
-        "liveliness": "72",
+        "liveliness": "67",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
@@ -308,25 +364,11 @@
         ]
     },
     {
-        "id": "2290104",
-        "channel": "Hallmark Drama HD",
-        "link": "https://list.iptvcat.com/my_list/s/61734a750bb8a841f40bc715375fbb34.m3u8",
-        "country": "united states of america",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2022-03-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2416482",
         "channel": "Hallmark Movies \u0026 Mysteries",
         "link": "https://list.iptvcat.com/my_list/s/329def3cf792efe661bd4b8b4a013b15.m3u8",
         "country": "united states of america",
-        "liveliness": "32",
+        "liveliness": "31",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
@@ -343,8 +385,8 @@
         "liveliness": "51",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "fhd 2k",
+        "mbps": "13311",
         "URI": [
             "s"
         ]
@@ -427,8 +469,8 @@
         "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-03-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -441,8 +483,8 @@
         "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-03-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -452,7 +494,7 @@
         "channel": "Lifetime HD",
         "link": "https://list.iptvcat.com/my_list/s/eff3404b0f388573dbcf64aa74ebc96f.m3u8",
         "country": "united states of america",
-        "liveliness": "63",
+        "liveliness": "58",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
@@ -480,7 +522,7 @@
         "channel": "Lifetime Movie Network",
         "link": "https://list.iptvcat.com/my_list/s/f87095e6334281cc1b163cf11dfd73bb.m3u8",
         "country": "united states of america",
-        "liveliness": "24",
+        "liveliness": "23",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
@@ -494,7 +536,7 @@
         "channel": "Lifetime Movie Network",
         "link": "https://list.iptvcat.com/my_list/s/2d7647bed787282690e693540f820a83.m3u8",
         "country": "united states of america",
-        "liveliness": "39",
+        "liveliness": "40",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
@@ -508,21 +550,7 @@
         "channel": "Lifetime Movie Network",
         "link": "https://list.iptvcat.com/my_list/s/76a748b78c33667a986daddaa97af805.m3u8",
         "country": "united states of america",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2022-03-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2404541",
-        "channel": "Lifetime Movie Network",
-        "link": "https://list.iptvcat.com/my_list/s/3229a3a4566dd8b0e5ec66623ba87334.m3u8",
-        "country": "united states of america",
-        "liveliness": "79",
+        "liveliness": "86",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
@@ -623,8 +651,8 @@
         "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-03-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -637,8 +665,8 @@
         "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-03-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -648,7 +676,7 @@
         "channel": "Lifetime HD",
         "link": "https://list.iptvcat.com/my_list/s/eff3404b0f388573dbcf64aa74ebc96f.m3u8",
         "country": "united states of america",
-        "liveliness": "63",
+        "liveliness": "58",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
@@ -676,7 +704,7 @@
         "channel": "Lifetime Movie Network",
         "link": "https://list.iptvcat.com/my_list/s/f87095e6334281cc1b163cf11dfd73bb.m3u8",
         "country": "united states of america",
-        "liveliness": "24",
+        "liveliness": "23",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
@@ -690,7 +718,7 @@
         "channel": "Lifetime Movie Network",
         "link": "https://list.iptvcat.com/my_list/s/2d7647bed787282690e693540f820a83.m3u8",
         "country": "united states of america",
-        "liveliness": "39",
+        "liveliness": "40",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
@@ -704,21 +732,7 @@
         "channel": "Lifetime Movie Network",
         "link": "https://list.iptvcat.com/my_list/s/76a748b78c33667a986daddaa97af805.m3u8",
         "country": "united states of america",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2022-03-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2404541",
-        "channel": "Lifetime Movie Network",
-        "link": "https://list.iptvcat.com/my_list/s/3229a3a4566dd8b0e5ec66623ba87334.m3u8",
-        "country": "united states of america",
-        "liveliness": "79",
+        "liveliness": "86",
         "status": "offline",
         "lastChecked": "2022-03-21T00:00:00Z",
         "format": "fhd 2k",
