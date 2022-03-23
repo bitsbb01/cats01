@@ -182,7 +182,18 @@ func main() {
 	urlList := [...]string{
 
 		
-		"https://iptvcat.com/canada",
+		"https://iptvcat.com/belgium",
+		"https://iptvcat.com/france",
+		"https://iptvcat.com/germany",
+		"https://iptvcat.com/greece",
+		"https://iptvcat.com/ireland",
+		"https://iptvcat.com/austria",
+		"https://iptvcat.com/argentina",
+		"https://iptvcat.com/africa",
+		"https://iptvcat.com/hong_kong",
+		"https://iptvcat.com/india",
+		"https://iptvcat.com/iran",
+		"https://iptvcat.com/israel",
 		}
 
 	for _, element := range urlList {
