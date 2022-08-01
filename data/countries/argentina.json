@@ -102,7 +102,7 @@
         "channel": "ABN 2",
         "link": "https://list.iptvcat.com/my_list/s/45f7c1a0b555f7845f8ca2681ca7102d.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "81",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -117,7 +117,7 @@
         "link": "https://list.iptvcat.com/my_list/s/4aa5bbf9cce090390e20b72e72854302.m3u8",
         "country": "argentina",
         "liveliness": "73",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "908",
@@ -130,7 +130,7 @@
         "channel": "ABN Sat",
         "link": "https://list.iptvcat.com/my_list/s/7c0bbb381959b27a74f2e7c36438b862.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "81",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -229,7 +229,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c9df62b4210882457b38f04c8af2ac11.m3u8",
         "country": "argentina",
         "liveliness": "78",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "1796",
@@ -243,7 +243,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b2a069809dfe1a45235923290de0f752.m3u8",
         "country": "argentina",
         "liveliness": "79",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -256,7 +256,7 @@
         "channel": "Al Horreya TV",
         "link": "https://list.iptvcat.com/my_list/s/5f316d71879da1fe3ff33b4d59ae5d0d.m3u8",
         "country": "argentina",
-        "liveliness": "73",
+        "liveliness": "74",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
@@ -271,7 +271,7 @@
         "link": "https://list.iptvcat.com/my_list/s/891d5f9544cf0b14b2098092445752cb.m3u8",
         "country": "argentina",
         "liveliness": "77",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -313,10 +313,10 @@
         "link": "https://list.iptvcat.com/my_list/s/b39863ab44865155196b1f2e97c10d0f.m3u8",
         "country": "argentina",
         "liveliness": "79",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -326,7 +326,7 @@
         "channel": "Aljazeera Arabic",
         "link": "https://list.iptvcat.com/my_list/s/f4da2b03659d232f144596e9a2e5fba2.m3u8",
         "country": "argentina",
-        "liveliness": "72",
+        "liveliness": "71",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
@@ -340,7 +340,7 @@
         "channel": "Aljazeera English",
         "link": "https://list.iptvcat.com/my_list/s/30aa02c6fa60c9c2f6e6cd27f4e4c6f4.m3u8",
         "country": "argentina",
-        "liveliness": "74",
+        "liveliness": "73",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
@@ -354,7 +354,7 @@
         "channel": "Aljazeera Mubasher",
         "link": "https://list.iptvcat.com/my_list/s/fbb37993c9cb730803f1b3192ae561ca.m3u8",
         "country": "argentina",
-        "liveliness": "76",
+        "liveliness": "75",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
@@ -371,8 +371,8 @@
         "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
+        "format": "fhd 2k",
+        "mbps": "8370",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -382,11 +382,11 @@
         "channel": "Almagd TV",
         "link": "https://list.iptvcat.com/my_list/s/390e51159917b65e4de46bf8ebc28d56.m3u8",
         "country": "argentina",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1796",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -396,8 +396,8 @@
         "channel": "Almajd Hadeth",
         "link": "https://list.iptvcat.com/my_list/s/e480c11ba6e7991a8179f4778e2978fa.m3u8",
         "country": "argentina",
-        "liveliness": "75",
-        "status": "online",
+        "liveliness": "74",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -410,7 +410,7 @@
         "channel": "Almustakillah TV",
         "link": "https://list.iptvcat.com/my_list/s/bbbf34d8a20032a2eef8268cc40b97d6.m3u8",
         "country": "argentina",
-        "liveliness": "74",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -439,7 +439,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3285ff9780d40e218a4487f45a4650c7.m3u8",
         "country": "argentina",
         "liveliness": "78",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "1900",
@@ -452,11 +452,11 @@
         "channel": "Amazon Prime War",
         "link": "https://list.iptvcat.com/my_list/s/a94fbf5f1cf9acc0bc0198dd71a2055b.m3u8",
         "country": "argentina",
-        "liveliness": "77",
-        "status": "online",
+        "liveliness": "76",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1857",
+        "mbps": "1900",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -509,7 +509,7 @@
         "link": "https://list.iptvcat.com/my_list/s/92e453be962e201dbf334e0bb96563d7.m3u8",
         "country": "argentina",
         "liveliness": "78",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -523,7 +523,7 @@
         "link": "https://list.iptvcat.com/my_list/s/52af4439fb1c1182218d2edc625ee1a8.m3u8",
         "country": "argentina",
         "liveliness": "83",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "3066",
@@ -553,8 +553,8 @@
         "liveliness": "80",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "2309",
+        "format": "fhd 2k",
+        "mbps": "6724",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -565,7 +565,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1c343ba63108015e4422606e0a8a8769.m3u8",
         "country": "argentina",
         "liveliness": "76",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -578,8 +578,8 @@
         "channel": "C Sat",
         "link": "https://list.iptvcat.com/my_list/s/c962b7fab09bf64c2a52f33bbe50c96f.m3u8",
         "country": "argentina",
-        "liveliness": "85",
-        "status": "online",
+        "liveliness": "84",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
@@ -761,7 +761,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b23afdcf8b8f371fe12c89b9d87f43ef.m3u8",
         "country": "argentina",
         "liveliness": "77",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
@@ -774,11 +774,11 @@
         "channel": "Cartoon Network Arabic",
         "link": "https://list.iptvcat.com/my_list/s/0e15fcdea8ba4b6e06da9e87ccde2cb0.m3u8",
         "country": "argentina",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -848,7 +848,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "899",
+        "mbps": "2334",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -887,7 +887,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1ad196276de97eb452977d1ce7bd1de4.m3u8",
         "country": "argentina",
         "liveliness": "76",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "5216",
@@ -915,10 +915,10 @@
         "link": "https://list.iptvcat.com/my_list/s/4aaf8d67d8aae8808d4cf70b7638d592.m3u8",
         "country": "argentina",
         "liveliness": "77",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1153",
+        "mbps": "1490",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -932,7 +932,7 @@
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1548",
+        "mbps": "1900",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -942,7 +942,7 @@
         "channel": "Dragon Horror",
         "link": "https://list.iptvcat.com/my_list/s/958b969a8577041566c76f3fefe53f25.m3u8",
         "country": "argentina",
-        "liveliness": "74",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -960,7 +960,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1900",
+        "mbps": "1882",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -970,7 +970,7 @@
         "channel": "El Heddaf TV",
         "link": "https://list.iptvcat.com/my_list/s/38050c32e31dcb66162bd17f9708df7a.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -984,8 +984,8 @@
         "channel": "Elmourabiton",
         "link": "https://list.iptvcat.com/my_list/s/d62f869f702a16755a6cb12045aaacc5.m3u8",
         "country": "argentina",
-        "liveliness": "78",
-        "status": "offline",
+        "liveliness": "79",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -998,7 +998,7 @@
         "channel": "Elmouritania",
         "link": "https://list.iptvcat.com/my_list/s/50372cc1146e9e923579346d9a9acfe6.m3u8",
         "country": "argentina",
-        "liveliness": "75",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -1012,7 +1012,7 @@
         "channel": "Elmouritania 2",
         "link": "https://list.iptvcat.com/my_list/s/e02c7afe3734b17603f30f45cd6edd04.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -1029,8 +1029,8 @@
         "liveliness": "81",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
+        "format": "sd",
+        "mbps": "2285",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -1054,7 +1054,7 @@
         "channel": "Fox Life",
         "link": "https://list.iptvcat.com/my_list/s/cfbdac58185180aa4212221f8b6b6f25.m3u8",
         "country": "argentina",
-        "liveliness": "72",
+        "liveliness": "73",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
@@ -1071,8 +1071,8 @@
         "liveliness": "79",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "2473",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -1100,7 +1100,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1509",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -1111,7 +1111,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ffc06c47ba262ba46a40678144051e59.m3u8",
         "country": "argentina",
         "liveliness": "60",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -1156,7 +1156,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "2334",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -1166,7 +1166,7 @@
         "channel": "MBC Drama+",
         "link": "https://list.iptvcat.com/my_list/s/ab101249b959cba17dda4895bb889e35.m3u8",
         "country": "argentina",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
@@ -1195,7 +1195,7 @@
         "link": "https://list.iptvcat.com/my_list/s/4b9339a1cce955368e574e7904635220.m3u8",
         "country": "argentina",
         "liveliness": "74",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -1209,7 +1209,7 @@
         "link": "https://list.iptvcat.com/my_list/s/427486953f3b76179044e9d98d6acc88.m3u8",
         "country": "argentina",
         "liveliness": "77",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -1282,7 +1282,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1008, ...",
+        "mbps": "354",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -1390,7 +1390,7 @@
         "channel": "Netflix Arabic 1",
         "link": "https://list.iptvcat.com/my_list/s/419f950257315cfc4bfe508747fbfb1e.m3u8",
         "country": "argentina",
-        "liveliness": "75",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -1502,7 +1502,7 @@
         "channel": "ABN 2",
         "link": "https://list.iptvcat.com/my_list/s/45f7c1a0b555f7845f8ca2681ca7102d.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "81",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -1517,7 +1517,7 @@
         "link": "https://list.iptvcat.com/my_list/s/4aa5bbf9cce090390e20b72e72854302.m3u8",
         "country": "argentina",
         "liveliness": "73",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "908",
@@ -1530,7 +1530,7 @@
         "channel": "ABN Sat",
         "link": "https://list.iptvcat.com/my_list/s/7c0bbb381959b27a74f2e7c36438b862.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "81",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -1629,7 +1629,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c9df62b4210882457b38f04c8af2ac11.m3u8",
         "country": "argentina",
         "liveliness": "78",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "1796",
@@ -1643,7 +1643,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b2a069809dfe1a45235923290de0f752.m3u8",
         "country": "argentina",
         "liveliness": "79",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -1656,7 +1656,7 @@
         "channel": "Al Horreya TV",
         "link": "https://list.iptvcat.com/my_list/s/5f316d71879da1fe3ff33b4d59ae5d0d.m3u8",
         "country": "argentina",
-        "liveliness": "73",
+        "liveliness": "74",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
@@ -1671,7 +1671,7 @@
         "link": "https://list.iptvcat.com/my_list/s/891d5f9544cf0b14b2098092445752cb.m3u8",
         "country": "argentina",
         "liveliness": "77",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -1713,10 +1713,10 @@
         "link": "https://list.iptvcat.com/my_list/s/b39863ab44865155196b1f2e97c10d0f.m3u8",
         "country": "argentina",
         "liveliness": "79",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -1726,7 +1726,7 @@
         "channel": "Aljazeera Arabic",
         "link": "https://list.iptvcat.com/my_list/s/f4da2b03659d232f144596e9a2e5fba2.m3u8",
         "country": "argentina",
-        "liveliness": "72",
+        "liveliness": "71",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
@@ -1740,7 +1740,7 @@
         "channel": "Aljazeera English",
         "link": "https://list.iptvcat.com/my_list/s/30aa02c6fa60c9c2f6e6cd27f4e4c6f4.m3u8",
         "country": "argentina",
-        "liveliness": "74",
+        "liveliness": "73",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
@@ -1754,7 +1754,7 @@
         "channel": "Aljazeera Mubasher",
         "link": "https://list.iptvcat.com/my_list/s/fbb37993c9cb730803f1b3192ae561ca.m3u8",
         "country": "argentina",
-        "liveliness": "76",
+        "liveliness": "75",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
@@ -1771,8 +1771,8 @@
         "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
+        "format": "fhd 2k",
+        "mbps": "8370",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -1782,11 +1782,11 @@
         "channel": "Almagd TV",
         "link": "https://list.iptvcat.com/my_list/s/390e51159917b65e4de46bf8ebc28d56.m3u8",
         "country": "argentina",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1796",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -1796,8 +1796,8 @@
         "channel": "Almajd Hadeth",
         "link": "https://list.iptvcat.com/my_list/s/e480c11ba6e7991a8179f4778e2978fa.m3u8",
         "country": "argentina",
-        "liveliness": "75",
-        "status": "online",
+        "liveliness": "74",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -1810,7 +1810,7 @@
         "channel": "Almustakillah TV",
         "link": "https://list.iptvcat.com/my_list/s/bbbf34d8a20032a2eef8268cc40b97d6.m3u8",
         "country": "argentina",
-        "liveliness": "74",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -1839,7 +1839,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3285ff9780d40e218a4487f45a4650c7.m3u8",
         "country": "argentina",
         "liveliness": "78",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "1900",
@@ -1852,11 +1852,11 @@
         "channel": "Amazon Prime War",
         "link": "https://list.iptvcat.com/my_list/s/a94fbf5f1cf9acc0bc0198dd71a2055b.m3u8",
         "country": "argentina",
-        "liveliness": "77",
-        "status": "online",
+        "liveliness": "76",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1857",
+        "mbps": "1900",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -1909,7 +1909,7 @@
         "link": "https://list.iptvcat.com/my_list/s/92e453be962e201dbf334e0bb96563d7.m3u8",
         "country": "argentina",
         "liveliness": "78",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -1923,7 +1923,7 @@
         "link": "https://list.iptvcat.com/my_list/s/52af4439fb1c1182218d2edc625ee1a8.m3u8",
         "country": "argentina",
         "liveliness": "83",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "3066",
@@ -1953,8 +1953,8 @@
         "liveliness": "80",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "2309",
+        "format": "fhd 2k",
+        "mbps": "6724",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -1965,7 +1965,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1c343ba63108015e4422606e0a8a8769.m3u8",
         "country": "argentina",
         "liveliness": "76",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -1978,8 +1978,8 @@
         "channel": "C Sat",
         "link": "https://list.iptvcat.com/my_list/s/c962b7fab09bf64c2a52f33bbe50c96f.m3u8",
         "country": "argentina",
-        "liveliness": "85",
-        "status": "online",
+        "liveliness": "84",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
@@ -2161,7 +2161,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b23afdcf8b8f371fe12c89b9d87f43ef.m3u8",
         "country": "argentina",
         "liveliness": "77",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
@@ -2174,11 +2174,11 @@
         "channel": "Cartoon Network Arabic",
         "link": "https://list.iptvcat.com/my_list/s/0e15fcdea8ba4b6e06da9e87ccde2cb0.m3u8",
         "country": "argentina",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -2248,7 +2248,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "899",
+        "mbps": "2334",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -2287,7 +2287,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1ad196276de97eb452977d1ce7bd1de4.m3u8",
         "country": "argentina",
         "liveliness": "76",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "5216",
@@ -2315,10 +2315,10 @@
         "link": "https://list.iptvcat.com/my_list/s/4aaf8d67d8aae8808d4cf70b7638d592.m3u8",
         "country": "argentina",
         "liveliness": "77",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1153",
+        "mbps": "1490",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -2332,7 +2332,7 @@
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1548",
+        "mbps": "1900",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -2342,7 +2342,7 @@
         "channel": "Dragon Horror",
         "link": "https://list.iptvcat.com/my_list/s/958b969a8577041566c76f3fefe53f25.m3u8",
         "country": "argentina",
-        "liveliness": "74",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -2360,7 +2360,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1900",
+        "mbps": "1882",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -2370,7 +2370,7 @@
         "channel": "El Heddaf TV",
         "link": "https://list.iptvcat.com/my_list/s/38050c32e31dcb66162bd17f9708df7a.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -2384,8 +2384,8 @@
         "channel": "Elmourabiton",
         "link": "https://list.iptvcat.com/my_list/s/d62f869f702a16755a6cb12045aaacc5.m3u8",
         "country": "argentina",
-        "liveliness": "78",
-        "status": "offline",
+        "liveliness": "79",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -2398,7 +2398,7 @@
         "channel": "Elmouritania",
         "link": "https://list.iptvcat.com/my_list/s/50372cc1146e9e923579346d9a9acfe6.m3u8",
         "country": "argentina",
-        "liveliness": "75",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -2412,7 +2412,7 @@
         "channel": "Elmouritania 2",
         "link": "https://list.iptvcat.com/my_list/s/e02c7afe3734b17603f30f45cd6edd04.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -2429,8 +2429,8 @@
         "liveliness": "81",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
+        "format": "sd",
+        "mbps": "2285",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -2454,7 +2454,7 @@
         "channel": "Fox Life",
         "link": "https://list.iptvcat.com/my_list/s/cfbdac58185180aa4212221f8b6b6f25.m3u8",
         "country": "argentina",
-        "liveliness": "72",
+        "liveliness": "73",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
@@ -2471,8 +2471,8 @@
         "liveliness": "79",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "2473",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -2500,7 +2500,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1509",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -2511,7 +2511,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ffc06c47ba262ba46a40678144051e59.m3u8",
         "country": "argentina",
         "liveliness": "60",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -2556,7 +2556,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "2334",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -2566,7 +2566,7 @@
         "channel": "MBC Drama+",
         "link": "https://list.iptvcat.com/my_list/s/ab101249b959cba17dda4895bb889e35.m3u8",
         "country": "argentina",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
@@ -2595,7 +2595,7 @@
         "link": "https://list.iptvcat.com/my_list/s/4b9339a1cce955368e574e7904635220.m3u8",
         "country": "argentina",
         "liveliness": "74",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -2609,7 +2609,7 @@
         "link": "https://list.iptvcat.com/my_list/s/427486953f3b76179044e9d98d6acc88.m3u8",
         "country": "argentina",
         "liveliness": "77",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -2682,7 +2682,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1008, ...",
+        "mbps": "354",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -2790,7 +2790,7 @@
         "channel": "Netflix Arabic 1",
         "link": "https://list.iptvcat.com/my_list/s/419f950257315cfc4bfe508747fbfb1e.m3u8",
         "country": "argentina",
-        "liveliness": "75",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -2805,7 +2805,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ff5d132bf6f7d24aa4afa0a2796e0187.m3u8",
         "country": "argentina",
         "liveliness": "75",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -2818,7 +2818,7 @@
         "channel": "Netflix Bollywood",
         "link": "https://list.iptvcat.com/my_list/s/a34bfddb28cf6151d77c600122047b3b.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
@@ -2832,11 +2832,11 @@
         "channel": "Netflix Comedy",
         "link": "https://list.iptvcat.com/my_list/s/871a98ee80227156b25d8488a8c1d117.m3u8",
         "country": "argentina",
-        "liveliness": "80",
-        "status": "offline",
+        "liveliness": "81",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "5224",
+        "mbps": "2741",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -2874,8 +2874,8 @@
         "channel": "ON Drama",
         "link": "https://list.iptvcat.com/my_list/s/ebec64cb18148f46370fb6381791c5f2.m3u8",
         "country": "argentina",
-        "liveliness": "79",
-        "status": "offline",
+        "liveliness": "78",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -2888,8 +2888,8 @@
         "channel": "ON Movies",
         "link": "https://list.iptvcat.com/my_list/s/350fa83f282aa2146b3c3d51e56c8946.m3u8",
         "country": "argentina",
-        "liveliness": "79",
-        "status": "offline",
+        "liveliness": "78",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -2905,8 +2905,8 @@
         "liveliness": "85",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "5346",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -2934,7 +2934,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "3532",
+        "mbps": "3639",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -2972,11 +2972,11 @@
         "channel": "RT",
         "link": "https://list.iptvcat.com/my_list/s/3f1b29b15c7994fb2a5b6d2c211369fc.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3000,11 +3000,11 @@
         "channel": "Sarhan TV Action",
         "link": "https://list.iptvcat.com/my_list/s/aba7da8fae93ed06be27937a0b17b518.m3u8",
         "country": "argentina",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "2307",
+        "mbps": "2283",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3032,7 +3032,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "2478",
+        "mbps": "2307",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3056,8 +3056,8 @@
         "channel": "Shoof Max 3",
         "link": "https://list.iptvcat.com/my_list/s/05b1150bf144bb2eea465698f7e12c97.m3u8",
         "country": "argentina",
-        "liveliness": "81",
-        "status": "offline",
+        "liveliness": "82",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -3088,7 +3088,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "2425",
+        "mbps": "1179",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3099,7 +3099,7 @@
         "link": "https://list.iptvcat.com/my_list/s/964c8227e934c773584b134ea634a0a5.m3u8",
         "country": "argentina",
         "liveliness": "82",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -3210,11 +3210,11 @@
         "channel": "Sky News Arabia",
         "link": "https://list.iptvcat.com/my_list/s/3c5b8a00a0126cb9e61be9ff5d7f0b56.m3u8",
         "country": "argentina",
-        "liveliness": "75",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3297,8 +3297,8 @@
         "liveliness": "79",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3308,11 +3308,11 @@
         "channel": "Taste Made",
         "link": "https://list.iptvcat.com/my_list/s/a5968e8627d4f11b5dc830bf13f878b1.m3u8",
         "country": "argentina",
-        "liveliness": "76",
+        "liveliness": "77",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "2244",
+        "format": "fhd 2k",
+        "mbps": "13311",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3424,7 +3424,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "3799",
+        "mbps": "1509",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3435,7 +3435,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a64cfbb315afb1ce9a94a8a9f5ef85e2.m3u8",
         "country": "argentina",
         "liveliness": "76",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -3448,11 +3448,11 @@
         "channel": "iflix Arabia",
         "link": "https://list.iptvcat.com/my_list/s/376acb979fff7504f17bd9b7ec5b82c0.m3u8",
         "country": "argentina",
-        "liveliness": "84",
+        "liveliness": "85",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1611",
+        "mbps": "1503",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3466,7 +3466,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1490",
+        "mbps": "1967",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3476,11 +3476,11 @@
         "channel": "iflix Prime",
         "link": "https://list.iptvcat.com/my_list/s/f7a9baafd7ceb1e5808a3b6016b8099e.m3u8",
         "country": "argentina",
-        "liveliness": "76",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1447",
+        "mbps": "1880",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3490,11 +3490,11 @@
         "channel": "iflix Turk",
         "link": "https://list.iptvcat.com/my_list/s/a4c562ede3b22f453f2ed3e0e87dc0f6.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1912",
+        "mbps": "1436",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3504,8 +3504,8 @@
         "channel": "iflix moudablaj",
         "link": "https://list.iptvcat.com/my_list/s/3e916075e83f5fccccaedb201de35dda.m3u8",
         "country": "argentina",
-        "liveliness": "79",
-        "status": "online",
+        "liveliness": "78",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "1893",
@@ -3630,7 +3630,7 @@
         "channel": "ABN 2",
         "link": "https://list.iptvcat.com/my_list/s/45f7c1a0b555f7845f8ca2681ca7102d.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "81",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -3645,7 +3645,7 @@
         "link": "https://list.iptvcat.com/my_list/s/4aa5bbf9cce090390e20b72e72854302.m3u8",
         "country": "argentina",
         "liveliness": "73",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "908",
@@ -3658,7 +3658,7 @@
         "channel": "ABN Sat",
         "link": "https://list.iptvcat.com/my_list/s/7c0bbb381959b27a74f2e7c36438b862.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "81",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -3757,7 +3757,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c9df62b4210882457b38f04c8af2ac11.m3u8",
         "country": "argentina",
         "liveliness": "78",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "1796",
@@ -3771,7 +3771,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b2a069809dfe1a45235923290de0f752.m3u8",
         "country": "argentina",
         "liveliness": "79",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -3784,7 +3784,7 @@
         "channel": "Al Horreya TV",
         "link": "https://list.iptvcat.com/my_list/s/5f316d71879da1fe3ff33b4d59ae5d0d.m3u8",
         "country": "argentina",
-        "liveliness": "73",
+        "liveliness": "74",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
@@ -3799,7 +3799,7 @@
         "link": "https://list.iptvcat.com/my_list/s/891d5f9544cf0b14b2098092445752cb.m3u8",
         "country": "argentina",
         "liveliness": "77",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -3841,10 +3841,10 @@
         "link": "https://list.iptvcat.com/my_list/s/b39863ab44865155196b1f2e97c10d0f.m3u8",
         "country": "argentina",
         "liveliness": "79",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3854,7 +3854,7 @@
         "channel": "Aljazeera Arabic",
         "link": "https://list.iptvcat.com/my_list/s/f4da2b03659d232f144596e9a2e5fba2.m3u8",
         "country": "argentina",
-        "liveliness": "72",
+        "liveliness": "71",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
@@ -3868,7 +3868,7 @@
         "channel": "Aljazeera English",
         "link": "https://list.iptvcat.com/my_list/s/30aa02c6fa60c9c2f6e6cd27f4e4c6f4.m3u8",
         "country": "argentina",
-        "liveliness": "74",
+        "liveliness": "73",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
@@ -3882,7 +3882,7 @@
         "channel": "Aljazeera Mubasher",
         "link": "https://list.iptvcat.com/my_list/s/fbb37993c9cb730803f1b3192ae561ca.m3u8",
         "country": "argentina",
-        "liveliness": "76",
+        "liveliness": "75",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
@@ -3899,8 +3899,8 @@
         "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
+        "format": "fhd 2k",
+        "mbps": "8370",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3910,11 +3910,11 @@
         "channel": "Almagd TV",
         "link": "https://list.iptvcat.com/my_list/s/390e51159917b65e4de46bf8ebc28d56.m3u8",
         "country": "argentina",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1796",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -3924,8 +3924,8 @@
         "channel": "Almajd Hadeth",
         "link": "https://list.iptvcat.com/my_list/s/e480c11ba6e7991a8179f4778e2978fa.m3u8",
         "country": "argentina",
-        "liveliness": "75",
-        "status": "online",
+        "liveliness": "74",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -3938,7 +3938,7 @@
         "channel": "Almustakillah TV",
         "link": "https://list.iptvcat.com/my_list/s/bbbf34d8a20032a2eef8268cc40b97d6.m3u8",
         "country": "argentina",
-        "liveliness": "74",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -3967,7 +3967,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3285ff9780d40e218a4487f45a4650c7.m3u8",
         "country": "argentina",
         "liveliness": "78",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "1900",
@@ -3980,11 +3980,11 @@
         "channel": "Amazon Prime War",
         "link": "https://list.iptvcat.com/my_list/s/a94fbf5f1cf9acc0bc0198dd71a2055b.m3u8",
         "country": "argentina",
-        "liveliness": "77",
-        "status": "online",
+        "liveliness": "76",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1857",
+        "mbps": "1900",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -4037,7 +4037,7 @@
         "link": "https://list.iptvcat.com/my_list/s/92e453be962e201dbf334e0bb96563d7.m3u8",
         "country": "argentina",
         "liveliness": "78",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -4051,7 +4051,7 @@
         "link": "https://list.iptvcat.com/my_list/s/52af4439fb1c1182218d2edc625ee1a8.m3u8",
         "country": "argentina",
         "liveliness": "83",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "3066",
@@ -4081,8 +4081,8 @@
         "liveliness": "80",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "2309",
+        "format": "fhd 2k",
+        "mbps": "6724",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -4093,7 +4093,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1c343ba63108015e4422606e0a8a8769.m3u8",
         "country": "argentina",
         "liveliness": "76",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -4106,8 +4106,8 @@
         "channel": "C Sat",
         "link": "https://list.iptvcat.com/my_list/s/c962b7fab09bf64c2a52f33bbe50c96f.m3u8",
         "country": "argentina",
-        "liveliness": "85",
-        "status": "online",
+        "liveliness": "84",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
@@ -4289,7 +4289,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b23afdcf8b8f371fe12c89b9d87f43ef.m3u8",
         "country": "argentina",
         "liveliness": "77",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
@@ -4302,11 +4302,11 @@
         "channel": "Cartoon Network Arabic",
         "link": "https://list.iptvcat.com/my_list/s/0e15fcdea8ba4b6e06da9e87ccde2cb0.m3u8",
         "country": "argentina",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -4376,7 +4376,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "899",
+        "mbps": "2334",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -4415,7 +4415,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1ad196276de97eb452977d1ce7bd1de4.m3u8",
         "country": "argentina",
         "liveliness": "76",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "5216",
@@ -4443,10 +4443,10 @@
         "link": "https://list.iptvcat.com/my_list/s/4aaf8d67d8aae8808d4cf70b7638d592.m3u8",
         "country": "argentina",
         "liveliness": "77",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1153",
+        "mbps": "1490",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -4460,7 +4460,7 @@
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1548",
+        "mbps": "1900",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -4470,7 +4470,7 @@
         "channel": "Dragon Horror",
         "link": "https://list.iptvcat.com/my_list/s/958b969a8577041566c76f3fefe53f25.m3u8",
         "country": "argentina",
-        "liveliness": "74",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -4488,7 +4488,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1900",
+        "mbps": "1882",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -4498,7 +4498,7 @@
         "channel": "El Heddaf TV",
         "link": "https://list.iptvcat.com/my_list/s/38050c32e31dcb66162bd17f9708df7a.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -4512,8 +4512,8 @@
         "channel": "Elmourabiton",
         "link": "https://list.iptvcat.com/my_list/s/d62f869f702a16755a6cb12045aaacc5.m3u8",
         "country": "argentina",
-        "liveliness": "78",
-        "status": "offline",
+        "liveliness": "79",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -4526,7 +4526,7 @@
         "channel": "Elmouritania",
         "link": "https://list.iptvcat.com/my_list/s/50372cc1146e9e923579346d9a9acfe6.m3u8",
         "country": "argentina",
-        "liveliness": "75",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -4540,7 +4540,7 @@
         "channel": "Elmouritania 2",
         "link": "https://list.iptvcat.com/my_list/s/e02c7afe3734b17603f30f45cd6edd04.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
@@ -4557,8 +4557,8 @@
         "liveliness": "81",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
+        "format": "sd",
+        "mbps": "2285",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -4582,7 +4582,7 @@
         "channel": "Fox Life",
         "link": "https://list.iptvcat.com/my_list/s/cfbdac58185180aa4212221f8b6b6f25.m3u8",
         "country": "argentina",
-        "liveliness": "72",
+        "liveliness": "73",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
@@ -4599,8 +4599,8 @@
         "liveliness": "79",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "2473",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -4628,7 +4628,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1509",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -4639,7 +4639,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ffc06c47ba262ba46a40678144051e59.m3u8",
         "country": "argentina",
         "liveliness": "60",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -4684,7 +4684,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "2334",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -4694,7 +4694,7 @@
         "channel": "MBC Drama+",
         "link": "https://list.iptvcat.com/my_list/s/ab101249b959cba17dda4895bb889e35.m3u8",
         "country": "argentina",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "fhd 2k",
@@ -4723,7 +4723,7 @@
         "link": "https://list.iptvcat.com/my_list/s/4b9339a1cce955368e574e7904635220.m3u8",
         "country": "argentina",
         "liveliness": "74",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -4737,7 +4737,7 @@
         "link": "https://list.iptvcat.com/my_list/s/427486953f3b76179044e9d98d6acc88.m3u8",
         "country": "argentina",
         "liveliness": "77",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -4810,7 +4810,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1008, ...",
+        "mbps": "354",
         "URI": [
             "argentina_-_-_-_-"
         ]
@@ -4918,7 +4918,7 @@
         "channel": "Netflix Arabic 1",
         "link": "https://list.iptvcat.com/my_list/s/419f950257315cfc4bfe508747fbfb1e.m3u8",
         "country": "argentina",
-        "liveliness": "75",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
