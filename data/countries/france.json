@@ -166,7 +166,7 @@
         "channel": "Al Kass Four",
         "link": "https://list.iptvcat.com/my_list/s/a0b3d3c587123516ffd3910e30fa0fbc.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -181,7 +181,7 @@
         "channel": "Al Kass One",
         "link": "https://list.iptvcat.com/my_list/s/deb90284fa6c305458809a8ab6cc5057.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -196,7 +196,7 @@
         "channel": "Al Kass Three",
         "link": "https://list.iptvcat.com/my_list/s/5d2fa15e901864db349681fa05c42902.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -211,7 +211,7 @@
         "channel": "Al Kass Two",
         "link": "https://list.iptvcat.com/my_list/s/74ae564df948d0e46092746a1a57e8ad.m3u8",
         "country": "france",
-        "liveliness": "84",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -226,7 +226,7 @@
         "channel": "Alpe d’Huez TV (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/58fda23a16e8e8bc72ce697bffdeaffd.m3u8",
         "country": "france",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "fhd 2k",
@@ -400,8 +400,8 @@
         "channel": "CBS Atlanta GA (WGCL-DT1) (720p)",
         "link": "https://list.iptvcat.com/my_list/s/42a4d3cf3c747753c3944fa8d9212207.m3u8",
         "country": "france",
-        "liveliness": "98",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -445,7 +445,7 @@
         "channel": "Canadian Arab TV (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/83553d894cb38cbc39106bfcdbb3a825.m3u8",
         "country": "france",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -536,7 +536,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1003",
+        "mbps": "805",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -562,7 +562,7 @@
         "channel": "CinemaWorld (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/3739c7a39df027c0797687eb500c3eaf.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -595,8 +595,8 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2194",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -611,7 +611,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1051",
+        "mbps": "868",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -655,7 +655,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "2491",
+        "mbps": "2491, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -681,7 +681,7 @@
         "channel": "Di TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/a9b4ea22dad16fc637700381854b321b.m3u8",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -756,8 +756,8 @@
         "channel": "ETV",
         "link": "https://list.iptvcat.com/my_list/s/06bc540a7a147b974a44d95be1f95b4c.m3u8",
         "country": "france",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
@@ -884,6 +884,20 @@
         ]
     },
     {
+        "id": "684",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "https://list.iptvcat.com/my_list/s/4b885ec23db5c2f8242b0724cf4edd89.m3u8",
+        "country": "france",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "683",
         "channel": "Fashion TV Midnite Secrets",
         "link": "https://list.iptvcat.com/my_list/s/665014dafd0dc7b9523c145d021beefd.m3u8",
@@ -940,23 +954,9 @@
         ]
     },
     {
-        "id": "684",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "https://list.iptvcat.com/my_list/s/4b885ec23db5c2f8242b0724cf4edd89.m3u8",
-        "country": "france",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2472293",
+        "id": "2472296",
         "channel": "Fashion TV Midnite Secrets (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/ca4a9e0deb00bcb4233b74303a5475be.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/0bf1aeb531d52c322fb65866ac5df363.m3u8",
         "country": "france",
         "liveliness": "100",
         "status": "online",
@@ -968,9 +968,9 @@
         ]
     },
     {
-        "id": "2472296",
+        "id": "2472293",
         "channel": "Fashion TV Midnite Secrets (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/0bf1aeb531d52c322fb65866ac5df363.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/ca4a9e0deb00bcb4233b74303a5475be.m3u8",
         "country": "france",
         "liveliness": "100",
         "status": "online",
@@ -1087,10 +1087,10 @@
         "link": "https://list.iptvcat.com/my_list/s/4db7bedc996c0ea734b84d5e39e4dd15.m3u8",
         "country": "france",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1008",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -1101,10 +1101,10 @@
         "link": "https://list.iptvcat.com/my_list/s/eeea0e1447d809dfefccb46702d9ac6f.m3u8",
         "country": "france",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1008",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -1115,7 +1115,7 @@
         "link": "https://list.iptvcat.com/my_list/s/f333e5c8e7007312f63b3211176ac2d0.m3u8",
         "country": "france",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -1228,20 +1228,6 @@
         ]
     },
     {
-        "id": "2579447",
-        "channel": "KBS World (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/24454dbca570e1cdf802f5a5d74783dd.m3u8",
-        "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2580062",
         "channel": "KBS World (720p)",
         "link": "https://list.iptvcat.com/my_list/s/45ceb59b01d21d5c8b7e55451d69ace6.m3u8",
@@ -1251,6 +1237,20 @@
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2579447",
+        "channel": "KBS World (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/24454dbca570e1cdf802f5a5d74783dd.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -1309,7 +1309,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -1320,7 +1320,7 @@
         "channel": "Kora TV (360p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/06cef0690822b367361ea74bbca9c421.m3u8",
         "country": "france",
-        "liveliness": "35",
+        "liveliness": "34",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -1360,21 +1360,6 @@
         ]
     },
     {
-        "id": "2578863",
-        "channel": "MN25",
-        "link": "https://list.iptvcat.com/my_list/s/8d55405ecbbeb46d3b613877340e28b2.m3u8",
-        "country": "france",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2579541",
         "channel": "MN25",
         "link": "https://list.iptvcat.com/my_list/s/ed96999538905d018c5968d5f00bedd0.m3u8",
@@ -1384,6 +1369,21 @@
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "1487",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_",
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2578863",
+        "channel": "MN25",
+        "link": "https://list.iptvcat.com/my_list/s/8d55405ecbbeb46d3b613877340e28b2.m3u8",
+        "country": "france",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -1630,7 +1630,7 @@
         "channel": "Al Kass Four",
         "link": "https://list.iptvcat.com/my_list/s/a0b3d3c587123516ffd3910e30fa0fbc.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -1645,7 +1645,7 @@
         "channel": "Al Kass One",
         "link": "https://list.iptvcat.com/my_list/s/deb90284fa6c305458809a8ab6cc5057.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -1660,7 +1660,7 @@
         "channel": "Al Kass Three",
         "link": "https://list.iptvcat.com/my_list/s/5d2fa15e901864db349681fa05c42902.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -1675,7 +1675,7 @@
         "channel": "Al Kass Two",
         "link": "https://list.iptvcat.com/my_list/s/74ae564df948d0e46092746a1a57e8ad.m3u8",
         "country": "france",
-        "liveliness": "84",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -1690,7 +1690,7 @@
         "channel": "Alpe d’Huez TV (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/58fda23a16e8e8bc72ce697bffdeaffd.m3u8",
         "country": "france",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "fhd 2k",
@@ -1864,8 +1864,8 @@
         "channel": "CBS Atlanta GA (WGCL-DT1) (720p)",
         "link": "https://list.iptvcat.com/my_list/s/42a4d3cf3c747753c3944fa8d9212207.m3u8",
         "country": "france",
-        "liveliness": "98",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -1909,7 +1909,7 @@
         "channel": "Canadian Arab TV (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/83553d894cb38cbc39106bfcdbb3a825.m3u8",
         "country": "france",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -2000,7 +2000,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1003",
+        "mbps": "805",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -2026,7 +2026,7 @@
         "channel": "CinemaWorld (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/3739c7a39df027c0797687eb500c3eaf.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -2059,8 +2059,8 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2194",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -2075,7 +2075,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1051",
+        "mbps": "868",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -2119,7 +2119,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "2491",
+        "mbps": "2491, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -2145,7 +2145,7 @@
         "channel": "Di TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/a9b4ea22dad16fc637700381854b321b.m3u8",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -2220,8 +2220,8 @@
         "channel": "ETV",
         "link": "https://list.iptvcat.com/my_list/s/06bc540a7a147b974a44d95be1f95b4c.m3u8",
         "country": "france",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
@@ -2348,6 +2348,20 @@
         ]
     },
     {
+        "id": "684",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "https://list.iptvcat.com/my_list/s/4b885ec23db5c2f8242b0724cf4edd89.m3u8",
+        "country": "france",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "683",
         "channel": "Fashion TV Midnite Secrets",
         "link": "https://list.iptvcat.com/my_list/s/665014dafd0dc7b9523c145d021beefd.m3u8",
@@ -2404,23 +2418,9 @@
         ]
     },
     {
-        "id": "684",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "https://list.iptvcat.com/my_list/s/4b885ec23db5c2f8242b0724cf4edd89.m3u8",
-        "country": "france",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2472293",
+        "id": "2472296",
         "channel": "Fashion TV Midnite Secrets (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/ca4a9e0deb00bcb4233b74303a5475be.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/0bf1aeb531d52c322fb65866ac5df363.m3u8",
         "country": "france",
         "liveliness": "100",
         "status": "online",
@@ -2432,9 +2432,9 @@
         ]
     },
     {
-        "id": "2472296",
+        "id": "2472293",
         "channel": "Fashion TV Midnite Secrets (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/0bf1aeb531d52c322fb65866ac5df363.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/ca4a9e0deb00bcb4233b74303a5475be.m3u8",
         "country": "france",
         "liveliness": "100",
         "status": "online",
@@ -2551,10 +2551,10 @@
         "link": "https://list.iptvcat.com/my_list/s/4db7bedc996c0ea734b84d5e39e4dd15.m3u8",
         "country": "france",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1008",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -2565,10 +2565,10 @@
         "link": "https://list.iptvcat.com/my_list/s/eeea0e1447d809dfefccb46702d9ac6f.m3u8",
         "country": "france",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1008",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -2579,7 +2579,7 @@
         "link": "https://list.iptvcat.com/my_list/s/f333e5c8e7007312f63b3211176ac2d0.m3u8",
         "country": "france",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -2692,20 +2692,6 @@
         ]
     },
     {
-        "id": "2579447",
-        "channel": "KBS World (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/24454dbca570e1cdf802f5a5d74783dd.m3u8",
-        "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2580062",
         "channel": "KBS World (720p)",
         "link": "https://list.iptvcat.com/my_list/s/45ceb59b01d21d5c8b7e55451d69ace6.m3u8",
@@ -2715,6 +2701,20 @@
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2579447",
+        "channel": "KBS World (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/24454dbca570e1cdf802f5a5d74783dd.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -2773,7 +2773,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -2784,7 +2784,7 @@
         "channel": "Kora TV (360p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/06cef0690822b367361ea74bbca9c421.m3u8",
         "country": "france",
-        "liveliness": "35",
+        "liveliness": "34",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -2824,21 +2824,6 @@
         ]
     },
     {
-        "id": "2578863",
-        "channel": "MN25",
-        "link": "https://list.iptvcat.com/my_list/s/8d55405ecbbeb46d3b613877340e28b2.m3u8",
-        "country": "france",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2579541",
         "channel": "MN25",
         "link": "https://list.iptvcat.com/my_list/s/ed96999538905d018c5968d5f00bedd0.m3u8",
@@ -2848,6 +2833,21 @@
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "1487",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_",
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2578863",
+        "channel": "MN25",
+        "link": "https://list.iptvcat.com/my_list/s/8d55405ecbbeb46d3b613877340e28b2.m3u8",
+        "country": "france",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -2946,7 +2946,7 @@
         "channel": "Movie box",
         "link": "https://list.iptvcat.com/my_list/s/47f89399d384ba2c6d9ff34c9e010857.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -2972,11 +2972,11 @@
         ]
     },
     {
-        "id": "2576675",
+        "id": "2580262",
         "channel": "My Cinema Asia (1080p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/d32775d2a721678b2a9faae87dad11eb.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/8442bb987ddb6923aa7fa009310df2b2.m3u8",
         "country": "france",
-        "liveliness": "97",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "fhd 2k",
@@ -2987,11 +2987,11 @@
         ]
     },
     {
-        "id": "2580262",
+        "id": "2576675",
         "channel": "My Cinema Asia (1080p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/8442bb987ddb6923aa7fa009310df2b2.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/d32775d2a721678b2a9faae87dad11eb.m3u8",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "fhd 2k",
@@ -3043,7 +3043,7 @@
         "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
@@ -3183,7 +3183,7 @@
         "channel": "Puja TV Aceh (1080p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/1fce7915d6831597c9a7ca779a0ce7f6.m3u8",
         "country": "france",
-        "liveliness": "59",
+        "liveliness": "60",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "fhd 2k",
@@ -3228,7 +3228,7 @@
         "channel": "RTV (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/7f73a7cd9958964de54bd21da0c3cc5c.m3u8",
         "country": "france",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -3273,7 +3273,7 @@
         "channel": "SCTV (480p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/1b760759529c28e75745a50eff3f1053.m3u8",
         "country": "france",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -3339,7 +3339,7 @@
         "channel": "THVL2 HD (720p)",
         "link": "https://list.iptvcat.com/my_list/s/f0122325ac45cd3d04650f1d7475363d.m3u8",
         "country": "france",
-        "liveliness": "92",
+        "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -3357,8 +3357,8 @@
         "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
+        "format": "sd",
+        "mbps": "1357",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -3369,7 +3369,7 @@
         "channel": "THVL4 HD (720p)",
         "link": "https://list.iptvcat.com/my_list/s/56378118e9357c3210776f8ac4a3dfe3.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -3400,7 +3400,7 @@
         "link": "https://list.iptvcat.com/my_list/s/70bfdb26135891694ce4f45b39725916.m3u8",
         "country": "france",
         "liveliness": "94",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
@@ -3470,8 +3470,8 @@
         "channel": "TVE Internacional Asia-Oceania (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/daf7393c90bf8bc723cdb686c3abc2e0.m3u8",
         "country": "france",
-        "liveliness": "97",
-        "status": "online",
+        "liveliness": "96",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "2480",
@@ -3559,7 +3559,7 @@
         "channel": "Uthradam Movies (576p)",
         "link": "https://list.iptvcat.com/my_list/s/ea0ed65990b33692c1c48f93174753d7.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -3619,11 +3619,11 @@
         "channel": "VZ Televisión (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/2a5727ddaa606898f69d98bdf736f5af.m3u8",
         "country": "france",
-        "liveliness": "59",
+        "liveliness": "58",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2737, ...",
+        "format": "hd",
+        "mbps": "4322, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -3664,7 +3664,7 @@
         "link": "https://list.iptvcat.com/my_list/s/965926bd0028d82308cd6d3c7fa1dc8f.m3u8",
         "country": "france",
         "liveliness": "69",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "2480, ...",
@@ -3712,7 +3712,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -3724,7 +3724,7 @@
         "link": "https://list.iptvcat.com/my_list/s/acd853c5816da45c0d7f2e2164ced6f2.m3u8",
         "country": "france",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
@@ -3915,7 +3915,7 @@
         "channel": "Al Kass Four",
         "link": "https://list.iptvcat.com/my_list/s/a0b3d3c587123516ffd3910e30fa0fbc.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -3930,7 +3930,7 @@
         "channel": "Al Kass One",
         "link": "https://list.iptvcat.com/my_list/s/deb90284fa6c305458809a8ab6cc5057.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -3945,7 +3945,7 @@
         "channel": "Al Kass Three",
         "link": "https://list.iptvcat.com/my_list/s/5d2fa15e901864db349681fa05c42902.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -3960,7 +3960,7 @@
         "channel": "Al Kass Two",
         "link": "https://list.iptvcat.com/my_list/s/74ae564df948d0e46092746a1a57e8ad.m3u8",
         "country": "france",
-        "liveliness": "84",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -3975,7 +3975,7 @@
         "channel": "Alpe d’Huez TV (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/58fda23a16e8e8bc72ce697bffdeaffd.m3u8",
         "country": "france",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "fhd 2k",
@@ -4149,8 +4149,8 @@
         "channel": "CBS Atlanta GA (WGCL-DT1) (720p)",
         "link": "https://list.iptvcat.com/my_list/s/42a4d3cf3c747753c3944fa8d9212207.m3u8",
         "country": "france",
-        "liveliness": "98",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -4194,7 +4194,7 @@
         "channel": "Canadian Arab TV (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/83553d894cb38cbc39106bfcdbb3a825.m3u8",
         "country": "france",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -4285,7 +4285,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1003",
+        "mbps": "805",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -4311,7 +4311,7 @@
         "channel": "CinemaWorld (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/3739c7a39df027c0797687eb500c3eaf.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -4344,8 +4344,8 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2194",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -4360,7 +4360,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1051",
+        "mbps": "868",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -4404,7 +4404,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "2491",
+        "mbps": "2491, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -4430,7 +4430,7 @@
         "channel": "Di TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/a9b4ea22dad16fc637700381854b321b.m3u8",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -4505,8 +4505,8 @@
         "channel": "ETV",
         "link": "https://list.iptvcat.com/my_list/s/06bc540a7a147b974a44d95be1f95b4c.m3u8",
         "country": "france",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
@@ -4633,6 +4633,20 @@
         ]
     },
     {
+        "id": "684",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "https://list.iptvcat.com/my_list/s/4b885ec23db5c2f8242b0724cf4edd89.m3u8",
+        "country": "france",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "683",
         "channel": "Fashion TV Midnite Secrets",
         "link": "https://list.iptvcat.com/my_list/s/665014dafd0dc7b9523c145d021beefd.m3u8",
@@ -4689,23 +4703,9 @@
         ]
     },
     {
-        "id": "684",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "https://list.iptvcat.com/my_list/s/4b885ec23db5c2f8242b0724cf4edd89.m3u8",
-        "country": "france",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2472293",
+        "id": "2472296",
         "channel": "Fashion TV Midnite Secrets (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/ca4a9e0deb00bcb4233b74303a5475be.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/0bf1aeb531d52c322fb65866ac5df363.m3u8",
         "country": "france",
         "liveliness": "100",
         "status": "online",
@@ -4717,9 +4717,9 @@
         ]
     },
     {
-        "id": "2472296",
+        "id": "2472293",
         "channel": "Fashion TV Midnite Secrets (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/0bf1aeb531d52c322fb65866ac5df363.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/ca4a9e0deb00bcb4233b74303a5475be.m3u8",
         "country": "france",
         "liveliness": "100",
         "status": "online",
@@ -4836,10 +4836,10 @@
         "link": "https://list.iptvcat.com/my_list/s/4db7bedc996c0ea734b84d5e39e4dd15.m3u8",
         "country": "france",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1008",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -4850,10 +4850,10 @@
         "link": "https://list.iptvcat.com/my_list/s/eeea0e1447d809dfefccb46702d9ac6f.m3u8",
         "country": "france",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1008",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -4864,7 +4864,7 @@
         "link": "https://list.iptvcat.com/my_list/s/f333e5c8e7007312f63b3211176ac2d0.m3u8",
         "country": "france",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -4977,20 +4977,6 @@
         ]
     },
     {
-        "id": "2579447",
-        "channel": "KBS World (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/24454dbca570e1cdf802f5a5d74783dd.m3u8",
-        "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2580062",
         "channel": "KBS World (720p)",
         "link": "https://list.iptvcat.com/my_list/s/45ceb59b01d21d5c8b7e55451d69ace6.m3u8",
@@ -5000,6 +4986,20 @@
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2579447",
+        "channel": "KBS World (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/24454dbca570e1cdf802f5a5d74783dd.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -5058,7 +5058,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -5069,7 +5069,7 @@
         "channel": "Kora TV (360p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/06cef0690822b367361ea74bbca9c421.m3u8",
         "country": "france",
-        "liveliness": "35",
+        "liveliness": "34",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -5109,21 +5109,6 @@
         ]
     },
     {
-        "id": "2578863",
-        "channel": "MN25",
-        "link": "https://list.iptvcat.com/my_list/s/8d55405ecbbeb46d3b613877340e28b2.m3u8",
-        "country": "france",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2579541",
         "channel": "MN25",
         "link": "https://list.iptvcat.com/my_list/s/ed96999538905d018c5968d5f00bedd0.m3u8",
@@ -5133,6 +5118,21 @@
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "1487",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_",
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2578863",
+        "channel": "MN25",
+        "link": "https://list.iptvcat.com/my_list/s/8d55405ecbbeb46d3b613877340e28b2.m3u8",
+        "country": "france",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -5400,7 +5400,7 @@
         "channel": "Al Kass Four",
         "link": "https://list.iptvcat.com/my_list/s/a0b3d3c587123516ffd3910e30fa0fbc.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -5415,7 +5415,7 @@
         "channel": "Al Kass One",
         "link": "https://list.iptvcat.com/my_list/s/deb90284fa6c305458809a8ab6cc5057.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -5430,7 +5430,7 @@
         "channel": "Al Kass Three",
         "link": "https://list.iptvcat.com/my_list/s/5d2fa15e901864db349681fa05c42902.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -5445,7 +5445,7 @@
         "channel": "Al Kass Two",
         "link": "https://list.iptvcat.com/my_list/s/74ae564df948d0e46092746a1a57e8ad.m3u8",
         "country": "france",
-        "liveliness": "84",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -5550,8 +5550,8 @@
         "channel": "CBS Atlanta GA (WGCL-DT1) (720p)",
         "link": "https://list.iptvcat.com/my_list/s/42a4d3cf3c747753c3944fa8d9212207.m3u8",
         "country": "france",
-        "liveliness": "98",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -5644,7 +5644,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1003",
+        "mbps": "805",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -5670,7 +5670,7 @@
         "channel": "CinemaWorld (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/3739c7a39df027c0797687eb500c3eaf.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -5703,8 +5703,8 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2194",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -5719,7 +5719,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1051",
+        "mbps": "868",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -5749,7 +5749,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "2491",
+        "mbps": "2491, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -5775,7 +5775,7 @@
         "channel": "Di TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/a9b4ea22dad16fc637700381854b321b.m3u8",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -5850,8 +5850,8 @@
         "channel": "ETV",
         "link": "https://list.iptvcat.com/my_list/s/06bc540a7a147b974a44d95be1f95b4c.m3u8",
         "country": "france",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
@@ -6109,7 +6109,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -6120,7 +6120,7 @@
         "channel": "Kora TV (360p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/06cef0690822b367361ea74bbca9c421.m3u8",
         "country": "france",
-        "liveliness": "35",
+        "liveliness": "34",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -6322,7 +6322,7 @@
         "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
@@ -6420,7 +6420,7 @@
         "channel": "Puja TV Aceh (1080p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/1fce7915d6831597c9a7ca779a0ce7f6.m3u8",
         "country": "france",
-        "liveliness": "59",
+        "liveliness": "60",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "fhd 2k",
@@ -6465,7 +6465,7 @@
         "channel": "RTV (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/7f73a7cd9958964de54bd21da0c3cc5c.m3u8",
         "country": "france",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -6491,11 +6491,11 @@
         ]
     },
     {
-        "id": "2577309",
+        "id": "2576740",
         "channel": "SCTV (480p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/1b760759529c28e75745a50eff3f1053.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/5f3a32251b07b4e7ec9656ea0c54be8e.m3u8",
         "country": "france",
-        "liveliness": "96",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -6506,11 +6506,11 @@
         ]
     },
     {
-        "id": "2576740",
+        "id": "2577309",
         "channel": "SCTV (480p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/5f3a32251b07b4e7ec9656ea0c54be8e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1b760759529c28e75745a50eff3f1053.m3u8",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -6576,7 +6576,7 @@
         "channel": "THVL2 HD (720p)",
         "link": "https://list.iptvcat.com/my_list/s/f0122325ac45cd3d04650f1d7475363d.m3u8",
         "country": "france",
-        "liveliness": "92",
+        "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -6594,8 +6594,8 @@
         "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
+        "format": "sd",
+        "mbps": "1357",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -6606,7 +6606,7 @@
         "channel": "THVL4 HD (720p)",
         "link": "https://list.iptvcat.com/my_list/s/56378118e9357c3210776f8ac4a3dfe3.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -6622,7 +6622,7 @@
         "link": "https://list.iptvcat.com/my_list/s/70bfdb26135891694ce4f45b39725916.m3u8",
         "country": "france",
         "liveliness": "94",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
@@ -6681,7 +6681,7 @@
         "channel": "Uthradam Movies (576p)",
         "link": "https://list.iptvcat.com/my_list/s/ea0ed65990b33692c1c48f93174753d7.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -6741,11 +6741,11 @@
         "channel": "VZ Televisión (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/2a5727ddaa606898f69d98bdf736f5af.m3u8",
         "country": "france",
-        "liveliness": "59",
+        "liveliness": "58",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2737, ...",
+        "format": "hd",
+        "mbps": "4322, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -6772,7 +6772,7 @@
         "link": "https://list.iptvcat.com/my_list/s/965926bd0028d82308cd6d3c7fa1dc8f.m3u8",
         "country": "france",
         "liveliness": "69",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "2480, ...",
@@ -6820,7 +6820,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -6832,7 +6832,7 @@
         "link": "https://list.iptvcat.com/my_list/s/acd853c5816da45c0d7f2e2164ced6f2.m3u8",
         "country": "france",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
@@ -6861,7 +6861,7 @@
         "channel": "Movie box",
         "link": "https://list.iptvcat.com/my_list/s/47f89399d384ba2c6d9ff34c9e010857.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -6891,8 +6891,8 @@
         "channel": "TVE Internacional Asia-Oceania (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/daf7393c90bf8bc723cdb686c3abc2e0.m3u8",
         "country": "france",
-        "liveliness": "97",
-        "status": "online",
+        "liveliness": "96",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "2480",
@@ -7041,7 +7041,7 @@
         "channel": "Al Kass Four",
         "link": "https://list.iptvcat.com/my_list/s/a0b3d3c587123516ffd3910e30fa0fbc.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -7056,7 +7056,7 @@
         "channel": "Al Kass One",
         "link": "https://list.iptvcat.com/my_list/s/deb90284fa6c305458809a8ab6cc5057.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -7071,7 +7071,7 @@
         "channel": "Al Kass Three",
         "link": "https://list.iptvcat.com/my_list/s/5d2fa15e901864db349681fa05c42902.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -7086,7 +7086,7 @@
         "channel": "Al Kass Two",
         "link": "https://list.iptvcat.com/my_list/s/74ae564df948d0e46092746a1a57e8ad.m3u8",
         "country": "france",
-        "liveliness": "84",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -7191,8 +7191,8 @@
         "channel": "CBS Atlanta GA (WGCL-DT1) (720p)",
         "link": "https://list.iptvcat.com/my_list/s/42a4d3cf3c747753c3944fa8d9212207.m3u8",
         "country": "france",
-        "liveliness": "98",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -7285,7 +7285,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1003",
+        "mbps": "805",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -7311,7 +7311,7 @@
         "channel": "CinemaWorld (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/3739c7a39df027c0797687eb500c3eaf.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -7344,8 +7344,8 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2194",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -7360,7 +7360,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1051",
+        "mbps": "868",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -7390,7 +7390,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "2491",
+        "mbps": "2491, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -7416,7 +7416,7 @@
         "channel": "Di TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/a9b4ea22dad16fc637700381854b321b.m3u8",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -7491,8 +7491,8 @@
         "channel": "ETV",
         "link": "https://list.iptvcat.com/my_list/s/06bc540a7a147b974a44d95be1f95b4c.m3u8",
         "country": "france",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
@@ -7750,7 +7750,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -7761,7 +7761,7 @@
         "channel": "Kora TV (360p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/06cef0690822b367361ea74bbca9c421.m3u8",
         "country": "france",
-        "liveliness": "35",
+        "liveliness": "34",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -7963,7 +7963,7 @@
         "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
@@ -8061,7 +8061,7 @@
         "channel": "Puja TV Aceh (1080p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/1fce7915d6831597c9a7ca779a0ce7f6.m3u8",
         "country": "france",
-        "liveliness": "59",
+        "liveliness": "60",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "fhd 2k",
@@ -8106,7 +8106,7 @@
         "channel": "RTV (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/7f73a7cd9958964de54bd21da0c3cc5c.m3u8",
         "country": "france",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -8132,11 +8132,11 @@
         ]
     },
     {
-        "id": "2577309",
+        "id": "2576740",
         "channel": "SCTV (480p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/1b760759529c28e75745a50eff3f1053.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/5f3a32251b07b4e7ec9656ea0c54be8e.m3u8",
         "country": "france",
-        "liveliness": "96",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -8147,11 +8147,11 @@
         ]
     },
     {
-        "id": "2576740",
+        "id": "2577309",
         "channel": "SCTV (480p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/5f3a32251b07b4e7ec9656ea0c54be8e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1b760759529c28e75745a50eff3f1053.m3u8",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -8217,7 +8217,7 @@
         "channel": "THVL2 HD (720p)",
         "link": "https://list.iptvcat.com/my_list/s/f0122325ac45cd3d04650f1d7475363d.m3u8",
         "country": "france",
-        "liveliness": "92",
+        "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -8235,8 +8235,8 @@
         "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
+        "format": "sd",
+        "mbps": "1357",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -8247,7 +8247,7 @@
         "channel": "THVL4 HD (720p)",
         "link": "https://list.iptvcat.com/my_list/s/56378118e9357c3210776f8ac4a3dfe3.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -8263,7 +8263,7 @@
         "link": "https://list.iptvcat.com/my_list/s/70bfdb26135891694ce4f45b39725916.m3u8",
         "country": "france",
         "liveliness": "94",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
@@ -8322,7 +8322,7 @@
         "channel": "Uthradam Movies (576p)",
         "link": "https://list.iptvcat.com/my_list/s/ea0ed65990b33692c1c48f93174753d7.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -8382,11 +8382,11 @@
         "channel": "VZ Televisión (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/2a5727ddaa606898f69d98bdf736f5af.m3u8",
         "country": "france",
-        "liveliness": "59",
+        "liveliness": "58",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2737, ...",
+        "format": "hd",
+        "mbps": "4322, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -8413,7 +8413,7 @@
         "link": "https://list.iptvcat.com/my_list/s/965926bd0028d82308cd6d3c7fa1dc8f.m3u8",
         "country": "france",
         "liveliness": "69",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "2480, ...",
@@ -8461,7 +8461,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -8473,7 +8473,7 @@
         "link": "https://list.iptvcat.com/my_list/s/acd853c5816da45c0d7f2e2164ced6f2.m3u8",
         "country": "france",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
@@ -8502,7 +8502,7 @@
         "channel": "Movie box",
         "link": "https://list.iptvcat.com/my_list/s/47f89399d384ba2c6d9ff34c9e010857.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -8532,8 +8532,8 @@
         "channel": "TVE Internacional Asia-Oceania (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/daf7393c90bf8bc723cdb686c3abc2e0.m3u8",
         "country": "france",
-        "liveliness": "97",
-        "status": "online",
+        "liveliness": "96",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "2480",
@@ -8682,7 +8682,7 @@
         "channel": "Al Kass Four",
         "link": "https://list.iptvcat.com/my_list/s/a0b3d3c587123516ffd3910e30fa0fbc.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -8697,7 +8697,7 @@
         "channel": "Al Kass One",
         "link": "https://list.iptvcat.com/my_list/s/deb90284fa6c305458809a8ab6cc5057.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -8712,7 +8712,7 @@
         "channel": "Al Kass Three",
         "link": "https://list.iptvcat.com/my_list/s/5d2fa15e901864db349681fa05c42902.m3u8",
         "country": "france",
-        "liveliness": "83",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -8727,7 +8727,7 @@
         "channel": "Al Kass Two",
         "link": "https://list.iptvcat.com/my_list/s/74ae564df948d0e46092746a1a57e8ad.m3u8",
         "country": "france",
-        "liveliness": "84",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -8832,8 +8832,8 @@
         "channel": "CBS Atlanta GA (WGCL-DT1) (720p)",
         "link": "https://list.iptvcat.com/my_list/s/42a4d3cf3c747753c3944fa8d9212207.m3u8",
         "country": "france",
-        "liveliness": "98",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -8926,7 +8926,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1003",
+        "mbps": "805",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -8952,7 +8952,7 @@
         "channel": "CinemaWorld (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/3739c7a39df027c0797687eb500c3eaf.m3u8",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -8985,8 +8985,8 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2194",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -9001,7 +9001,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1051",
+        "mbps": "868",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -9031,7 +9031,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
-        "mbps": "2491",
+        "mbps": "2491, ...",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -9057,7 +9057,7 @@
         "channel": "Di TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/a9b4ea22dad16fc637700381854b321b.m3u8",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
@@ -9132,8 +9132,8 @@
         "channel": "ETV",
         "link": "https://list.iptvcat.com/my_list/s/06bc540a7a147b974a44d95be1f95b4c.m3u8",
         "country": "france",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
@@ -9391,7 +9391,7 @@
         "status": "online",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
@@ -9402,7 +9402,7 @@
         "channel": "Kora TV (360p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/06cef0690822b367361ea74bbca9c421.m3u8",
         "country": "france",
-        "liveliness": "35",
+        "liveliness": "34",
         "status": "offline",
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
@@ -9587,6 +9587,21 @@
         "lastChecked": "2022-08-05T00:00:00Z",
         "format": "sd",
         "mbps": "3883, ...",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_",
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2576683",
+        "channel": "My Family Channel (1080p) [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/294494562accb608580e688da0bb5f7d.m3u8",
+        "country": "france",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-08-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa_-_-_-_-_-"
