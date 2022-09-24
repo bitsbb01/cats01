@@ -1,19 +1,5 @@
 [
     {
-        "id": "2472672",
-        "channel": "NBS TV (480p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/584b271628152fc1e2219db6955727b6.m3u8",
-        "country": "africa",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1484, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
         "id": "2473304",
         "channel": "Citizen TV (1080p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/0dccfa571ad8f5939f4074bfbe032fe2.m3u8",
@@ -543,20 +529,6 @@
         "mbps": "1181",
         "URI": [
             "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2472672",
-        "channel": "NBS TV (480p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/584b271628152fc1e2219db6955727b6.m3u8",
-        "country": "africa",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1484, ...",
-        "URI": [
-            "africa"
         ]
     },
     {
@@ -1199,6 +1171,20 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1182",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2472672",
+        "channel": "NBS TV (480p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/584b271628152fc1e2219db6955727b6.m3u8",
+        "country": "africa",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1484, ...",
         "URI": [
             "africa"
         ]
