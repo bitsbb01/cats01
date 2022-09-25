@@ -1510,20 +1510,6 @@
         ]
     },
     {
-        "id": "132623",
-        "channel": "TV7 Colmar",
-        "link": "https://list.iptvcat.com/my_list/s/61032e9a419624f26a8be18b08478207.m3u8",
-        "country": "france",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "679589",
         "channel": "TV78",
         "link": "https://list.iptvcat.com/my_list/s/1f3b0aada53803281946f821a441768b.m3u8",
@@ -3693,22 +3679,6 @@
         ]
     },
     {
-        "id": "2598170",
-        "channel": "FidoTV",
-        "link": "https://list.iptvcat.com/my_list/s/25fb3e1173b6f067e47b51815cbce9ca.m3u8",
-        "country": "france",
-        "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "greece_-_-_-_-_-_-_-_-_",
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2598182",
         "channel": "FidoTV",
         "link": "https://list.iptvcat.com/my_list/s/080c74fe8d02223030962bb94915e5ff.m3u8",
@@ -5146,6 +5116,20 @@
         "id": "735",
         "channel": "TV7 Colmar",
         "link": "https://list.iptvcat.com/my_list/s/c0ec758433858a18f0b34a12e631da06.m3u8",
+        "country": "france",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "132623",
+        "channel": "TV7 Colmar",
+        "link": "https://list.iptvcat.com/my_list/s/61032e9a419624f26a8be18b08478207.m3u8",
         "country": "france",
         "liveliness": "99",
         "status": "online",
@@ -7237,12 +7221,12 @@
         ]
     },
     {
-        "id": "2598170",
+        "id": "2598182",
         "channel": "FidoTV",
-        "link": "https://list.iptvcat.com/my_list/s/25fb3e1173b6f067e47b51815cbce9ca.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/080c74fe8d02223030962bb94915e5ff.m3u8",
         "country": "france",
-        "liveliness": "92",
-        "status": "offline",
+        "liveliness": "100",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -8250,22 +8234,6 @@
         ]
     },
     {
-        "id": "2598170",
-        "channel": "FidoTV",
-        "link": "https://list.iptvcat.com/my_list/s/25fb3e1173b6f067e47b51815cbce9ca.m3u8",
-        "country": "france",
-        "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "greece_-_-_-_-_-_-_-_-_",
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2598182",
         "channel": "FidoTV",
         "link": "https://list.iptvcat.com/my_list/s/080c74fe8d02223030962bb94915e5ff.m3u8",
@@ -9001,12 +8969,12 @@
         ]
     },
     {
-        "id": "2598170",
+        "id": "2598182",
         "channel": "FidoTV",
-        "link": "https://list.iptvcat.com/my_list/s/25fb3e1173b6f067e47b51815cbce9ca.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/080c74fe8d02223030962bb94915e5ff.m3u8",
         "country": "france",
-        "liveliness": "92",
-        "status": "offline",
+        "liveliness": "100",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -10468,21 +10436,6 @@
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "greece_-_-_-_-_-_-_-_-_",
-            "africa"
-        ]
-    },
-    {
-        "id": "2605084",
-        "channel": "Rakuten Documentaries (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/2cb8f5058cc44845376f79dc329199b3.m3u8",
-        "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
         ]
     },
@@ -13091,6 +13044,21 @@
         ]
     },
     {
+        "id": "2605084",
+        "channel": "Rakuten Documentaries (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/2cb8f5058cc44845376f79dc329199b3.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_",
+            "africa"
+        ]
+    },
+    {
         "id": "2584522",
         "channel": "Tele San Jacinto",
         "link": "https://list.iptvcat.com/my_list/s/9a9ca591ce0c6404eb41aa59a27a8e63.m3u8",
@@ -13962,22 +13930,6 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "greece_-_-_-_-_-_-_-_-_",
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2598170",
-        "channel": "FidoTV",
-        "link": "https://list.iptvcat.com/my_list/s/25fb3e1173b6f067e47b51815cbce9ca.m3u8",
-        "country": "france",
-        "liveliness": "92",
-        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -15579,22 +15531,6 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "greece_-_-_-_-_-_-_-_-_",
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2598170",
-        "channel": "FidoTV",
-        "link": "https://list.iptvcat.com/my_list/s/25fb3e1173b6f067e47b51815cbce9ca.m3u8",
-        "country": "france",
-        "liveliness": "92",
-        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
