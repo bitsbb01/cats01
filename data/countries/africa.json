@@ -1,19 +1,5 @@
 [
     {
-        "id": "2591578",
-        "channel": "WSTO",
-        "link": "https://list.iptvcat.com/my_list/s/949003a6b819bb654953047d1e8127d3.m3u8",
-        "country": "africa",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
         "id": "2606419",
         "channel": "Weatherspy",
         "link": "https://list.iptvcat.com/my_list/s/c88ff073d72e10ba3b3a4dc270f8a8c5.m3u8",
@@ -1148,17 +1134,31 @@
         ]
     },
     {
-        "id": "2591578",
-        "channel": "WSTO",
-        "link": "https://list.iptvcat.com/my_list/s/949003a6b819bb654953047d1e8127d3.m3u8",
+        "id": "2589261",
+        "channel": "Canal del Congreso 45.2",
+        "link": "https://list.iptvcat.com/my_list/s/a7f241a46246a37441f71cd53709933c.m3u8",
         "country": "africa",
-        "liveliness": "95",
-        "status": "offline",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589267",
+        "channel": "Canal del Congreso 45.3",
+        "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
+        "country": "africa",
+        "liveliness": "88",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13311",
+        "mbps": "9546, ...",
         "URI": [
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
@@ -1792,34 +1792,6 @@
         ]
     },
     {
-        "id": "2606927",
-        "channel": "Teletubbies",
-        "link": "https://list.iptvcat.com/my_list/s/60b99d0069b57e746dc0e52961fadbbe.m3u8",
-        "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2606941",
-        "channel": "Televisa Telenovelas",
-        "link": "https://list.iptvcat.com/my_list/s/cabaec4c99409414d5c612d71b43ff36.m3u8",
-        "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
         "id": "2591566",
         "channel": "Tempe Channel 11",
         "link": "https://list.iptvcat.com/my_list/s/798b5aeb2e7bd8adaa1ec69997e7e734.m3u8",
@@ -1955,34 +1927,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2606877",
-        "channel": "Rakuten Drama",
-        "link": "https://list.iptvcat.com/my_list/s/5fc9f0071166134b370e5ce7d9f62906.m3u8",
-        "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2607355",
-        "channel": "Rakuten Drama",
-        "link": "https://list.iptvcat.com/my_list/s/7ee2e0072ad086c103430fc043e9a5f8.m3u8",
-        "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -2347,6 +2291,34 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2606927",
+        "channel": "Teletubbies",
+        "link": "https://list.iptvcat.com/my_list/s/60b99d0069b57e746dc0e52961fadbbe.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2606941",
+        "channel": "Televisa Telenovelas",
+        "link": "https://list.iptvcat.com/my_list/s/cabaec4c99409414d5c612d71b43ff36.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
         "URI": [
             "africa"
         ]
@@ -3304,6 +3276,34 @@
         ]
     },
     {
+        "id": "2606927",
+        "channel": "Teletubbies",
+        "link": "https://list.iptvcat.com/my_list/s/60b99d0069b57e746dc0e52961fadbbe.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2606941",
+        "channel": "Televisa Telenovelas",
+        "link": "https://list.iptvcat.com/my_list/s/cabaec4c99409414d5c612d71b43ff36.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
         "id": "2607479",
         "channel": "3ABN French (720p)",
         "link": "https://list.iptvcat.com/my_list/s/6505820bb9c983730dfdb7e4bb3f82bc.m3u8",
@@ -3808,17 +3808,31 @@
         ]
     },
     {
-        "id": "2606012",
-        "channel": "Gurdwara Sahib Brookside (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/dff0b634a3eecaed055cf02849c68858.m3u8",
+        "id": "2589261",
+        "channel": "Canal del Congreso 45.2",
+        "link": "https://list.iptvcat.com/my_list/s/a7f241a46246a37441f71cd53709933c.m3u8",
         "country": "africa",
-        "liveliness": "91",
-        "status": "offline",
+        "liveliness": "92",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "4318",
         "URI": [
-            "africa"
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589267",
+        "channel": "Canal del Congreso 45.3",
+        "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
+        "country": "africa",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "9546, ...",
+        "URI": [
+            "africa_-_-_-_-_-"
         ]
     },
     {
@@ -4984,29 +4998,29 @@
         ]
     },
     {
-        "id": "2606927",
-        "channel": "Teletubbies",
-        "link": "https://list.iptvcat.com/my_list/s/60b99d0069b57e746dc0e52961fadbbe.m3u8",
+        "id": "2606877",
+        "channel": "Rakuten Drama",
+        "link": "https://list.iptvcat.com/my_list/s/5fc9f0071166134b370e5ce7d9f62906.m3u8",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5991, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
     },
     {
-        "id": "2606941",
-        "channel": "Televisa Telenovelas",
-        "link": "https://list.iptvcat.com/my_list/s/cabaec4c99409414d5c612d71b43ff36.m3u8",
+        "id": "2607355",
+        "channel": "Rakuten Drama",
+        "link": "https://list.iptvcat.com/my_list/s/7ee2e0072ad086c103430fc043e9a5f8.m3u8",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5991, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -5149,34 +5163,6 @@
         "mbps": "5991, ...",
         "URI": [
             "africa"
-        ]
-    },
-    {
-        "id": "2589261",
-        "channel": "Canal del Congreso 45.2",
-        "link": "https://list.iptvcat.com/my_list/s/a7f241a46246a37441f71cd53709933c.m3u8",
-        "country": "africa",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2589267",
-        "channel": "Canal del Congreso 45.3",
-        "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
-        "country": "africa",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546, ...",
-        "URI": [
-            "africa_-_-_-_-_-"
         ]
     },
     {
@@ -5764,7 +5750,7 @@
         "format": "hd",
         "mbps": "5991",
         "URI": [
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
@@ -7476,6 +7462,20 @@
         ]
     },
     {
+        "id": "2606012",
+        "channel": "Gurdwara Sahib Brookside (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/dff0b634a3eecaed055cf02849c68858.m3u8",
+        "country": "africa",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2607479",
         "channel": "3ABN French (720p)",
         "link": "https://list.iptvcat.com/my_list/s/6505820bb9c983730dfdb7e4bb3f82bc.m3u8",
@@ -7975,6 +7975,34 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "754",
+        "URI": [
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589261",
+        "channel": "Canal del Congreso 45.2",
+        "link": "https://list.iptvcat.com/my_list/s/a7f241a46246a37441f71cd53709933c.m3u8",
+        "country": "africa",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589267",
+        "channel": "Canal del Congreso 45.3",
+        "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
+        "country": "africa",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "9546, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
