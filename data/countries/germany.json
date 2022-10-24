@@ -6,7 +6,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -135,7 +135,7 @@
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
-        "mbps": "2578",
+        "mbps": "5020",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -245,7 +245,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -414,7 +414,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -520,6 +520,20 @@
         ]
     },
     {
+        "id": "2266556",
+        "channel": "OK Stendal (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/960414fae13004b17c30f5ec3d5d039f.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "2266555",
         "channel": "OK Stendal (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/48bf641517963013bda167e9388faa08.m3u8",
@@ -537,20 +551,6 @@
         "id": "2266558",
         "channel": "OK Stendal (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/c876b146028a947189649fc2e4b3af11.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266556",
-        "channel": "OK Stendal (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/960414fae13004b17c30f5ec3d5d039f.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -708,21 +708,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "862",
-        "channel": "Offener Kanal Magdeburg",
-        "link": "https://list.iptvcat.com/my_list/s/1e91ecb67fea7759ac6742e6e3984269.m3u8",
-        "country": "germany",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -733,6 +719,20 @@
         "id": "863",
         "channel": "Offener Kanal Magdeburg",
         "link": "https://list.iptvcat.com/my_list/s/ad90c3b546fab9f95ec9a2251b0b5c24.m3u8",
+        "country": "germany",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "862",
+        "channel": "Offener Kanal Magdeburg",
+        "link": "https://list.iptvcat.com/my_list/s/1e91ecb67fea7759ac6742e6e3984269.m3u8",
         "country": "germany",
         "liveliness": "99",
         "status": "online",
@@ -790,7 +790,7 @@
         "channel": "Orf 3 HD",
         "link": "https://list.iptvcat.com/my_list/s/9a5ea7ce798c0290ad5d3dfb2d3f0196.m3u8",
         "country": "germany",
-        "liveliness": "78",
+        "liveliness": "77",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -804,7 +804,7 @@
         "channel": "Orf Sport+",
         "link": "https://list.iptvcat.com/my_list/s/fcccb966459740e11c1a3e64f95afb81.m3u8",
         "country": "germany",
-        "liveliness": "76",
+        "liveliness": "75",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -1012,11 +1012,11 @@
         ]
     },
     {
-        "id": "2266574",
+        "id": "2266572",
         "channel": "RBW (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/4ab978f2f2ac5c416843066d5541cb2b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/0a81943b5e5ed1b1d9e832e4c988102c.m3u8",
         "country": "germany",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -1026,11 +1026,11 @@
         ]
     },
     {
-        "id": "2266572",
+        "id": "2266574",
         "channel": "RBW (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/0a81943b5e5ed1b1d9e832e4c988102c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/4ab978f2f2ac5c416843066d5541cb2b.m3u8",
         "country": "germany",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -1088,7 +1088,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1130,7 +1130,7 @@
         "country": "germany",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1226,7 +1226,7 @@
         "channel": "RTL+ Sport Event 2",
         "link": "https://list.iptvcat.com/my_list/s/8fedab1fdaa943ec894411b381a39607.m3u8",
         "country": "germany",
-        "liveliness": "72",
+        "liveliness": "71",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -1312,7 +1312,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -1525,7 +1525,7 @@
         "channel": "Sky Bundesliga 10 HD",
         "link": "https://list.iptvcat.com/my_list/s/0bbac9b3b7d2df7be58e53fe8a301624.m3u8",
         "country": "germany",
-        "liveliness": "73",
+        "liveliness": "72",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -1544,20 +1544,6 @@
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "8370",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2589984",
-        "channel": "Sky Bundesliga 9 HD",
-        "link": "https://list.iptvcat.com/my_list/s/6a348e548e84d6cf45f1a281bf5d6dfc.m3u8",
-        "country": "germany",
-        "liveliness": "75",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -1689,20 +1675,6 @@
         ]
     },
     {
-        "id": "2590015",
-        "channel": "Sky Sport 10 HD",
-        "link": "https://list.iptvcat.com/my_list/s/4f1d9833fb5e6f19703a9931f6c28205.m3u8",
-        "country": "germany",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2591989",
         "channel": "Sky Sport 2",
         "link": "https://list.iptvcat.com/my_list/s/11123994b30a8e58ed7fbb298aef33fb.m3u8",
@@ -1721,25 +1693,11 @@
         "channel": "Sky Sport 6 HD",
         "link": "https://list.iptvcat.com/my_list/s/e8884754db260e9b90efbb5a4d2fdb92.m3u8",
         "country": "germany",
-        "liveliness": "79",
+        "liveliness": "78",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2590007",
-        "channel": "Sky Sport 7 HD",
-        "link": "https://list.iptvcat.com/my_list/s/015004b22ffbb7d1d050592d916eed41.m3u8",
-        "country": "germany",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -1750,20 +1708,6 @@
         "link": "https://list.iptvcat.com/my_list/s/885e26e6abdfafa70c4d386fa7133fad.m3u8",
         "country": "germany",
         "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2590016",
-        "channel": "Sky Sport Austria",
-        "link": "https://list.iptvcat.com/my_list/s/ef0d91d8ac40a15329d89d358a996a0e.m3u8",
-        "country": "germany",
-        "liveliness": "73",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -1796,20 +1740,6 @@
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2590019",
-        "channel": "Sky Sport Austria 3 HD (Live Event)",
-        "link": "https://list.iptvcat.com/my_list/s/8f50738294801c276994f70999d47feb.m3u8",
-        "country": "germany",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -1861,7 +1791,7 @@
         "channel": "Sky Sport F1",
         "link": "https://list.iptvcat.com/my_list/s/87996743ee9084c39cd0533bd4228a7f.m3u8",
         "country": "germany",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -1903,7 +1833,7 @@
         "channel": "Sky Sport News HD+",
         "link": "https://list.iptvcat.com/my_list/s/452c592236fe4526fa32b9f2bd756505.m3u8",
         "country": "germany",
-        "liveliness": "78",
+        "liveliness": "77",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -1917,7 +1847,7 @@
         "channel": "Sky Sport Tennis",
         "link": "https://list.iptvcat.com/my_list/s/feb31a6d3e83754dfa240480ea56e7e1.m3u8",
         "country": "germany",
-        "liveliness": "58",
+        "liveliness": "57",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -1931,7 +1861,7 @@
         "channel": "Sky Sports Premier League HD",
         "link": "https://list.iptvcat.com/my_list/s/0ff89666e0d0694e1613532fd9ebcee4.m3u8",
         "country": "germany",
-        "liveliness": "76",
+        "liveliness": "75",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -1987,7 +1917,7 @@
         "channel": "Sport 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/aa3247092a15a06c53ba278f8dfb2784.m3u8",
         "country": "germany",
-        "liveliness": "75",
+        "liveliness": "74",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
@@ -2002,20 +1932,6 @@
         "link": "https://list.iptvcat.com/my_list/s/ae8206ce6dfa7ac1cf5d21872d2d74e0.m3u8",
         "country": "germany",
         "liveliness": "81",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2590029",
-        "channel": "Sport Digital HD",
-        "link": "https://list.iptvcat.com/my_list/s/d3f2f9057720216366287c09b81b834f.m3u8",
-        "country": "germany",
-        "liveliness": "77",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -2157,7 +2073,7 @@
         "country": "germany",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986, ...",
         "URI": [
@@ -2235,20 +2151,6 @@
         ]
     },
     {
-        "id": "2590056",
-        "channel": "Telekom Basketball 3 HD",
-        "link": "https://list.iptvcat.com/my_list/s/03e18bf7ea600f8d976c38ce35445cb8.m3u8",
-        "country": "germany",
-        "liveliness": "72",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2590043",
         "channel": "Telekom Fussball 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/3cfdecfc20c8e55ae1253edf4a1cd162.m3u8",
@@ -2267,7 +2169,7 @@
         "channel": "Telekom Fussball 3 HD",
         "link": "https://list.iptvcat.com/my_list/s/61cf8ce1cdc784a71c01d56739c896eb.m3u8",
         "country": "germany",
-        "liveliness": "71",
+        "liveliness": "70",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -2295,7 +2197,7 @@
         "channel": "Telekom Fussball 5 HD",
         "link": "https://list.iptvcat.com/my_list/s/6a1550f3abf203d8387d02bdb0d54f45.m3u8",
         "country": "germany",
-        "liveliness": "75",
+        "liveliness": "74",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -2309,7 +2211,7 @@
         "channel": "Telekom Fussball 6 HD",
         "link": "https://list.iptvcat.com/my_list/s/8cbafe4ae5a3c639c6b2f61476f55d13.m3u8",
         "country": "germany",
-        "liveliness": "79",
+        "liveliness": "78",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -2441,7 +2343,7 @@
         "country": "germany",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -2531,8 +2433,8 @@
         "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "1643",
+        "format": "hd",
+        "mbps": "4322, ...",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -2573,7 +2475,7 @@
         "channel": "WJLP-DT1 (MeTV New York)",
         "link": "https://list.iptvcat.com/my_list/s/b68942b73317fd0a1188d145fe396d89.m3u8",
         "country": "germany",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -2648,7 +2550,7 @@
         "channel": "WKOB-LD6 (Estrella TV) (480p)",
         "link": "https://list.iptvcat.com/my_list/s/822d4d67bcacc7801fb10503fd447b9f.m3u8",
         "country": "germany",
-        "liveliness": "84",
+        "liveliness": "83",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
@@ -2666,8 +2568,8 @@
         "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9556, ...",
+        "format": "sd",
+        "mbps": "1643",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -2695,7 +2597,7 @@
         "country": "germany",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -2739,7 +2641,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a3bdd5c595da268d16979a06de981f52.m3u8",
         "country": "germany",
         "liveliness": "92",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -2770,7 +2672,7 @@
         "country": "germany",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -2785,7 +2687,7 @@
         "country": "germany",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
         "URI": [
@@ -2814,7 +2716,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0bef261fa03da3a873d782db6a30ce6d.m3u8",
         "country": "germany",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
@@ -2888,7 +2790,7 @@
         "channel": "WNYE-DT3 (CUNY TV) (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/490a8770af2003fd013fd57f02ebdb67.m3u8",
         "country": "germany",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -2978,8 +2880,8 @@
         "channel": "WPHY-CD2 (SonLife) (432p)",
         "link": "https://list.iptvcat.com/my_list/s/72ac54a15b8ffa2de9e19254db12efe5.m3u8",
         "country": "germany",
-        "liveliness": "96",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -3069,7 +2971,7 @@
         "link": "https://list.iptvcat.com/my_list/s/7e83c8a1aef31b74a76d44df0dfbd754.m3u8",
         "country": "germany",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -3130,7 +3032,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -3294,7 +3196,7 @@
         "link": "https://list.iptvcat.com/my_list/s/e190e1f3809925a3de77fd8622a282fc.m3u8",
         "country": "germany",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -3676,24 +3578,9 @@
         ]
     },
     {
-        "id": "693645",
+        "id": "517812",
         "channel": "ARD-alpha",
-        "link": "https://list.iptvcat.com/my_list/s/96c23276222952331c43cd14f3fd1b6c.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "germany",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "5475",
-        "channel": "ARD-alpha",
-        "link": "https://list.iptvcat.com/my_list/s/76821df3416aa5a1851bac442b984d7f.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/592fb54fad7b0cc20b7506f2a2745897.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -3706,9 +3593,24 @@
         ]
     },
     {
-        "id": "517812",
+        "id": "693645",
         "channel": "ARD-alpha",
-        "link": "https://list.iptvcat.com/my_list/s/592fb54fad7b0cc20b7506f2a2745897.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/96c23276222952331c43cd14f3fd1b6c.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "germany",
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "5475",
+        "channel": "ARD-alpha",
+        "link": "https://list.iptvcat.com/my_list/s/76821df3416aa5a1851bac442b984d7f.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -3832,7 +3734,7 @@
         "channel": "Auto Motor Sport Channel",
         "link": "https://list.iptvcat.com/my_list/s/34f70472f441da7594c372ddc85ee17c.m3u8",
         "country": "germany",
-        "liveliness": "70",
+        "liveliness": "69",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -3963,6 +3865,21 @@
         ]
     },
     {
+        "id": "762",
+        "channel": "Baden TV",
+        "link": "https://list.iptvcat.com/my_list/s/1f8787812c00210dc819e068038764c0.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "germany",
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "761",
         "channel": "Baden TV",
         "link": "https://list.iptvcat.com/my_list/s/ad696337fa01b75e93c8c9ab236081b8.m3u8",
@@ -3981,21 +3898,6 @@
         "id": "22428",
         "channel": "Baden TV",
         "link": "https://list.iptvcat.com/my_list/s/9bf599409bf0873c17537a15c2c6f438.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "germany",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "762",
-        "channel": "Baden TV",
-        "link": "https://list.iptvcat.com/my_list/s/1f8787812c00210dc819e068038764c0.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -4134,7 +4036,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4194,7 +4096,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
         "URI": [
@@ -4312,7 +4214,7 @@
         "channel": "Dazn Sport 2",
         "link": "https://list.iptvcat.com/my_list/s/def21d8ce765b7ddc53b5a519dd3fa59.m3u8",
         "country": "germany",
-        "liveliness": "73",
+        "liveliness": "72",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -4327,7 +4229,7 @@
         "channel": "Dazn Sport 2 HD+",
         "link": "https://list.iptvcat.com/my_list/s/218d7c6f7d317832425826ef0e2d2a22.m3u8",
         "country": "germany",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -4342,7 +4244,7 @@
         "channel": "Dazn Sport 5",
         "link": "https://list.iptvcat.com/my_list/s/936ef966d3b01555b551f766bcb38825.m3u8",
         "country": "germany",
-        "liveliness": "58",
+        "liveliness": "57",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -4357,7 +4259,7 @@
         "channel": "Dazn Sport HD+",
         "link": "https://list.iptvcat.com/my_list/s/5f4971337ecc0b8dc6e23e3ae821d882.m3u8",
         "country": "germany",
-        "liveliness": "83",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -4437,7 +4339,7 @@
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "5991",
         "URI": [
             "germany",
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
@@ -4451,7 +4353,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -4496,7 +4398,7 @@
         "channel": "Eurosport 1",
         "link": "https://list.iptvcat.com/my_list/s/5ebc6b8a8c032909e0da1cf5bcdadbe6.m3u8",
         "country": "germany",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -4511,7 +4413,7 @@
         "channel": "Eurosport 2",
         "link": "https://list.iptvcat.com/my_list/s/77040a3f6614d29fa3bfc24cd5bcab4d.m3u8",
         "country": "germany",
-        "liveliness": "82",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -4786,7 +4688,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4901,6 +4803,21 @@
         ]
     },
     {
+        "id": "838",
+        "channel": "MDF 1",
+        "link": "https://list.iptvcat.com/my_list/s/ef0cdf132cdee0cdb7de3072817e486a.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "germany",
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "836",
         "channel": "MDF 1",
         "link": "https://list.iptvcat.com/my_list/s/b3b19e8655757db8848887f74c1f1c33.m3u8",
@@ -4931,28 +4848,13 @@
         ]
     },
     {
-        "id": "838",
-        "channel": "MDF 1",
-        "link": "https://list.iptvcat.com/my_list/s/ef0cdf132cdee0cdb7de3072817e486a.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "germany",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2266516",
         "channel": "MDF.1 (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/7a6478bcbbc1ad3a53833d302e5e653e.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -4982,7 +4884,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -5073,7 +4975,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5187,24 +5089,9 @@
         ]
     },
     {
-        "id": "693645",
+        "id": "517812",
         "channel": "ARD-alpha",
-        "link": "https://list.iptvcat.com/my_list/s/96c23276222952331c43cd14f3fd1b6c.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "germany",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "5475",
-        "channel": "ARD-alpha",
-        "link": "https://list.iptvcat.com/my_list/s/76821df3416aa5a1851bac442b984d7f.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/592fb54fad7b0cc20b7506f2a2745897.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -5217,9 +5104,24 @@
         ]
     },
     {
-        "id": "517812",
+        "id": "693645",
         "channel": "ARD-alpha",
-        "link": "https://list.iptvcat.com/my_list/s/592fb54fad7b0cc20b7506f2a2745897.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/96c23276222952331c43cd14f3fd1b6c.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "germany",
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "5475",
+        "channel": "ARD-alpha",
+        "link": "https://list.iptvcat.com/my_list/s/76821df3416aa5a1851bac442b984d7f.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -5343,7 +5245,7 @@
         "channel": "Auto Motor Sport Channel",
         "link": "https://list.iptvcat.com/my_list/s/34f70472f441da7594c372ddc85ee17c.m3u8",
         "country": "germany",
-        "liveliness": "70",
+        "liveliness": "69",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -5474,6 +5376,21 @@
         ]
     },
     {
+        "id": "762",
+        "channel": "Baden TV",
+        "link": "https://list.iptvcat.com/my_list/s/1f8787812c00210dc819e068038764c0.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "germany",
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "761",
         "channel": "Baden TV",
         "link": "https://list.iptvcat.com/my_list/s/ad696337fa01b75e93c8c9ab236081b8.m3u8",
@@ -5492,21 +5409,6 @@
         "id": "22428",
         "channel": "Baden TV",
         "link": "https://list.iptvcat.com/my_list/s/9bf599409bf0873c17537a15c2c6f438.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "germany",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "762",
-        "channel": "Baden TV",
-        "link": "https://list.iptvcat.com/my_list/s/1f8787812c00210dc819e068038764c0.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -5645,7 +5547,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5705,7 +5607,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
         "URI": [
@@ -5823,7 +5725,7 @@
         "channel": "Dazn Sport 2",
         "link": "https://list.iptvcat.com/my_list/s/def21d8ce765b7ddc53b5a519dd3fa59.m3u8",
         "country": "germany",
-        "liveliness": "73",
+        "liveliness": "72",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -5838,7 +5740,7 @@
         "channel": "Dazn Sport 2 HD+",
         "link": "https://list.iptvcat.com/my_list/s/218d7c6f7d317832425826ef0e2d2a22.m3u8",
         "country": "germany",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -5853,7 +5755,7 @@
         "channel": "Dazn Sport 5",
         "link": "https://list.iptvcat.com/my_list/s/936ef966d3b01555b551f766bcb38825.m3u8",
         "country": "germany",
-        "liveliness": "58",
+        "liveliness": "57",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -5868,7 +5770,7 @@
         "channel": "Dazn Sport HD+",
         "link": "https://list.iptvcat.com/my_list/s/5f4971337ecc0b8dc6e23e3ae821d882.m3u8",
         "country": "germany",
-        "liveliness": "83",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -5948,7 +5850,7 @@
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "5991",
         "URI": [
             "germany",
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
@@ -5962,7 +5864,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -6007,7 +5909,7 @@
         "channel": "Eurosport 1",
         "link": "https://list.iptvcat.com/my_list/s/5ebc6b8a8c032909e0da1cf5bcdadbe6.m3u8",
         "country": "germany",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -6022,7 +5924,7 @@
         "channel": "Eurosport 2",
         "link": "https://list.iptvcat.com/my_list/s/77040a3f6614d29fa3bfc24cd5bcab4d.m3u8",
         "country": "germany",
-        "liveliness": "82",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -6297,7 +6199,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -6412,6 +6314,21 @@
         ]
     },
     {
+        "id": "838",
+        "channel": "MDF 1",
+        "link": "https://list.iptvcat.com/my_list/s/ef0cdf132cdee0cdb7de3072817e486a.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "germany",
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "836",
         "channel": "MDF 1",
         "link": "https://list.iptvcat.com/my_list/s/b3b19e8655757db8848887f74c1f1c33.m3u8",
@@ -6442,28 +6359,13 @@
         ]
     },
     {
-        "id": "838",
-        "channel": "MDF 1",
-        "link": "https://list.iptvcat.com/my_list/s/ef0cdf132cdee0cdb7de3072817e486a.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "germany",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2266516",
         "channel": "MDF.1 (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/7a6478bcbbc1ad3a53833d302e5e653e.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -6493,7 +6395,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -6584,7 +6486,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -6605,111 +6507,6 @@
         "URI": [
             "germany",
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2583298",
-        "channel": "WNJU-DT1 (Telemundo 47)",
-        "link": "https://list.iptvcat.com/my_list/s/b164bca4e7685ebaea8f02a832ea09c3.m3u8",
-        "country": "germany",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9556, ...",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
-            "africa"
-        ]
-    },
-    {
-        "id": "2583310",
-        "channel": "WNJU-DT2 (teleXitos) (432p)",
-        "link": "https://list.iptvcat.com/my_list/s/312fc8e53f2266544e15d85cfd26e5bd.m3u8",
-        "country": "germany",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "1643",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
-            "africa"
-        ]
-    },
-    {
-        "id": "2583334",
-        "channel": "WNYE-DT1 (NYC Life) (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/bf4a7c374b77561ca5391a8c1868c4be.m3u8",
-        "country": "germany",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9556, ...",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
-            "africa"
-        ]
-    },
-    {
-        "id": "2583358",
-        "channel": "WNYE-DT2 (NYC Gov) (432p)",
-        "link": "https://list.iptvcat.com/my_list/s/9cbe66c1b1cbc22e0de5c1c617b09739.m3u8",
-        "country": "germany",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "1643",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
-            "africa"
-        ]
-    },
-    {
-        "id": "2583384",
-        "channel": "WNYE-DT3 (CUNY TV) (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/490a8770af2003fd013fd57f02ebdb67.m3u8",
-        "country": "germany",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9556, ...",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
-            "africa"
-        ]
-    },
-    {
-        "id": "2583408",
-        "channel": "WNYJLD (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/fc7d0b14e0bf3df95af48794f24a6036.m3u8",
-        "country": "germany",
-        "liveliness": "78",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "1531",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
-            "africa"
-        ]
-    },
-    {
-        "id": "2583426",
-        "channel": "WNYW-DT1 (FOX 5) (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/43e1fbcf876653f0dc00e97f36234d3e.m3u8",
-        "country": "germany",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "4322, ...",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
-            "africa"
         ]
     },
     {
@@ -6762,8 +6559,8 @@
         "channel": "WPHY-CD2 (SonLife) (432p)",
         "link": "https://list.iptvcat.com/my_list/s/72ac54a15b8ffa2de9e19254db12efe5.m3u8",
         "country": "germany",
-        "liveliness": "96",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -6853,7 +6650,7 @@
         "link": "https://list.iptvcat.com/my_list/s/7e83c8a1aef31b74a76d44df0dfbd754.m3u8",
         "country": "germany",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -6914,7 +6711,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -7078,7 +6875,7 @@
         "link": "https://list.iptvcat.com/my_list/s/e190e1f3809925a3de77fd8622a282fc.m3u8",
         "country": "germany",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -7486,7 +7283,7 @@
         "channel": "Sky Bundesliga 10 HD",
         "link": "https://list.iptvcat.com/my_list/s/0bbac9b3b7d2df7be58e53fe8a301624.m3u8",
         "country": "germany",
-        "liveliness": "73",
+        "liveliness": "72",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -7505,20 +7302,6 @@
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "8370",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2589984",
-        "channel": "Sky Bundesliga 9 HD",
-        "link": "https://list.iptvcat.com/my_list/s/6a348e548e84d6cf45f1a281bf5d6dfc.m3u8",
-        "country": "germany",
-        "liveliness": "75",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -7650,20 +7433,6 @@
         ]
     },
     {
-        "id": "2590015",
-        "channel": "Sky Sport 10 HD",
-        "link": "https://list.iptvcat.com/my_list/s/4f1d9833fb5e6f19703a9931f6c28205.m3u8",
-        "country": "germany",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2591989",
         "channel": "Sky Sport 2",
         "link": "https://list.iptvcat.com/my_list/s/11123994b30a8e58ed7fbb298aef33fb.m3u8",
@@ -7682,25 +7451,11 @@
         "channel": "Sky Sport 6 HD",
         "link": "https://list.iptvcat.com/my_list/s/e8884754db260e9b90efbb5a4d2fdb92.m3u8",
         "country": "germany",
-        "liveliness": "79",
+        "liveliness": "78",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2590007",
-        "channel": "Sky Sport 7 HD",
-        "link": "https://list.iptvcat.com/my_list/s/015004b22ffbb7d1d050592d916eed41.m3u8",
-        "country": "germany",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -7711,20 +7466,6 @@
         "link": "https://list.iptvcat.com/my_list/s/885e26e6abdfafa70c4d386fa7133fad.m3u8",
         "country": "germany",
         "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2590016",
-        "channel": "Sky Sport Austria",
-        "link": "https://list.iptvcat.com/my_list/s/ef0d91d8ac40a15329d89d358a996a0e.m3u8",
-        "country": "germany",
-        "liveliness": "73",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -7757,20 +7498,6 @@
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2590019",
-        "channel": "Sky Sport Austria 3 HD (Live Event)",
-        "link": "https://list.iptvcat.com/my_list/s/8f50738294801c276994f70999d47feb.m3u8",
-        "country": "germany",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -7822,7 +7549,7 @@
         "channel": "Sky Sport F1",
         "link": "https://list.iptvcat.com/my_list/s/87996743ee9084c39cd0533bd4228a7f.m3u8",
         "country": "germany",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -7864,7 +7591,7 @@
         "channel": "Sky Sport News HD+",
         "link": "https://list.iptvcat.com/my_list/s/452c592236fe4526fa32b9f2bd756505.m3u8",
         "country": "germany",
-        "liveliness": "78",
+        "liveliness": "77",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -7878,7 +7605,7 @@
         "channel": "Sky Sport Tennis",
         "link": "https://list.iptvcat.com/my_list/s/feb31a6d3e83754dfa240480ea56e7e1.m3u8",
         "country": "germany",
-        "liveliness": "58",
+        "liveliness": "57",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -7892,7 +7619,7 @@
         "channel": "Sky Sports Premier League HD",
         "link": "https://list.iptvcat.com/my_list/s/0ff89666e0d0694e1613532fd9ebcee4.m3u8",
         "country": "germany",
-        "liveliness": "76",
+        "liveliness": "75",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -7948,7 +7675,7 @@
         "channel": "Sport 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/aa3247092a15a06c53ba278f8dfb2784.m3u8",
         "country": "germany",
-        "liveliness": "75",
+        "liveliness": "74",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
@@ -7963,20 +7690,6 @@
         "link": "https://list.iptvcat.com/my_list/s/ae8206ce6dfa7ac1cf5d21872d2d74e0.m3u8",
         "country": "germany",
         "liveliness": "81",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2590029",
-        "channel": "Sport Digital HD",
-        "link": "https://list.iptvcat.com/my_list/s/d3f2f9057720216366287c09b81b834f.m3u8",
-        "country": "germany",
-        "liveliness": "77",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -8118,7 +7831,7 @@
         "country": "germany",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986, ...",
         "URI": [
@@ -8196,20 +7909,6 @@
         ]
     },
     {
-        "id": "2590056",
-        "channel": "Telekom Basketball 3 HD",
-        "link": "https://list.iptvcat.com/my_list/s/03e18bf7ea600f8d976c38ce35445cb8.m3u8",
-        "country": "germany",
-        "liveliness": "72",
-        "status": "offline",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2590043",
         "channel": "Telekom Fussball 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/3cfdecfc20c8e55ae1253edf4a1cd162.m3u8",
@@ -8228,7 +7927,7 @@
         "channel": "Telekom Fussball 3 HD",
         "link": "https://list.iptvcat.com/my_list/s/61cf8ce1cdc784a71c01d56739c896eb.m3u8",
         "country": "germany",
-        "liveliness": "71",
+        "liveliness": "70",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -8256,7 +7955,7 @@
         "channel": "Telekom Fussball 5 HD",
         "link": "https://list.iptvcat.com/my_list/s/6a1550f3abf203d8387d02bdb0d54f45.m3u8",
         "country": "germany",
-        "liveliness": "75",
+        "liveliness": "74",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -8270,7 +7969,7 @@
         "channel": "Telekom Fussball 6 HD",
         "link": "https://list.iptvcat.com/my_list/s/8cbafe4ae5a3c639c6b2f61476f55d13.m3u8",
         "country": "germany",
-        "liveliness": "79",
+        "liveliness": "78",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -8402,7 +8101,7 @@
         "country": "germany",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -8492,8 +8191,8 @@
         "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "1643",
+        "format": "hd",
+        "mbps": "4322, ...",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -8534,7 +8233,7 @@
         "channel": "WJLP-DT1 (MeTV New York)",
         "link": "https://list.iptvcat.com/my_list/s/b68942b73317fd0a1188d145fe396d89.m3u8",
         "country": "germany",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -8609,7 +8308,7 @@
         "channel": "WKOB-LD6 (Estrella TV) (480p)",
         "link": "https://list.iptvcat.com/my_list/s/822d4d67bcacc7801fb10503fd447b9f.m3u8",
         "country": "germany",
-        "liveliness": "84",
+        "liveliness": "83",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
@@ -8627,8 +8326,8 @@
         "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9556, ...",
+        "format": "sd",
+        "mbps": "1643",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -8656,7 +8355,7 @@
         "country": "germany",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -8700,7 +8399,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a3bdd5c595da268d16979a06de981f52.m3u8",
         "country": "germany",
         "liveliness": "92",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -8731,7 +8430,7 @@
         "country": "germany",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -8746,7 +8445,7 @@
         "country": "germany",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
         "URI": [
@@ -8775,10 +8474,115 @@
         "link": "https://list.iptvcat.com/my_list/s/0bef261fa03da3a873d782db6a30ce6d.m3u8",
         "country": "germany",
         "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "9556, ...",
+        "URI": [
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
+            "africa"
+        ]
+    },
+    {
+        "id": "2583298",
+        "channel": "WNJU-DT1 (Telemundo 47)",
+        "link": "https://list.iptvcat.com/my_list/s/b164bca4e7685ebaea8f02a832ea09c3.m3u8",
+        "country": "germany",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "9556, ...",
+        "URI": [
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
+            "africa"
+        ]
+    },
+    {
+        "id": "2583310",
+        "channel": "WNJU-DT2 (teleXitos) (432p)",
+        "link": "https://list.iptvcat.com/my_list/s/312fc8e53f2266544e15d85cfd26e5bd.m3u8",
+        "country": "germany",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "1643",
+        "URI": [
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
+            "africa"
+        ]
+    },
+    {
+        "id": "2583334",
+        "channel": "WNYE-DT1 (NYC Life) (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/bf4a7c374b77561ca5391a8c1868c4be.m3u8",
+        "country": "germany",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "9556, ...",
+        "URI": [
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
+            "africa"
+        ]
+    },
+    {
+        "id": "2583358",
+        "channel": "WNYE-DT2 (NYC Gov) (432p)",
+        "link": "https://list.iptvcat.com/my_list/s/9cbe66c1b1cbc22e0de5c1c617b09739.m3u8",
+        "country": "germany",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "1643",
+        "URI": [
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
+            "africa"
+        ]
+    },
+    {
+        "id": "2583384",
+        "channel": "WNYE-DT3 (CUNY TV) (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/490a8770af2003fd013fd57f02ebdb67.m3u8",
+        "country": "germany",
+        "liveliness": "89",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
+        "URI": [
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
+            "africa"
+        ]
+    },
+    {
+        "id": "2583408",
+        "channel": "WNYJLD (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/fc7d0b14e0bf3df95af48794f24a6036.m3u8",
+        "country": "germany",
+        "liveliness": "78",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "1531",
+        "URI": [
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
+            "africa"
+        ]
+    },
+    {
+        "id": "2583426",
+        "channel": "WNYW-DT1 (FOX 5) (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/43e1fbcf876653f0dc00e97f36234d3e.m3u8",
+        "country": "germany",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322, ...",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -8875,24 +8679,9 @@
         ]
     },
     {
-        "id": "693645",
+        "id": "517812",
         "channel": "ARD-alpha",
-        "link": "https://list.iptvcat.com/my_list/s/96c23276222952331c43cd14f3fd1b6c.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "germany",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "5475",
-        "channel": "ARD-alpha",
-        "link": "https://list.iptvcat.com/my_list/s/76821df3416aa5a1851bac442b984d7f.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/592fb54fad7b0cc20b7506f2a2745897.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -8905,9 +8694,24 @@
         ]
     },
     {
-        "id": "517812",
+        "id": "693645",
         "channel": "ARD-alpha",
-        "link": "https://list.iptvcat.com/my_list/s/592fb54fad7b0cc20b7506f2a2745897.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/96c23276222952331c43cd14f3fd1b6c.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "germany",
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "5475",
+        "channel": "ARD-alpha",
+        "link": "https://list.iptvcat.com/my_list/s/76821df3416aa5a1851bac442b984d7f.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -9031,7 +8835,7 @@
         "channel": "Auto Motor Sport Channel",
         "link": "https://list.iptvcat.com/my_list/s/34f70472f441da7594c372ddc85ee17c.m3u8",
         "country": "germany",
-        "liveliness": "70",
+        "liveliness": "69",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -9162,6 +8966,21 @@
         ]
     },
     {
+        "id": "762",
+        "channel": "Baden TV",
+        "link": "https://list.iptvcat.com/my_list/s/1f8787812c00210dc819e068038764c0.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "germany",
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "761",
         "channel": "Baden TV",
         "link": "https://list.iptvcat.com/my_list/s/ad696337fa01b75e93c8c9ab236081b8.m3u8",
@@ -9180,21 +8999,6 @@
         "id": "22428",
         "channel": "Baden TV",
         "link": "https://list.iptvcat.com/my_list/s/9bf599409bf0873c17537a15c2c6f438.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "germany",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "762",
-        "channel": "Baden TV",
-        "link": "https://list.iptvcat.com/my_list/s/1f8787812c00210dc819e068038764c0.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -9333,7 +9137,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -9393,7 +9197,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
         "URI": [
@@ -9511,7 +9315,7 @@
         "channel": "Dazn Sport 2",
         "link": "https://list.iptvcat.com/my_list/s/def21d8ce765b7ddc53b5a519dd3fa59.m3u8",
         "country": "germany",
-        "liveliness": "73",
+        "liveliness": "72",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -9526,7 +9330,7 @@
         "channel": "Dazn Sport 2 HD+",
         "link": "https://list.iptvcat.com/my_list/s/218d7c6f7d317832425826ef0e2d2a22.m3u8",
         "country": "germany",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -9541,7 +9345,7 @@
         "channel": "Dazn Sport 5",
         "link": "https://list.iptvcat.com/my_list/s/936ef966d3b01555b551f766bcb38825.m3u8",
         "country": "germany",
-        "liveliness": "58",
+        "liveliness": "57",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -9556,7 +9360,7 @@
         "channel": "Dazn Sport HD+",
         "link": "https://list.iptvcat.com/my_list/s/5f4971337ecc0b8dc6e23e3ae821d882.m3u8",
         "country": "germany",
-        "liveliness": "83",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -9636,7 +9440,7 @@
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "5991",
         "URI": [
             "germany",
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
@@ -9650,7 +9454,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -9695,7 +9499,7 @@
         "channel": "Eurosport 1",
         "link": "https://list.iptvcat.com/my_list/s/5ebc6b8a8c032909e0da1cf5bcdadbe6.m3u8",
         "country": "germany",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -9710,7 +9514,7 @@
         "channel": "Eurosport 2",
         "link": "https://list.iptvcat.com/my_list/s/77040a3f6614d29fa3bfc24cd5bcab4d.m3u8",
         "country": "germany",
-        "liveliness": "82",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -9985,7 +9789,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -10100,6 +9904,21 @@
         ]
     },
     {
+        "id": "838",
+        "channel": "MDF 1",
+        "link": "https://list.iptvcat.com/my_list/s/ef0cdf132cdee0cdb7de3072817e486a.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "germany",
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "836",
         "channel": "MDF 1",
         "link": "https://list.iptvcat.com/my_list/s/b3b19e8655757db8848887f74c1f1c33.m3u8",
@@ -10130,28 +9949,13 @@
         ]
     },
     {
-        "id": "838",
-        "channel": "MDF 1",
-        "link": "https://list.iptvcat.com/my_list/s/ef0cdf132cdee0cdb7de3072817e486a.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "germany",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2266516",
         "channel": "MDF.1 (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/7a6478bcbbc1ad3a53833d302e5e653e.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -10181,7 +9985,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -10272,7 +10076,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -10302,7 +10106,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -10344,7 +10148,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -10431,7 +10235,7 @@
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
-        "mbps": "2578",
+        "mbps": "5020",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -10541,7 +10345,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -10710,7 +10514,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -10816,6 +10620,20 @@
         ]
     },
     {
+        "id": "2266556",
+        "channel": "OK Stendal (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/960414fae13004b17c30f5ec3d5d039f.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "2266555",
         "channel": "OK Stendal (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/48bf641517963013bda167e9388faa08.m3u8",
@@ -10833,20 +10651,6 @@
         "id": "2266558",
         "channel": "OK Stendal (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/c876b146028a947189649fc2e4b3af11.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266556",
-        "channel": "OK Stendal (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/960414fae13004b17c30f5ec3d5d039f.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -11004,21 +10808,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "862",
-        "channel": "Offener Kanal Magdeburg",
-        "link": "https://list.iptvcat.com/my_list/s/1e91ecb67fea7759ac6742e6e3984269.m3u8",
-        "country": "germany",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -11029,6 +10819,20 @@
         "id": "863",
         "channel": "Offener Kanal Magdeburg",
         "link": "https://list.iptvcat.com/my_list/s/ad90c3b546fab9f95ec9a2251b0b5c24.m3u8",
+        "country": "germany",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "862",
+        "channel": "Offener Kanal Magdeburg",
+        "link": "https://list.iptvcat.com/my_list/s/1e91ecb67fea7759ac6742e6e3984269.m3u8",
         "country": "germany",
         "liveliness": "99",
         "status": "online",
@@ -11086,7 +10890,7 @@
         "channel": "Orf 3 HD",
         "link": "https://list.iptvcat.com/my_list/s/9a5ea7ce798c0290ad5d3dfb2d3f0196.m3u8",
         "country": "germany",
-        "liveliness": "78",
+        "liveliness": "77",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -11100,7 +10904,7 @@
         "channel": "Orf Sport+",
         "link": "https://list.iptvcat.com/my_list/s/fcccb966459740e11c1a3e64f95afb81.m3u8",
         "country": "germany",
-        "liveliness": "76",
+        "liveliness": "75",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -11308,11 +11112,11 @@
         ]
     },
     {
-        "id": "2266574",
+        "id": "2266572",
         "channel": "RBW (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/4ab978f2f2ac5c416843066d5541cb2b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/0a81943b5e5ed1b1d9e832e4c988102c.m3u8",
         "country": "germany",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -11322,11 +11126,11 @@
         ]
     },
     {
-        "id": "2266572",
+        "id": "2266574",
         "channel": "RBW (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/0a81943b5e5ed1b1d9e832e4c988102c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/4ab978f2f2ac5c416843066d5541cb2b.m3u8",
         "country": "germany",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -11384,7 +11188,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -11426,7 +11230,7 @@
         "country": "germany",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -11522,7 +11326,7 @@
         "channel": "RTL+ Sport Event 2",
         "link": "https://list.iptvcat.com/my_list/s/8fedab1fdaa943ec894411b381a39607.m3u8",
         "country": "germany",
-        "liveliness": "72",
+        "liveliness": "71",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
@@ -11608,7 +11412,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -11795,24 +11599,9 @@
         ]
     },
     {
-        "id": "693645",
+        "id": "517812",
         "channel": "ARD-alpha",
-        "link": "https://list.iptvcat.com/my_list/s/96c23276222952331c43cd14f3fd1b6c.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "germany",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "5475",
-        "channel": "ARD-alpha",
-        "link": "https://list.iptvcat.com/my_list/s/76821df3416aa5a1851bac442b984d7f.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/592fb54fad7b0cc20b7506f2a2745897.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -11825,9 +11614,24 @@
         ]
     },
     {
-        "id": "517812",
+        "id": "693645",
         "channel": "ARD-alpha",
-        "link": "https://list.iptvcat.com/my_list/s/592fb54fad7b0cc20b7506f2a2745897.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/96c23276222952331c43cd14f3fd1b6c.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "germany",
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "5475",
+        "channel": "ARD-alpha",
+        "link": "https://list.iptvcat.com/my_list/s/76821df3416aa5a1851bac442b984d7f.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -11951,7 +11755,7 @@
         "channel": "Auto Motor Sport Channel",
         "link": "https://list.iptvcat.com/my_list/s/34f70472f441da7594c372ddc85ee17c.m3u8",
         "country": "germany",
-        "liveliness": "70",
+        "liveliness": "69",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -12082,6 +11886,21 @@
         ]
     },
     {
+        "id": "762",
+        "channel": "Baden TV",
+        "link": "https://list.iptvcat.com/my_list/s/1f8787812c00210dc819e068038764c0.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "germany",
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "761",
         "channel": "Baden TV",
         "link": "https://list.iptvcat.com/my_list/s/ad696337fa01b75e93c8c9ab236081b8.m3u8",
@@ -12100,21 +11919,6 @@
         "id": "22428",
         "channel": "Baden TV",
         "link": "https://list.iptvcat.com/my_list/s/9bf599409bf0873c17537a15c2c6f438.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "germany",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "762",
-        "channel": "Baden TV",
-        "link": "https://list.iptvcat.com/my_list/s/1f8787812c00210dc819e068038764c0.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -12253,7 +12057,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -12313,7 +12117,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
         "URI": [
@@ -12431,7 +12235,7 @@
         "channel": "Dazn Sport 2",
         "link": "https://list.iptvcat.com/my_list/s/def21d8ce765b7ddc53b5a519dd3fa59.m3u8",
         "country": "germany",
-        "liveliness": "73",
+        "liveliness": "72",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -12446,7 +12250,7 @@
         "channel": "Dazn Sport 2 HD+",
         "link": "https://list.iptvcat.com/my_list/s/218d7c6f7d317832425826ef0e2d2a22.m3u8",
         "country": "germany",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -12461,7 +12265,7 @@
         "channel": "Dazn Sport 5",
         "link": "https://list.iptvcat.com/my_list/s/936ef966d3b01555b551f766bcb38825.m3u8",
         "country": "germany",
-        "liveliness": "58",
+        "liveliness": "57",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -12476,7 +12280,7 @@
         "channel": "Dazn Sport HD+",
         "link": "https://list.iptvcat.com/my_list/s/5f4971337ecc0b8dc6e23e3ae821d882.m3u8",
         "country": "germany",
-        "liveliness": "83",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -12556,7 +12360,7 @@
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "5991",
         "URI": [
             "germany",
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
@@ -12570,7 +12374,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -12615,7 +12419,7 @@
         "channel": "Eurosport 1",
         "link": "https://list.iptvcat.com/my_list/s/5ebc6b8a8c032909e0da1cf5bcdadbe6.m3u8",
         "country": "germany",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -12630,7 +12434,7 @@
         "channel": "Eurosport 2",
         "link": "https://list.iptvcat.com/my_list/s/77040a3f6614d29fa3bfc24cd5bcab4d.m3u8",
         "country": "germany",
-        "liveliness": "82",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -12905,7 +12709,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -13020,6 +12824,21 @@
         ]
     },
     {
+        "id": "838",
+        "channel": "MDF 1",
+        "link": "https://list.iptvcat.com/my_list/s/ef0cdf132cdee0cdb7de3072817e486a.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "germany",
+            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "836",
         "channel": "MDF 1",
         "link": "https://list.iptvcat.com/my_list/s/b3b19e8655757db8848887f74c1f1c33.m3u8",
@@ -13050,28 +12869,13 @@
         ]
     },
     {
-        "id": "838",
-        "channel": "MDF 1",
-        "link": "https://list.iptvcat.com/my_list/s/ef0cdf132cdee0cdb7de3072817e486a.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "germany",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2266516",
         "channel": "MDF.1 (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/7a6478bcbbc1ad3a53833d302e5e653e.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -13101,7 +12905,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -13192,7 +12996,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -13331,7 +13135,7 @@
         "country": "germany",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -13407,8 +13211,8 @@
         "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "1643",
+        "format": "hd",
+        "mbps": "4322, ...",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -13449,7 +13253,7 @@
         "channel": "WJLP-DT1 (MeTV New York)",
         "link": "https://list.iptvcat.com/my_list/s/b68942b73317fd0a1188d145fe396d89.m3u8",
         "country": "germany",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -13524,7 +13328,7 @@
         "channel": "WKOB-LD6 (Estrella TV) (480p)",
         "link": "https://list.iptvcat.com/my_list/s/822d4d67bcacc7801fb10503fd447b9f.m3u8",
         "country": "germany",
-        "liveliness": "84",
+        "liveliness": "83",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
@@ -13542,8 +13346,8 @@
         "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9556, ...",
+        "format": "sd",
+        "mbps": "1643",
         "URI": [
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
             "africa"
@@ -13571,7 +13375,7 @@
         "country": "germany",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -13615,7 +13419,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a3bdd5c595da268d16979a06de981f52.m3u8",
         "country": "germany",
         "liveliness": "92",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -13646,7 +13450,7 @@
         "country": "germany",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -13661,7 +13465,7 @@
         "country": "germany",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
         "URI": [
@@ -13690,7 +13494,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0bef261fa03da3a873d782db6a30ce6d.m3u8",
         "country": "germany",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
@@ -13764,7 +13568,7 @@
         "channel": "WNYE-DT3 (CUNY TV) (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/490a8770af2003fd013fd57f02ebdb67.m3u8",
         "country": "germany",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
@@ -13854,8 +13658,8 @@
         "channel": "WPHY-CD2 (SonLife) (432p)",
         "link": "https://list.iptvcat.com/my_list/s/72ac54a15b8ffa2de9e19254db12efe5.m3u8",
         "country": "germany",
-        "liveliness": "96",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -13945,7 +13749,7 @@
         "link": "https://list.iptvcat.com/my_list/s/7e83c8a1aef31b74a76d44df0dfbd754.m3u8",
         "country": "germany",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -14006,7 +13810,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -14170,7 +13974,7 @@
         "link": "https://list.iptvcat.com/my_list/s/e190e1f3809925a3de77fd8622a282fc.m3u8",
         "country": "germany",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -14231,7 +14035,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -14554,7 +14358,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -14647,7 +14451,7 @@
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "5991",
         "URI": [
             "germany",
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
@@ -14661,7 +14465,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -14775,7 +14579,7 @@
         "status": "online",
         "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "5991",
         "URI": [
             "germany",
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_",
@@ -14789,7 +14593,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-23T00:00:00Z",
+        "lastChecked": "2022-10-24T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
