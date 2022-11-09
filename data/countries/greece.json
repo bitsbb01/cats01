@@ -50,7 +50,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "1684",
         "URI": [
@@ -94,7 +94,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -123,7 +123,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -267,7 +267,7 @@
         "country": "greece",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
         "URI": [
@@ -326,7 +326,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -343,7 +343,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "8370",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -357,7 +357,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "8370",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -382,7 +382,7 @@
         "link": "https://list.iptvcat.com/my_list/s/448339a212d0000098cf66699d09ac08.m3u8",
         "country": "greece",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
@@ -518,7 +518,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "3795",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -575,7 +575,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -590,7 +590,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -679,7 +679,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -753,7 +753,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -775,20 +775,6 @@
         ]
     },
     {
-        "id": "940",
-        "channel": "ERT World",
-        "link": "https://list.iptvcat.com/my_list/s/0f5b52bc5904f4d51b0dc4b336caf011.m3u8",
-        "country": "greece",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-11-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "1704",
-        "URI": [
-            "greece_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2593039",
         "channel": "ERT World",
         "link": "https://list.iptvcat.com/my_list/s/54dd9a1a40391264ccb3c9ddcdb23de6.m3u8",
@@ -798,6 +784,20 @@
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
+        "URI": [
+            "greece_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "940",
+        "channel": "ERT World",
+        "link": "https://list.iptvcat.com/my_list/s/0f5b52bc5904f4d51b0dc4b336caf011.m3u8",
+        "country": "greece",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-11-09T00:00:00Z",
+        "format": "sd",
+        "mbps": "1704",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -929,7 +929,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "1153",
+        "mbps": "390",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -986,7 +986,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1001,7 +1001,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -1032,7 +1032,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "3470",
+        "mbps": "2772",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -1044,9 +1044,9 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "790",
+        "mbps": "3508",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -1102,7 +1102,7 @@
         "link": "https://list.iptvcat.com/my_list/s/317db0b064668e0cef56c8f721796f54.m3u8",
         "country": "greece",
         "liveliness": "90",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "620",
@@ -1117,7 +1117,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1149,7 +1149,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "136",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -1326,8 +1326,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "15836",
+        "format": "sd",
+        "mbps": "1008",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -1338,7 +1338,7 @@
         "link": "https://list.iptvcat.com/my_list/s/e076383757ab2ecd74a9b6520c82b699.m3u8",
         "country": "greece",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
@@ -1354,7 +1354,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -1530,7 +1530,7 @@
         "link": "https://list.iptvcat.com/my_list/s/5e503e082de51c3d5dc6159bee374834.m3u8",
         "country": "greece",
         "liveliness": "96",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
@@ -1559,7 +1559,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1648,7 +1648,7 @@
         "country": "greece",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -1662,7 +1662,7 @@
         "link": "https://list.iptvcat.com/my_list/s/61f7a17b750e27f2fef41d5f8a150467.m3u8",
         "country": "greece",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
@@ -1691,10 +1691,10 @@
         "link": "https://list.iptvcat.com/my_list/s/f9dcfa8a73ba29e61f05d2c1ed871342.m3u8",
         "country": "greece",
         "liveliness": "95",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "1052",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -1737,8 +1737,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
+        "format": "sd",
+        "mbps": "2308",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -1768,7 +1768,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "7004, ...",
+        "mbps": "11126, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -2004,7 +2004,7 @@
         "link": "https://list.iptvcat.com/my_list/s/6deb36aaad01acf642d2208c9884dd27.m3u8",
         "country": "greece",
         "liveliness": "88",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -2014,13 +2014,27 @@
         ]
     },
     {
+        "id": "967",
+        "channel": "Vouli Tileorasi",
+        "link": "https://list.iptvcat.com/my_list/s/35cad7c0ca9b687b68ca075c69dd95b5.m3u8",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-11-09T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883, ...",
+        "URI": [
+            "greece_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "132886",
         "channel": "Vouli Tileorasi",
         "link": "https://list.iptvcat.com/my_list/s/1404ed012001a6c945d886859a4947c7.m3u8",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -2036,7 +2050,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "2883",
+        "mbps": "2883, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -2051,20 +2065,6 @@
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
-        "URI": [
-            "greece_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "967",
-        "channel": "Vouli Tileorasi",
-        "link": "https://list.iptvcat.com/my_list/s/35cad7c0ca9b687b68ca075c69dd95b5.m3u8",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -2180,7 +2180,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "3596",
         "URI": [
@@ -2371,7 +2371,7 @@
         "country": "greece",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "1662",
         "URI": [
@@ -2430,7 +2430,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "1684",
         "URI": [
@@ -2474,7 +2474,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -2503,7 +2503,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -2647,7 +2647,7 @@
         "country": "greece",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
         "URI": [
@@ -2706,7 +2706,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -2723,7 +2723,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "8370",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -2737,7 +2737,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "8370",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -2762,7 +2762,7 @@
         "link": "https://list.iptvcat.com/my_list/s/448339a212d0000098cf66699d09ac08.m3u8",
         "country": "greece",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
@@ -2898,7 +2898,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "3795",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -2955,7 +2955,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -2970,7 +2970,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -3059,7 +3059,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -3133,7 +3133,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3155,20 +3155,6 @@
         ]
     },
     {
-        "id": "940",
-        "channel": "ERT World",
-        "link": "https://list.iptvcat.com/my_list/s/0f5b52bc5904f4d51b0dc4b336caf011.m3u8",
-        "country": "greece",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-11-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "1704",
-        "URI": [
-            "greece_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2593039",
         "channel": "ERT World",
         "link": "https://list.iptvcat.com/my_list/s/54dd9a1a40391264ccb3c9ddcdb23de6.m3u8",
@@ -3178,6 +3164,20 @@
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
+        "URI": [
+            "greece_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "940",
+        "channel": "ERT World",
+        "link": "https://list.iptvcat.com/my_list/s/0f5b52bc5904f4d51b0dc4b336caf011.m3u8",
+        "country": "greece",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-11-09T00:00:00Z",
+        "format": "sd",
+        "mbps": "1704",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -3309,7 +3309,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "1153",
+        "mbps": "390",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -3366,7 +3366,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -3381,7 +3381,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -3412,7 +3412,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "3470",
+        "mbps": "2772",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -3424,9 +3424,9 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "790",
+        "mbps": "3508",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -3482,7 +3482,7 @@
         "link": "https://list.iptvcat.com/my_list/s/317db0b064668e0cef56c8f721796f54.m3u8",
         "country": "greece",
         "liveliness": "90",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "620",
@@ -3497,7 +3497,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3529,7 +3529,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "136",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -3673,7 +3673,7 @@
         "channel": "KSCE Vida Cristiana (360p)",
         "link": "https://list.iptvcat.com/my_list/s/1a61264f53cf0b362e1d99ca344284a7.m3u8",
         "country": "greece",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
@@ -3746,7 +3746,7 @@
         "channel": "LIFE! End Times TV (360p)",
         "link": "https://list.iptvcat.com/my_list/s/96a029b64536720e2384c26c1c7e2a78.m3u8",
         "country": "greece",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
@@ -3791,7 +3791,7 @@
         "channel": "Life! Christian Broadcasting Network (360p)",
         "link": "https://list.iptvcat.com/my_list/s/199ac504b308b4efdc22c60d95056418.m3u8",
         "country": "greece",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
@@ -3911,10 +3911,10 @@
         "link": "https://list.iptvcat.com/my_list/s/1eb09274444de5b915cfc122b2b105ea.m3u8",
         "country": "greece",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "1008",
+        "mbps": "2220",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -3986,7 +3986,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -4131,8 +4131,8 @@
         "channel": "NCM Government \u0026 Politics",
         "link": "https://list.iptvcat.com/my_list/s/dafb892aab83d27088786e79062df732.m3u8",
         "country": "greece",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "920",
@@ -4146,8 +4146,8 @@
         "channel": "NCM Main Channel",
         "link": "https://list.iptvcat.com/my_list/s/b092da68683cef30bb38de05e9f6fe11.m3u8",
         "country": "greece",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "920",
@@ -4171,29 +4171,29 @@
         ]
     },
     {
+        "id": "951",
+        "channel": "NG",
+        "link": "https://list.iptvcat.com/my_list/s/92bfcc023aa5cb68521c2ac10a7d9f60.m3u8",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "offline",
+        "lastChecked": "2022-11-09T00:00:00Z",
+        "format": "sd",
+        "mbps": "4396",
+        "URI": [
+            "greece_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "950",
         "channel": "NG",
         "link": "https://list.iptvcat.com/my_list/s/566d2a85ba59e0699fbad95156627c04.m3u8",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "greece_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "951",
-        "channel": "NG",
-        "link": "https://list.iptvcat.com/my_list/s/92bfcc023aa5cb68521c2ac10a7d9f60.m3u8",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "4396",
+        "mbps": "4559",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -4267,7 +4267,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "9905, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -4323,9 +4323,9 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "4322",
+        "mbps": "4311",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -4353,7 +4353,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -4383,7 +4383,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -4473,9 +4473,9 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "2308",
+        "mbps": "2220",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -4547,7 +4547,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "2308",
         "URI": [
@@ -4607,7 +4607,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -4669,7 +4669,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -4684,7 +4684,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -4695,7 +4695,7 @@
         "channel": "Rakuten Documentaries",
         "link": "https://list.iptvcat.com/my_list/s/e0a4893fcf61a609e9fae00af0c43d46.m3u8",
         "country": "greece",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
@@ -4714,7 +4714,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -4742,7 +4742,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -4772,7 +4772,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -4804,7 +4804,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -4815,7 +4815,7 @@
         "channel": "Rakuten TV Documentaires (720p)",
         "link": "https://list.iptvcat.com/my_list/s/53c2c144bb688ee5673df932bdaa0a68.m3u8",
         "country": "greece",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
@@ -4832,7 +4832,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -4875,7 +4875,7 @@
         "channel": "Rakuten TV Documentaries Switzerland (720p)",
         "link": "https://list.iptvcat.com/my_list/s/6badf10c7104e94a98b1121e9d805239.m3u8",
         "country": "greece",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
@@ -4894,7 +4894,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -4909,7 +4909,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5991, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -4954,7 +4954,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "10677, ...",
+        "mbps": "11126, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -4984,7 +4984,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -5029,7 +5029,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "10677, ...",
+        "mbps": "11126, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -5101,7 +5101,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "1684",
         "URI": [
@@ -5145,7 +5145,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -5174,7 +5174,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -5318,7 +5318,7 @@
         "country": "greece",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
         "URI": [
@@ -5377,7 +5377,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -5394,7 +5394,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "8370",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -5408,7 +5408,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "8370",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -5433,7 +5433,7 @@
         "link": "https://list.iptvcat.com/my_list/s/448339a212d0000098cf66699d09ac08.m3u8",
         "country": "greece",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
@@ -5569,7 +5569,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "3795",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -5626,7 +5626,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -5641,7 +5641,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -5730,7 +5730,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -5804,7 +5804,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5826,20 +5826,6 @@
         ]
     },
     {
-        "id": "940",
-        "channel": "ERT World",
-        "link": "https://list.iptvcat.com/my_list/s/0f5b52bc5904f4d51b0dc4b336caf011.m3u8",
-        "country": "greece",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-11-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "1704",
-        "URI": [
-            "greece_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2593039",
         "channel": "ERT World",
         "link": "https://list.iptvcat.com/my_list/s/54dd9a1a40391264ccb3c9ddcdb23de6.m3u8",
@@ -5849,6 +5835,20 @@
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
+        "URI": [
+            "greece_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "940",
+        "channel": "ERT World",
+        "link": "https://list.iptvcat.com/my_list/s/0f5b52bc5904f4d51b0dc4b336caf011.m3u8",
+        "country": "greece",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-11-09T00:00:00Z",
+        "format": "sd",
+        "mbps": "1704",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -5980,7 +5980,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "1153",
+        "mbps": "390",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -6037,7 +6037,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -6052,7 +6052,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -6083,7 +6083,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "3470",
+        "mbps": "2772",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -6095,9 +6095,9 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "790",
+        "mbps": "3508",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_"
         ]
@@ -6153,7 +6153,7 @@
         "link": "https://list.iptvcat.com/my_list/s/317db0b064668e0cef56c8f721796f54.m3u8",
         "country": "greece",
         "liveliness": "90",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "620",
@@ -6168,7 +6168,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -6200,7 +6200,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "136",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -6331,7 +6331,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -6346,7 +6346,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -6406,7 +6406,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -6430,9 +6430,9 @@
         ]
     },
     {
-        "id": "2602571",
+        "id": "2601559",
         "channel": "Bloomberg Quicktake",
-        "link": "https://list.iptvcat.com/my_list/s/f9a766b9918f02cb38213c10655d90a9.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/20af0130dde7100aaa47ffe616aea172.m3u8",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
@@ -6445,9 +6445,9 @@
         ]
     },
     {
-        "id": "2601559",
+        "id": "2602571",
         "channel": "Bloomberg Quicktake",
-        "link": "https://list.iptvcat.com/my_list/s/20af0130dde7100aaa47ffe616aea172.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f9a766b9918f02cb38213c10655d90a9.m3u8",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
@@ -6721,7 +6721,7 @@
         "country": "greece",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -6782,8 +6782,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
+        "format": "sd",
+        "mbps": "2308",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -6813,7 +6813,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "7004, ...",
+        "mbps": "11126, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -7035,7 +7035,7 @@
         "link": "https://list.iptvcat.com/my_list/s/6deb36aaad01acf642d2208c9884dd27.m3u8",
         "country": "greece",
         "liveliness": "88",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -7051,7 +7051,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -7081,7 +7081,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -7113,7 +7113,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -7124,7 +7124,7 @@
         "channel": "Rakuten TV Documentaires (720p)",
         "link": "https://list.iptvcat.com/my_list/s/53c2c144bb688ee5673df932bdaa0a68.m3u8",
         "country": "greece",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
@@ -7141,7 +7141,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -7184,7 +7184,7 @@
         "channel": "Rakuten TV Documentaries Switzerland (720p)",
         "link": "https://list.iptvcat.com/my_list/s/6badf10c7104e94a98b1121e9d805239.m3u8",
         "country": "greece",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
@@ -7203,7 +7203,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -7218,7 +7218,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5991, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -7263,7 +7263,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "10677, ...",
+        "mbps": "11126, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -7285,21 +7285,6 @@
         ]
     },
     {
-        "id": "2601375",
-        "channel": "Rakuten TV Romance (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/198cb89c0247c9bab254a9810015d635.m3u8",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "4821, ...",
-        "URI": [
-            "greece_-_-_-_-_-_-_-_-_",
-            "africa"
-        ]
-    },
-    {
         "id": "2601368",
         "channel": "Rakuten TV Romance (720p)",
         "link": "https://list.iptvcat.com/my_list/s/3c3cf87dfe9fe286daaf8c10bc0eb737.m3u8",
@@ -7309,6 +7294,21 @@
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
+        "URI": [
+            "greece_-_-_-_-_-_-_-_-_",
+            "africa"
+        ]
+    },
+    {
+        "id": "2601375",
+        "channel": "Rakuten TV Romance (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/198cb89c0247c9bab254a9810015d635.m3u8",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-11-09T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -7338,7 +7338,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "10677, ...",
+        "mbps": "11126, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -7440,7 +7440,7 @@
         "link": "https://list.iptvcat.com/my_list/s/e076383757ab2ecd74a9b6520c82b699.m3u8",
         "country": "greece",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
@@ -7456,7 +7456,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -7516,7 +7516,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -7638,7 +7638,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "9905, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -7666,9 +7666,9 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "4322",
+        "mbps": "4311",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -7771,7 +7771,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "2308",
         "URI": [
@@ -7831,7 +7831,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -7893,7 +7893,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -7908,7 +7908,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -7919,7 +7919,7 @@
         "channel": "Rakuten Documentaries",
         "link": "https://list.iptvcat.com/my_list/s/e0a4893fcf61a609e9fae00af0c43d46.m3u8",
         "country": "greece",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
@@ -7938,7 +7938,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -8204,8 +8204,8 @@
         "channel": "NCM Government \u0026 Politics",
         "link": "https://list.iptvcat.com/my_list/s/dafb892aab83d27088786e79062df732.m3u8",
         "country": "greece",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "920",
@@ -8219,8 +8219,8 @@
         "channel": "NCM Main Channel",
         "link": "https://list.iptvcat.com/my_list/s/b092da68683cef30bb38de05e9f6fe11.m3u8",
         "country": "greece",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "920",
@@ -8298,7 +8298,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "9905, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -8326,9 +8326,9 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "4322",
+        "mbps": "4311",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -8431,7 +8431,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "2308",
         "URI": [
@@ -8491,7 +8491,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -8553,7 +8553,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -8568,7 +8568,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -8579,7 +8579,7 @@
         "channel": "Rakuten Documentaries",
         "link": "https://list.iptvcat.com/my_list/s/e0a4893fcf61a609e9fae00af0c43d46.m3u8",
         "country": "greece",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
@@ -8598,7 +8598,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -8656,7 +8656,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -8671,7 +8671,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -8731,7 +8731,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -8755,9 +8755,9 @@
         ]
     },
     {
-        "id": "2602571",
+        "id": "2601559",
         "channel": "Bloomberg Quicktake",
-        "link": "https://list.iptvcat.com/my_list/s/f9a766b9918f02cb38213c10655d90a9.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/20af0130dde7100aaa47ffe616aea172.m3u8",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
@@ -8770,9 +8770,9 @@
         ]
     },
     {
-        "id": "2601559",
+        "id": "2602571",
         "channel": "Bloomberg Quicktake",
-        "link": "https://list.iptvcat.com/my_list/s/20af0130dde7100aaa47ffe616aea172.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f9a766b9918f02cb38213c10655d90a9.m3u8",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
@@ -8881,7 +8881,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -8896,7 +8896,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -8956,7 +8956,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -8988,7 +8988,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "136",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -9389,8 +9389,8 @@
         "channel": "NCM Government \u0026 Politics",
         "link": "https://list.iptvcat.com/my_list/s/dafb892aab83d27088786e79062df732.m3u8",
         "country": "greece",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "920",
@@ -9404,8 +9404,8 @@
         "channel": "NCM Main Channel",
         "link": "https://list.iptvcat.com/my_list/s/b092da68683cef30bb38de05e9f6fe11.m3u8",
         "country": "greece",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "920",
@@ -9421,7 +9421,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -9451,7 +9451,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -9483,7 +9483,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -9494,7 +9494,7 @@
         "channel": "Rakuten TV Documentaires (720p)",
         "link": "https://list.iptvcat.com/my_list/s/53c2c144bb688ee5673df932bdaa0a68.m3u8",
         "country": "greece",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
@@ -9511,7 +9511,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -9554,7 +9554,7 @@
         "channel": "Rakuten TV Documentaries Switzerland (720p)",
         "link": "https://list.iptvcat.com/my_list/s/6badf10c7104e94a98b1121e9d805239.m3u8",
         "country": "greece",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
@@ -9573,7 +9573,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -9588,7 +9588,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5991, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -9633,7 +9633,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "10677, ...",
+        "mbps": "11126, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -9655,21 +9655,6 @@
         ]
     },
     {
-        "id": "2601375",
-        "channel": "Rakuten TV Romance (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/198cb89c0247c9bab254a9810015d635.m3u8",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "4821, ...",
-        "URI": [
-            "greece_-_-_-_-_-_-_-_-_",
-            "africa"
-        ]
-    },
-    {
         "id": "2601368",
         "channel": "Rakuten TV Romance (720p)",
         "link": "https://list.iptvcat.com/my_list/s/3c3cf87dfe9fe286daaf8c10bc0eb737.m3u8",
@@ -9679,6 +9664,21 @@
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
+        "URI": [
+            "greece_-_-_-_-_-_-_-_-_",
+            "africa"
+        ]
+    },
+    {
+        "id": "2601375",
+        "channel": "Rakuten TV Romance (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/198cb89c0247c9bab254a9810015d635.m3u8",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-11-09T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -9708,7 +9708,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
-        "mbps": "10677, ...",
+        "mbps": "11126, ...",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -9810,7 +9810,7 @@
         "link": "https://list.iptvcat.com/my_list/s/e076383757ab2ecd74a9b6520c82b699.m3u8",
         "country": "greece",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
@@ -9826,7 +9826,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -9886,7 +9886,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -9976,7 +9976,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -9991,7 +9991,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -10051,7 +10051,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -10216,7 +10216,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -10231,7 +10231,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -10291,7 +10291,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -10323,7 +10323,7 @@
         "status": "online",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "136",
         "URI": [
             "greece_-_-_-_-_-_-_-_-_",
             "africa"
@@ -10516,7 +10516,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -10531,7 +10531,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -10591,7 +10591,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -10615,9 +10615,9 @@
         ]
     },
     {
-        "id": "2602571",
+        "id": "2601559",
         "channel": "Bloomberg Quicktake",
-        "link": "https://list.iptvcat.com/my_list/s/f9a766b9918f02cb38213c10655d90a9.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/20af0130dde7100aaa47ffe616aea172.m3u8",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
@@ -10630,9 +10630,9 @@
         ]
     },
     {
-        "id": "2601559",
+        "id": "2602571",
         "channel": "Bloomberg Quicktake",
-        "link": "https://list.iptvcat.com/my_list/s/20af0130dde7100aaa47ffe616aea172.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f9a766b9918f02cb38213c10655d90a9.m3u8",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
@@ -10741,7 +10741,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -10756,7 +10756,7 @@
         "country": "greece",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -10816,7 +10816,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -10981,7 +10981,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -10996,7 +10996,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -11056,7 +11056,7 @@
         "country": "greece",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -11080,9 +11080,9 @@
         ]
     },
     {
-        "id": "2602571",
+        "id": "2601559",
         "channel": "Bloomberg Quicktake",
-        "link": "https://list.iptvcat.com/my_list/s/f9a766b9918f02cb38213c10655d90a9.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/20af0130dde7100aaa47ffe616aea172.m3u8",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
@@ -11095,9 +11095,9 @@
         ]
     },
     {
-        "id": "2601559",
+        "id": "2602571",
         "channel": "Bloomberg Quicktake",
-        "link": "https://list.iptvcat.com/my_list/s/20af0130dde7100aaa47ffe616aea172.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f9a766b9918f02cb38213c10655d90a9.m3u8",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
@@ -11324,7 +11324,7 @@
         "channel": "KSCE Vida Cristiana (360p)",
         "link": "https://list.iptvcat.com/my_list/s/1a61264f53cf0b362e1d99ca344284a7.m3u8",
         "country": "greece",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
@@ -11339,7 +11339,7 @@
         "channel": "LIFE! End Times TV (360p)",
         "link": "https://list.iptvcat.com/my_list/s/96a029b64536720e2384c26c1c7e2a78.m3u8",
         "country": "greece",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
@@ -11354,7 +11354,7 @@
         "channel": "Life! Christian Broadcasting Network (360p)",
         "link": "https://list.iptvcat.com/my_list/s/199ac504b308b4efdc22c60d95056418.m3u8",
         "country": "greece",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
@@ -11386,7 +11386,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -11416,7 +11416,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -11624,7 +11624,7 @@
         "channel": "KSCE Vida Cristiana (360p)",
         "link": "https://list.iptvcat.com/my_list/s/1a61264f53cf0b362e1d99ca344284a7.m3u8",
         "country": "greece",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
@@ -11639,7 +11639,7 @@
         "channel": "LIFE! End Times TV (360p)",
         "link": "https://list.iptvcat.com/my_list/s/96a029b64536720e2384c26c1c7e2a78.m3u8",
         "country": "greece",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
@@ -11654,7 +11654,7 @@
         "channel": "Life! Christian Broadcasting Network (360p)",
         "link": "https://list.iptvcat.com/my_list/s/199ac504b308b4efdc22c60d95056418.m3u8",
         "country": "greece",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
@@ -11686,7 +11686,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -11716,7 +11716,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -11911,7 +11911,7 @@
         "country": "greece",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
         "mbps": "1662",
         "URI": [
@@ -12074,7 +12074,7 @@
         "channel": "KSCE Vida Cristiana (360p)",
         "link": "https://list.iptvcat.com/my_list/s/1a61264f53cf0b362e1d99ca344284a7.m3u8",
         "country": "greece",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
@@ -12089,7 +12089,7 @@
         "channel": "LIFE! End Times TV (360p)",
         "link": "https://list.iptvcat.com/my_list/s/96a029b64536720e2384c26c1c7e2a78.m3u8",
         "country": "greece",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
@@ -12104,7 +12104,7 @@
         "channel": "Life! Christian Broadcasting Network (360p)",
         "link": "https://list.iptvcat.com/my_list/s/199ac504b308b4efdc22c60d95056418.m3u8",
         "country": "greece",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-11-09T00:00:00Z",
         "format": "sd",
@@ -12136,7 +12136,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -12166,7 +12166,7 @@
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-08T00:00:00Z",
+        "lastChecked": "2022-11-09T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
