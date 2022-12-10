@@ -6,7 +6,7 @@
         "country": "belgium",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -104,7 +104,7 @@
         "country": "belgium",
         "liveliness": "75",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -118,7 +118,7 @@
         "country": "belgium",
         "liveliness": "77",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "2711",
         "URI": [
@@ -130,9 +130,9 @@
         "channel": "Club RTL HD",
         "link": "https://list.iptvcat.com/my_list/s/8506b39287a7d33605adcfeef1ba14cf.m3u8",
         "country": "belgium",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -182,34 +182,6 @@
         ]
     },
     {
-        "id": "2632029",
-        "channel": "Eleven Sport 1 (FR)",
-        "link": "https://list.iptvcat.com/my_list/s/05efda61feb5b9e7a9a099a53f0700b6.m3u8",
-        "country": "belgium",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "belgium__1"
-        ]
-    },
-    {
-        "id": "2632019",
-        "channel": "Eleven Sport 1 (NL)",
-        "link": "https://list.iptvcat.com/my_list/s/5ad17862803d0481f56a97f2b5587b14.m3u8",
-        "country": "belgium",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "belgium__1"
-        ]
-    },
-    {
         "id": "2632040",
         "channel": "Eleven Sport 2 (BE)",
         "link": "https://list.iptvcat.com/my_list/s/fa69c33eb828f265a41e52de9900fae6.m3u8",
@@ -217,22 +189,8 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "belgium__1"
-        ]
-    },
-    {
-        "id": "2631972",
-        "channel": "Eleven Sports 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/81a20084aca4d38e7c432e4c9f2348c6.m3u8",
-        "country": "belgium",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2022-12-09T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "3188",
         "URI": [
             "belgium__1"
         ]
@@ -258,7 +216,7 @@
         "country": "belgium",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -272,9 +230,9 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "3188, ...",
         "URI": [
             "belgium__1"
         ]
@@ -300,7 +258,7 @@
         "country": "belgium",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -314,7 +272,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -328,7 +286,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -342,9 +300,9 @@
         "country": "belgium",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "lastChecked": "2022-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "belgium__1"
         ]
@@ -398,7 +356,7 @@
         "country": "belgium",
         "liveliness": "82",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -426,9 +384,9 @@
         "country": "belgium",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "belgium__1"
         ]
@@ -510,7 +468,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -538,9 +496,9 @@
         "country": "belgium",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-12-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "belgium__1"
         ]
@@ -552,7 +510,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -565,8 +523,8 @@
         "link": "https://list.iptvcat.com/my_list/s/2d346cce29235818f98f3c5eb857518b.m3u8",
         "country": "belgium",
         "liveliness": "31",
-        "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -580,9 +538,9 @@
         "country": "belgium",
         "liveliness": "74",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "belgium__1"
         ]
@@ -594,7 +552,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -608,7 +566,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -692,7 +650,7 @@
         "country": "belgium",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "652",
         "URI": [
@@ -734,7 +692,7 @@
         "country": "belgium",
         "liveliness": "82",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1685",
         "URI": [
@@ -748,7 +706,7 @@
         "country": "belgium",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -762,7 +720,7 @@
         "country": "belgium",
         "liveliness": "76",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -778,7 +736,7 @@
         "status": "online",
         "lastChecked": "2022-12-09T00:00:00Z",
         "format": "sd",
-        "mbps": "1647",
+        "mbps": "1509",
         "URI": [
             "belgium__1"
         ]
@@ -790,7 +748,7 @@
         "country": "belgium",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -804,7 +762,7 @@
         "country": "belgium",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -818,9 +776,9 @@
         "country": "belgium",
         "liveliness": "75",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-12-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "belgium__1"
         ]
@@ -832,7 +790,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -846,7 +804,7 @@
         "country": "belgium",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -874,7 +832,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -944,7 +902,7 @@
         "country": "belgium",
         "liveliness": "75",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -958,7 +916,7 @@
         "country": "belgium",
         "liveliness": "77",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "2711",
         "URI": [
@@ -970,9 +928,9 @@
         "channel": "Club RTL HD",
         "link": "https://list.iptvcat.com/my_list/s/8506b39287a7d33605adcfeef1ba14cf.m3u8",
         "country": "belgium",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1022,34 +980,6 @@
         ]
     },
     {
-        "id": "2632029",
-        "channel": "Eleven Sport 1 (FR)",
-        "link": "https://list.iptvcat.com/my_list/s/05efda61feb5b9e7a9a099a53f0700b6.m3u8",
-        "country": "belgium",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "belgium__1"
-        ]
-    },
-    {
-        "id": "2632019",
-        "channel": "Eleven Sport 1 (NL)",
-        "link": "https://list.iptvcat.com/my_list/s/5ad17862803d0481f56a97f2b5587b14.m3u8",
-        "country": "belgium",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "belgium__1"
-        ]
-    },
-    {
         "id": "2632040",
         "channel": "Eleven Sport 2 (BE)",
         "link": "https://list.iptvcat.com/my_list/s/fa69c33eb828f265a41e52de9900fae6.m3u8",
@@ -1057,22 +987,8 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "belgium__1"
-        ]
-    },
-    {
-        "id": "2631972",
-        "channel": "Eleven Sports 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/81a20084aca4d38e7c432e4c9f2348c6.m3u8",
-        "country": "belgium",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2022-12-09T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "3188",
         "URI": [
             "belgium__1"
         ]
@@ -1098,7 +1014,7 @@
         "country": "belgium",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1112,9 +1028,9 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "3188, ...",
         "URI": [
             "belgium__1"
         ]
@@ -1140,7 +1056,7 @@
         "country": "belgium",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1154,7 +1070,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1168,7 +1084,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1182,9 +1098,9 @@
         "country": "belgium",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "lastChecked": "2022-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "belgium__1"
         ]
@@ -1238,7 +1154,7 @@
         "country": "belgium",
         "liveliness": "82",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1266,9 +1182,9 @@
         "country": "belgium",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "belgium__1"
         ]
@@ -1350,7 +1266,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1378,9 +1294,9 @@
         "country": "belgium",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-12-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "belgium__1"
         ]
@@ -1392,7 +1308,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -1405,8 +1321,8 @@
         "link": "https://list.iptvcat.com/my_list/s/2d346cce29235818f98f3c5eb857518b.m3u8",
         "country": "belgium",
         "liveliness": "31",
-        "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1420,9 +1336,9 @@
         "country": "belgium",
         "liveliness": "74",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "belgium__1"
         ]
@@ -1434,7 +1350,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1448,7 +1364,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1532,7 +1448,7 @@
         "country": "belgium",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "652",
         "URI": [
@@ -1574,7 +1490,7 @@
         "country": "belgium",
         "liveliness": "82",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1685",
         "URI": [
@@ -1588,7 +1504,7 @@
         "country": "belgium",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1602,7 +1518,7 @@
         "country": "belgium",
         "liveliness": "76",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1618,7 +1534,7 @@
         "status": "online",
         "lastChecked": "2022-12-09T00:00:00Z",
         "format": "sd",
-        "mbps": "1647",
+        "mbps": "1509",
         "URI": [
             "belgium__1"
         ]
@@ -1630,7 +1546,7 @@
         "country": "belgium",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1644,7 +1560,7 @@
         "country": "belgium",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1658,9 +1574,9 @@
         "country": "belgium",
         "liveliness": "75",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-12-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "belgium__1"
         ]
@@ -1672,7 +1588,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-12-09T00:00:00Z",
+        "lastChecked": "2022-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
