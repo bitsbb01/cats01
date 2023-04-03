@@ -28,34 +28,6 @@
         ]
     },
     {
-        "id": "2690046",
-        "channel": "4K BEIN BARAEAM",
-        "link": "https://list.iptvcat.com/my_list/s/9aff68e4dcc33c39a93e2bf99dc03abc.m3u8",
-        "country": "argentina",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690041",
-        "channel": "4K BEIN MOVIES 3",
-        "link": "https://list.iptvcat.com/my_list/s/d7233e4dcdbbc6784d260188475048b5.m3u8",
-        "country": "argentina",
-        "liveliness": "56",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "2690042",
         "channel": "4K BEIN MOVIES 4",
         "link": "https://list.iptvcat.com/my_list/s/6bce6b0b6de33a97a4d445f3fecd0de8.m3u8",
@@ -65,20 +37,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690010",
-        "channel": "4K BEIN SPORTS NEWS",
-        "link": "https://list.iptvcat.com/my_list/s/5dbb4cee94d7d1626cea1adda56eca23.m3u8",
-        "country": "argentina",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "argentina__1"
         ]
@@ -322,20 +280,6 @@
         ]
     },
     {
-        "id": "2690265",
-        "channel": "4K ROTANA KIDS",
-        "link": "https://list.iptvcat.com/my_list/s/cb75a1c47ffdd68272326e6f1b3930ee.m3u8",
-        "country": "argentina",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "sd",
-        "mbps": "917",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "44",
         "channel": "5RTV Santa Fe",
         "link": "https://list.iptvcat.com/my_list/s/05141faca6baccaaee8c99c3a377a83e.m3u8",
@@ -565,8 +509,8 @@
         "link": "https://list.iptvcat.com/my_list/s/60d4ed6ab1590c8c8a7a41ea1878fc51.m3u8",
         "country": "argentina",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "1761",
         "URI": [
@@ -1068,9 +1012,9 @@
         "channel": "Chilecito TV",
         "link": "https://list.iptvcat.com/my_list/s/ac7823e14dd41b6f6f534bdca92d9c2e.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "2743",
         "URI": [
@@ -1190,20 +1134,6 @@
         ]
     },
     {
-        "id": "2692533",
-        "channel": "FHD KSA SSC 1",
-        "link": "https://list.iptvcat.com/my_list/s/56d310b8755409c0c054f588dd5b7cd7.m3u8",
-        "country": "argentina",
-        "liveliness": "44",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "2692538",
         "channel": "FHD KSA SSC 2",
         "link": "https://list.iptvcat.com/my_list/s/e7278661c497dbd20082a3dbce738465.m3u8",
@@ -1238,20 +1168,6 @@
         "country": "argentina",
         "liveliness": "81",
         "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2692552",
-        "channel": "FHD KSA SSC 7",
-        "link": "https://list.iptvcat.com/my_list/s/7a23a8ee1b2e41c0bd1007bc1a188f5f.m3u8",
-        "country": "argentina",
-        "liveliness": "40",
-        "status": "offline",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -1395,6 +1311,90 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2689955",
+        "channel": "HD AD 3 SERIES A",
+        "link": "https://list.iptvcat.com/my_list/s/d93a28c3dc7518348f77cbc6186ab1f1.m3u8",
+        "country": "argentina",
+        "liveliness": "58",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2689958",
+        "channel": "HD AD 5 SERIES A",
+        "link": "https://list.iptvcat.com/my_list/s/eb431cf1cffb3ac952b4f5adbf5138a3.m3u8",
+        "country": "argentina",
+        "liveliness": "51",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2690228",
+        "channel": "HD AD SPORT 1",
+        "link": "https://list.iptvcat.com/my_list/s/28b2d8e6bf505f7636e0c3badd967d65.m3u8",
+        "country": "argentina",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2690230",
+        "channel": "HD AD SPORT 3",
+        "link": "https://list.iptvcat.com/my_list/s/9d98f3ad1b8ceb270eadd4c4ffb6cb43.m3u8",
+        "country": "argentina",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2690154",
+        "channel": "HD AL ALAM TV",
+        "link": "https://list.iptvcat.com/my_list/s/d820c120a7387c217ccafa16716858c8.m3u8",
+        "country": "argentina",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2689859",
+        "channel": "HD AL AOULA LAAYOUNE TV",
+        "link": "https://list.iptvcat.com/my_list/s/aef3853c66c0e67162f88b24d68d10c1.m3u8",
+        "country": "argentina",
+        "liveliness": "82",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "argentina__1"
         ]
@@ -1428,34 +1428,6 @@
         ]
     },
     {
-        "id": "2690046",
-        "channel": "4K BEIN BARAEAM",
-        "link": "https://list.iptvcat.com/my_list/s/9aff68e4dcc33c39a93e2bf99dc03abc.m3u8",
-        "country": "argentina",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690041",
-        "channel": "4K BEIN MOVIES 3",
-        "link": "https://list.iptvcat.com/my_list/s/d7233e4dcdbbc6784d260188475048b5.m3u8",
-        "country": "argentina",
-        "liveliness": "56",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "2690042",
         "channel": "4K BEIN MOVIES 4",
         "link": "https://list.iptvcat.com/my_list/s/6bce6b0b6de33a97a4d445f3fecd0de8.m3u8",
@@ -1465,20 +1437,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690010",
-        "channel": "4K BEIN SPORTS NEWS",
-        "link": "https://list.iptvcat.com/my_list/s/5dbb4cee94d7d1626cea1adda56eca23.m3u8",
-        "country": "argentina",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "argentina__1"
         ]
@@ -1722,20 +1680,6 @@
         ]
     },
     {
-        "id": "2690265",
-        "channel": "4K ROTANA KIDS",
-        "link": "https://list.iptvcat.com/my_list/s/cb75a1c47ffdd68272326e6f1b3930ee.m3u8",
-        "country": "argentina",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "sd",
-        "mbps": "917",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "44",
         "channel": "5RTV Santa Fe",
         "link": "https://list.iptvcat.com/my_list/s/05141faca6baccaaee8c99c3a377a83e.m3u8",
@@ -1965,8 +1909,8 @@
         "link": "https://list.iptvcat.com/my_list/s/60d4ed6ab1590c8c8a7a41ea1878fc51.m3u8",
         "country": "argentina",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "1761",
         "URI": [
@@ -2468,9 +2412,9 @@
         "channel": "Chilecito TV",
         "link": "https://list.iptvcat.com/my_list/s/ac7823e14dd41b6f6f534bdca92d9c2e.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "2743",
         "URI": [
@@ -2590,20 +2534,6 @@
         ]
     },
     {
-        "id": "2692533",
-        "channel": "FHD KSA SSC 1",
-        "link": "https://list.iptvcat.com/my_list/s/56d310b8755409c0c054f588dd5b7cd7.m3u8",
-        "country": "argentina",
-        "liveliness": "44",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "2692538",
         "channel": "FHD KSA SSC 2",
         "link": "https://list.iptvcat.com/my_list/s/e7278661c497dbd20082a3dbce738465.m3u8",
@@ -2638,20 +2568,6 @@
         "country": "argentina",
         "liveliness": "81",
         "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2692552",
-        "channel": "FHD KSA SSC 7",
-        "link": "https://list.iptvcat.com/my_list/s/7a23a8ee1b2e41c0bd1007bc1a188f5f.m3u8",
-        "country": "argentina",
-        "liveliness": "40",
-        "status": "offline",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -2800,101 +2716,87 @@
         ]
     },
     {
-        "id": "2693062",
-        "channel": "SKY FLIX COMEDY",
-        "link": "https://list.iptvcat.com/my_list/s/db0fed0cadf07070ea71b71faf6e620b.m3u8",
+        "id": "2689955",
+        "channel": "HD AD 3 SERIES A",
+        "link": "https://list.iptvcat.com/my_list/s/d93a28c3dc7518348f77cbc6186ab1f1.m3u8",
+        "country": "argentina",
+        "liveliness": "58",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2689958",
+        "channel": "HD AD 5 SERIES A",
+        "link": "https://list.iptvcat.com/my_list/s/eb431cf1cffb3ac952b4f5adbf5138a3.m3u8",
+        "country": "argentina",
+        "liveliness": "51",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2690228",
+        "channel": "HD AD SPORT 1",
+        "link": "https://list.iptvcat.com/my_list/s/28b2d8e6bf505f7636e0c3badd967d65.m3u8",
         "country": "argentina",
         "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
-        "id": "2693061",
-        "channel": "SKY FLIX DRAMA",
-        "link": "https://list.iptvcat.com/my_list/s/d2a3b17e33fa8c5f7906a36c38f05996.m3u8",
+        "id": "2690230",
+        "channel": "HD AD SPORT 3",
+        "link": "https://list.iptvcat.com/my_list/s/9d98f3ad1b8ceb270eadd4c4ffb6cb43.m3u8",
         "country": "argentina",
-        "liveliness": "93",
+        "liveliness": "90",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
-        "id": "2693063",
-        "channel": "SKY FLIX HORROR",
-        "link": "https://list.iptvcat.com/my_list/s/83abdd51f14094df25f4cd8c41b4d009.m3u8",
+        "id": "2690154",
+        "channel": "HD AL ALAM TV",
+        "link": "https://list.iptvcat.com/my_list/s/d820c120a7387c217ccafa16716858c8.m3u8",
         "country": "argentina",
-        "liveliness": "77",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
-        "id": "2659737",
-        "channel": "TEC TV",
-        "link": "https://list.iptvcat.com/my_list/s/3e1b6a9ad57bbc0cd5ab4bc8ce246098.m3u8",
+        "id": "2689859",
+        "channel": "HD AL AOULA LAAYOUNE TV",
+        "link": "https://list.iptvcat.com/my_list/s/aef3853c66c0e67162f88b24d68d10c1.m3u8",
         "country": "argentina",
-        "liveliness": "96",
+        "liveliness": "82",
         "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
+        "lastChecked": "2023-04-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "argentina"
-        ]
-    },
-    {
-        "id": "111",
-        "channel": "TLX",
-        "link": "https://list.iptvcat.com/my_list/s/ac3db1352fc6e2ef3bd7cd77a615b68e.m3u8",
-        "country": "argentina",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "argentina"
-        ]
-    },
-    {
-        "id": "51287",
-        "channel": "TLX",
-        "link": "https://list.iptvcat.com/my_list/s/e7c0510af7044529874387578cee3176.m3u8",
-        "country": "argentina",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "argentina"
-        ]
-    },
-    {
-        "id": "132524",
-        "channel": "TLX",
-        "link": "https://list.iptvcat.com/my_list/s/07ebcde892e4c728fda86ee7ea76f02a.m3u8",
-        "country": "argentina",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -3318,104 +3220,6 @@
         ]
     },
     {
-        "id": "2689987",
-        "channel": "⁴ᴷ KSA SSC Extra 2",
-        "link": "https://list.iptvcat.com/my_list/s/10659970769183da666cf09960fbcc6e.m3u8",
-        "country": "argentina",
-        "liveliness": "45",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina"
-        ]
-    },
-    {
-        "id": "2690005",
-        "channel": "HD BEIN SPORTS 4",
-        "link": "https://list.iptvcat.com/my_list/s/08bd42b8c912c1e9198e23930637c7ae.m3u8",
-        "country": "argentina",
-        "liveliness": "55",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "argentina"
-        ]
-    },
-    {
-        "id": "2689942",
-        "channel": "HD BEIN SPORTS NEWS",
-        "link": "https://list.iptvcat.com/my_list/s/bbe59d1a3ff513c2ee3351696cc4467e.m3u8",
-        "country": "argentina",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "argentina"
-        ]
-    },
-    {
-        "id": "2689998",
-        "channel": "HD BEIN SPORTS PREMIUM 1",
-        "link": "https://list.iptvcat.com/my_list/s/daca47bc16c5724ba33e010f2b7999f6.m3u8",
-        "country": "argentina",
-        "liveliness": "73",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "argentina"
-        ]
-    },
-    {
-        "id": "2690000",
-        "channel": "HD BEIN SPORTS PREMIUM 2",
-        "link": "https://list.iptvcat.com/my_list/s/39b2b3f10022dddcaab1c71c287b2bfe.m3u8",
-        "country": "argentina",
-        "liveliness": "57",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "argentina"
-        ]
-    },
-    {
-        "id": "2690001",
-        "channel": "HD BEIN SPORTS PREMIUM 3",
-        "link": "https://list.iptvcat.com/my_list/s/8f9cc7e26b5d33213335c09edc8255f4.m3u8",
-        "country": "argentina",
-        "liveliness": "59",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "argentina"
-        ]
-    },
-    {
-        "id": "2692493",
-        "channel": "HD BEUR TV",
-        "link": "https://list.iptvcat.com/my_list/s/0d314df2e4ee97f229fa7d2b8721f568.m3u8",
-        "country": "argentina",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "argentina"
-        ]
-    },
-    {
         "id": "2692850",
         "channel": "HD CAIRO DRAMA",
         "link": "https://list.iptvcat.com/my_list/s/210306f5f6ff5c12ffe3e2b234d304ae.m3u8",
@@ -3448,9 +3252,9 @@
         "channel": "HD CANAL ATLAS TV",
         "link": "https://list.iptvcat.com/my_list/s/e962a73041ca7d2edd351adab0d12649.m3u8",
         "country": "argentina",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "liveliness": "81",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -3896,8 +3700,8 @@
         "channel": "HD EL BILAD TV",
         "link": "https://list.iptvcat.com/my_list/s/26c53c750b241f0640741429b0d36f40.m3u8",
         "country": "argentina",
-        "liveliness": "73",
-        "status": "offline",
+        "liveliness": "74",
+        "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -4732,69 +4536,69 @@
         ]
     },
     {
-        "id": "2692858",
-        "channel": "HD TEN TV",
-        "link": "https://list.iptvcat.com/my_list/s/3e766b690e07951d7ef6f3341c593430.m3u8",
+        "id": "2692622",
+        "channel": "HD MBC MAX",
+        "link": "https://list.iptvcat.com/my_list/s/994ec0e72a2f85f08f9b874ecaa6ede0.m3u8",
         "country": "argentina",
-        "liveliness": "93",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1509",
         "URI": [
             "argentina"
         ]
     },
     {
-        "id": "2690237",
-        "channel": "HD TOM AND JERRY",
-        "link": "https://list.iptvcat.com/my_list/s/28df10f284f694a4d37f73bd3df362d5.m3u8",
+        "id": "2690318",
+        "channel": "HD MBC PERSIA",
+        "link": "https://list.iptvcat.com/my_list/s/a40f89e2059711219712aadd3d1d4422.m3u8",
         "country": "argentina",
         "liveliness": "90",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "6724",
+        "mbps": "7004",
         "URI": [
             "argentina"
         ]
     },
     {
-        "id": "2690231",
-        "channel": "HD TOYOR AL JANAH",
-        "link": "https://list.iptvcat.com/my_list/s/026169fd657b5938e595cdf173b108b7.m3u8",
-        "country": "argentina",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "argentina"
-        ]
-    },
-    {
-        "id": "2690239",
-        "channel": "HD TOYOR AL JANAH BABY",
-        "link": "https://list.iptvcat.com/my_list/s/763c09bbd741c2d7167bd4fcc56ca971.m3u8",
-        "country": "argentina",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "argentina"
-        ]
-    },
-    {
-        "id": "2690160",
-        "channel": "HD TRT ALARABIYA",
-        "link": "https://list.iptvcat.com/my_list/s/c87851829a0a9fd5490f37e2ade36e4d.m3u8",
+        "id": "2690190",
+        "channel": "HD MBC PLUS DRAMA",
+        "link": "https://list.iptvcat.com/my_list/s/0ef00e36d96f728716f6e2b76989abd2.m3u8",
         "country": "argentina",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "argentina"
+        ]
+    },
+    {
+        "id": "2690304",
+        "channel": "HD MBC VARIETY",
+        "link": "https://list.iptvcat.com/my_list/s/ce766214edf2d432c3bf6b10840ce0ec.m3u8",
+        "country": "argentina",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "argentina"
+        ]
+    },
+    {
+        "id": "2689861",
+        "channel": "HD MEDI1 AFRIQUE TV",
+        "link": "https://list.iptvcat.com/my_list/s/ca4ad689b15e8189c31852d18088a245.m3u8",
+        "country": "argentina",
+        "liveliness": "87",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4802,29 +4606,15 @@
         ]
     },
     {
-        "id": "2692509",
-        "channel": "HD TUNISIE IMMOBILIER",
-        "link": "https://list.iptvcat.com/my_list/s/ce36860bc0c33751faca25af90d0edd5.m3u8",
+        "id": "2689858",
+        "channel": "HD MEDI1 MAGHERIB TV",
+        "link": "https://list.iptvcat.com/my_list/s/a46ed549ef3a2b43af0d6820ccce0cee.m3u8",
         "country": "argentina",
-        "liveliness": "61",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "argentina"
-        ]
-    },
-    {
-        "id": "2693199",
-        "channel": "HD VIP SHAHID",
-        "link": "https://list.iptvcat.com/my_list/s/3d95f983e6ef98d569b109194df40819.m3u8",
-        "country": "argentina",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2023-04-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "argentina"
         ]
@@ -5296,9 +5086,9 @@
         "channel": "NETFLIX BOX OFFICE 1",
         "link": "https://list.iptvcat.com/my_list/s/0fb3c81bab498b1996b336ffb65fee34.m3u8",
         "country": "argentina",
-        "liveliness": "62",
+        "liveliness": "57",
         "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -5394,9 +5184,9 @@
         "channel": "NETFLIX HORROR 3",
         "link": "https://list.iptvcat.com/my_list/s/39c8d202bb1ae6fc8dd2204df36de939.m3u8",
         "country": "argentina",
-        "liveliness": "67",
+        "liveliness": "63",
         "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -5464,9 +5254,9 @@
         "channel": "NETFLIX TURCKISH 2",
         "link": "https://list.iptvcat.com/my_list/s/93eb626f339513568a7109fcc183242a.m3u8",
         "country": "argentina",
-        "liveliness": "93",
+        "liveliness": "87",
         "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -5674,8 +5464,8 @@
         "channel": "SD KSA SSC 4",
         "link": "https://list.iptvcat.com/my_list/s/fb9ab9aa6ac171c7994c169cfff5ab6a.m3u8",
         "country": "argentina",
-        "liveliness": "46",
-        "status": "offline",
+        "liveliness": "48",
+        "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -6650,104 +6440,6 @@
         ]
     },
     {
-        "id": "2689987",
-        "channel": "⁴ᴷ KSA SSC Extra 2",
-        "link": "https://list.iptvcat.com/my_list/s/10659970769183da666cf09960fbcc6e.m3u8",
-        "country": "argentina",
-        "liveliness": "45",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina"
-        ]
-    },
-    {
-        "id": "2692622",
-        "channel": "HD MBC MAX",
-        "link": "https://list.iptvcat.com/my_list/s/994ec0e72a2f85f08f9b874ecaa6ede0.m3u8",
-        "country": "argentina",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690318",
-        "channel": "HD MBC PERSIA",
-        "link": "https://list.iptvcat.com/my_list/s/a40f89e2059711219712aadd3d1d4422.m3u8",
-        "country": "argentina",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690190",
-        "channel": "HD MBC PLUS DRAMA",
-        "link": "https://list.iptvcat.com/my_list/s/0ef00e36d96f728716f6e2b76989abd2.m3u8",
-        "country": "argentina",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690304",
-        "channel": "HD MBC VARIETY",
-        "link": "https://list.iptvcat.com/my_list/s/ce766214edf2d432c3bf6b10840ce0ec.m3u8",
-        "country": "argentina",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2689861",
-        "channel": "HD MEDI1 AFRIQUE TV",
-        "link": "https://list.iptvcat.com/my_list/s/ca4ad689b15e8189c31852d18088a245.m3u8",
-        "country": "argentina",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2689858",
-        "channel": "HD MEDI1 MAGHERIB TV",
-        "link": "https://list.iptvcat.com/my_list/s/a46ed549ef3a2b43af0d6820ccce0cee.m3u8",
-        "country": "argentina",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "2689862",
         "channel": "HD MEDI1 TV",
         "link": "https://list.iptvcat.com/my_list/s/5bb6b2ec90d89518bdbfcf6cf36a2b26.m3u8",
@@ -7494,8 +7186,8 @@
         "channel": "HD SAMIRA TV",
         "link": "https://list.iptvcat.com/my_list/s/6c971588f47d808352320fbda65487cd.m3u8",
         "country": "argentina",
-        "liveliness": "61",
-        "status": "offline",
+        "liveliness": "62",
+        "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -7970,9 +7662,9 @@
         "channel": "HD STAR CINEMA 1",
         "link": "https://list.iptvcat.com/my_list/s/83e188371cb0734c187d522e932c7f24.m3u8",
         "country": "argentina",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -7994,29 +7686,15 @@
         ]
     },
     {
-        "id": "2690188",
-        "channel": "HD STAR MOVIES",
-        "link": "https://list.iptvcat.com/my_list/s/f508d1dbda8b66ede9fe745fac6669a3.m3u8",
-        "country": "argentina",
-        "liveliness": "56",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "2690187",
         "channel": "HD STAR WORLD",
         "link": "https://list.iptvcat.com/my_list/s/f44e0e1afa2f535daa832501c5d182a4.m3u8",
         "country": "argentina",
-        "liveliness": "77",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
+        "liveliness": "76",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "argentina__1"
         ]
@@ -8054,9 +7732,9 @@
         "channel": "HD TELE MAROC TV",
         "link": "https://list.iptvcat.com/my_list/s/c178716ba4298595e068bd3ca1b196a9.m3u8",
         "country": "argentina",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "liveliness": "87",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -8074,7 +7752,7 @@
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -8088,7 +7766,7 @@
         "format": "fhd 2k",
         "mbps": "6724",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -8102,7 +7780,7 @@
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -8116,7 +7794,7 @@
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -8130,7 +7808,7 @@
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -8144,7 +7822,7 @@
         "format": "hd",
         "mbps": "3799",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -8158,7 +7836,7 @@
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -8628,9 +8306,9 @@
         "channel": "NETFLIX BOX OFFICE 1",
         "link": "https://list.iptvcat.com/my_list/s/0fb3c81bab498b1996b336ffb65fee34.m3u8",
         "country": "argentina",
-        "liveliness": "62",
+        "liveliness": "57",
         "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -8726,9 +8404,9 @@
         "channel": "NETFLIX HORROR 3",
         "link": "https://list.iptvcat.com/my_list/s/39c8d202bb1ae6fc8dd2204df36de939.m3u8",
         "country": "argentina",
-        "liveliness": "67",
+        "liveliness": "63",
         "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -8796,9 +8474,9 @@
         "channel": "NETFLIX TURCKISH 2",
         "link": "https://list.iptvcat.com/my_list/s/93eb626f339513568a7109fcc183242a.m3u8",
         "country": "argentina",
-        "liveliness": "93",
+        "liveliness": "87",
         "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -9006,8 +8684,8 @@
         "channel": "SD KSA SSC 4",
         "link": "https://list.iptvcat.com/my_list/s/fb9ab9aa6ac171c7994c169cfff5ab6a.m3u8",
         "country": "argentina",
-        "liveliness": "46",
-        "status": "offline",
+        "liveliness": "48",
+        "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -9464,87 +9142,101 @@
         ]
     },
     {
-        "id": "2692622",
-        "channel": "HD MBC MAX",
-        "link": "https://list.iptvcat.com/my_list/s/994ec0e72a2f85f08f9b874ecaa6ede0.m3u8",
+        "id": "2693062",
+        "channel": "SKY FLIX COMEDY",
+        "link": "https://list.iptvcat.com/my_list/s/db0fed0cadf07070ea71b71faf6e620b.m3u8",
+        "country": "argentina",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "argentina"
+        ]
+    },
+    {
+        "id": "2693061",
+        "channel": "SKY FLIX DRAMA",
+        "link": "https://list.iptvcat.com/my_list/s/d2a3b17e33fa8c5f7906a36c38f05996.m3u8",
+        "country": "argentina",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "argentina"
+        ]
+    },
+    {
+        "id": "2693063",
+        "channel": "SKY FLIX HORROR",
+        "link": "https://list.iptvcat.com/my_list/s/83abdd51f14094df25f4cd8c41b4d009.m3u8",
+        "country": "argentina",
+        "liveliness": "77",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "argentina"
+        ]
+    },
+    {
+        "id": "2659737",
+        "channel": "TEC TV",
+        "link": "https://list.iptvcat.com/my_list/s/3e1b6a9ad57bbc0cd5ab4bc8ce246098.m3u8",
         "country": "argentina",
         "liveliness": "96",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "format": "hd",
+        "mbps": "4318",
         "URI": [
-            "argentina__1"
+            "argentina"
         ]
     },
     {
-        "id": "2690318",
-        "channel": "HD MBC PERSIA",
-        "link": "https://list.iptvcat.com/my_list/s/a40f89e2059711219712aadd3d1d4422.m3u8",
+        "id": "111",
+        "channel": "TLX",
+        "link": "https://list.iptvcat.com/my_list/s/ac3db1352fc6e2ef3bd7cd77a615b68e.m3u8",
         "country": "argentina",
-        "liveliness": "90",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3625",
         "URI": [
-            "argentina__1"
+            "argentina"
         ]
     },
     {
-        "id": "2690190",
-        "channel": "HD MBC PLUS DRAMA",
-        "link": "https://list.iptvcat.com/my_list/s/0ef00e36d96f728716f6e2b76989abd2.m3u8",
+        "id": "51287",
+        "channel": "TLX",
+        "link": "https://list.iptvcat.com/my_list/s/e7c0510af7044529874387578cee3176.m3u8",
         "country": "argentina",
-        "liveliness": "100",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3625, ...",
         "URI": [
-            "argentina__1"
+            "argentina"
         ]
     },
     {
-        "id": "2690304",
-        "channel": "HD MBC VARIETY",
-        "link": "https://list.iptvcat.com/my_list/s/ce766214edf2d432c3bf6b10840ce0ec.m3u8",
+        "id": "132524",
+        "channel": "TLX",
+        "link": "https://list.iptvcat.com/my_list/s/07ebcde892e4c728fda86ee7ea76f02a.m3u8",
         "country": "argentina",
-        "liveliness": "96",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3625",
         "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2689861",
-        "channel": "HD MEDI1 AFRIQUE TV",
-        "link": "https://list.iptvcat.com/my_list/s/ca4ad689b15e8189c31852d18088a245.m3u8",
-        "country": "argentina",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2689858",
-        "channel": "HD MEDI1 MAGHERIB TV",
-        "link": "https://list.iptvcat.com/my_list/s/a46ed549ef3a2b43af0d6820ccce0cee.m3u8",
-        "country": "argentina",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "argentina__1"
+            "argentina"
         ]
     },
     {
@@ -10294,8 +9986,8 @@
         "channel": "HD SAMIRA TV",
         "link": "https://list.iptvcat.com/my_list/s/6c971588f47d808352320fbda65487cd.m3u8",
         "country": "argentina",
-        "liveliness": "61",
-        "status": "offline",
+        "liveliness": "62",
+        "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -10770,9 +10462,9 @@
         "channel": "HD STAR CINEMA 1",
         "link": "https://list.iptvcat.com/my_list/s/83e188371cb0734c187d522e932c7f24.m3u8",
         "country": "argentina",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -10794,29 +10486,15 @@
         ]
     },
     {
-        "id": "2690188",
-        "channel": "HD STAR MOVIES",
-        "link": "https://list.iptvcat.com/my_list/s/f508d1dbda8b66ede9fe745fac6669a3.m3u8",
-        "country": "argentina",
-        "liveliness": "56",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "2690187",
         "channel": "HD STAR WORLD",
         "link": "https://list.iptvcat.com/my_list/s/f44e0e1afa2f535daa832501c5d182a4.m3u8",
         "country": "argentina",
-        "liveliness": "77",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
+        "liveliness": "76",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "argentina__1"
         ]
@@ -10854,9 +10532,9 @@
         "channel": "HD TELE MAROC TV",
         "link": "https://list.iptvcat.com/my_list/s/c178716ba4298595e068bd3ca1b196a9.m3u8",
         "country": "argentina",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "liveliness": "87",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -10864,11 +10542,81 @@
         ]
     },
     {
-        "id": "2689955",
-        "channel": "HD AD 3 SERIES A",
-        "link": "https://list.iptvcat.com/my_list/s/d93a28c3dc7518348f77cbc6186ab1f1.m3u8",
+        "id": "2692858",
+        "channel": "HD TEN TV",
+        "link": "https://list.iptvcat.com/my_list/s/3e766b690e07951d7ef6f3341c593430.m3u8",
         "country": "argentina",
-        "liveliness": "58",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2690237",
+        "channel": "HD TOM AND JERRY",
+        "link": "https://list.iptvcat.com/my_list/s/28df10f284f694a4d37f73bd3df362d5.m3u8",
+        "country": "argentina",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2690231",
+        "channel": "HD TOYOR AL JANAH",
+        "link": "https://list.iptvcat.com/my_list/s/026169fd657b5938e595cdf173b108b7.m3u8",
+        "country": "argentina",
+        "liveliness": "83",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2690239",
+        "channel": "HD TOYOR AL JANAH BABY",
+        "link": "https://list.iptvcat.com/my_list/s/763c09bbd741c2d7167bd4fcc56ca971.m3u8",
+        "country": "argentina",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2690160",
+        "channel": "HD TRT ALARABIYA",
+        "link": "https://list.iptvcat.com/my_list/s/c87851829a0a9fd5490f37e2ade36e4d.m3u8",
+        "country": "argentina",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2692509",
+        "channel": "HD TUNISIE IMMOBILIER",
+        "link": "https://list.iptvcat.com/my_list/s/ce36860bc0c33751faca25af90d0edd5.m3u8",
+        "country": "argentina",
+        "liveliness": "61",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
@@ -10878,71 +10626,15 @@
         ]
     },
     {
-        "id": "2689958",
-        "channel": "HD AD 5 SERIES A",
-        "link": "https://list.iptvcat.com/my_list/s/eb431cf1cffb3ac952b4f5adbf5138a3.m3u8",
-        "country": "argentina",
-        "liveliness": "51",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690228",
-        "channel": "HD AD SPORT 1",
-        "link": "https://list.iptvcat.com/my_list/s/28b2d8e6bf505f7636e0c3badd967d65.m3u8",
+        "id": "2693199",
+        "channel": "HD VIP SHAHID",
+        "link": "https://list.iptvcat.com/my_list/s/3d95f983e6ef98d569b109194df40819.m3u8",
         "country": "argentina",
         "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690230",
-        "channel": "HD AD SPORT 3",
-        "link": "https://list.iptvcat.com/my_list/s/9d98f3ad1b8ceb270eadd4c4ffb6cb43.m3u8",
-        "country": "argentina",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690154",
-        "channel": "HD AL ALAM TV",
-        "link": "https://list.iptvcat.com/my_list/s/d820c120a7387c217ccafa16716858c8.m3u8",
-        "country": "argentina",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2689859",
-        "channel": "HD AL AOULA LAAYOUNE TV",
-        "link": "https://list.iptvcat.com/my_list/s/aef3853c66c0e67162f88b24d68d10c1.m3u8",
-        "country": "argentina",
-        "liveliness": "84",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "5020",
         "URI": [
             "argentina__1"
         ]
@@ -11050,9 +10742,9 @@
         "channel": "HD AL BASIRA TV",
         "link": "https://list.iptvcat.com/my_list/s/4fd295d38c7458c66e8baa46faceea89.m3u8",
         "country": "argentina",
-        "liveliness": "65",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "liveliness": "66",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "1796",
         "URI": [
@@ -11457,7 +11149,7 @@
         "link": "https://list.iptvcat.com/my_list/s/67c7d4183d01283242c6adc72768c02c.m3u8",
         "country": "argentina",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -12002,9 +11694,9 @@
         "channel": "HD ASSADISSA TV",
         "link": "https://list.iptvcat.com/my_list/s/7412384b04c2f0172dc97eae05e0310c.m3u8",
         "country": "argentina",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "liveliness": "87",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -12274,7 +11966,7 @@
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -12288,7 +11980,7 @@
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -12302,7 +11994,7 @@
         "format": "hd",
         "mbps": "9905",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -12316,7 +12008,7 @@
         "format": "hd",
         "mbps": "5997",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -12330,7 +12022,7 @@
         "format": "hd",
         "mbps": "9905",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -12338,13 +12030,13 @@
         "channel": "HD BEUR TV",
         "link": "https://list.iptvcat.com/my_list/s/0d314df2e4ee97f229fa7d2b8721f568.m3u8",
         "country": "argentina",
-        "liveliness": "73",
-        "status": "offline",
+        "liveliness": "74",
+        "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "argentina"
+            "argentina__1"
         ]
     },
     {
@@ -12380,9 +12072,9 @@
         "channel": "HD CANAL ATLAS TV",
         "link": "https://list.iptvcat.com/my_list/s/e962a73041ca7d2edd351adab0d12649.m3u8",
         "country": "argentina",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "liveliness": "81",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -12828,8 +12520,8 @@
         "channel": "HD EL BILAD TV",
         "link": "https://list.iptvcat.com/my_list/s/26c53c750b241f0640741429b0d36f40.m3u8",
         "country": "argentina",
-        "liveliness": "73",
-        "status": "offline",
+        "liveliness": "74",
+        "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -13664,6 +13356,90 @@
         ]
     },
     {
+        "id": "2692622",
+        "channel": "HD MBC MAX",
+        "link": "https://list.iptvcat.com/my_list/s/994ec0e72a2f85f08f9b874ecaa6ede0.m3u8",
+        "country": "argentina",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "argentina"
+        ]
+    },
+    {
+        "id": "2690318",
+        "channel": "HD MBC PERSIA",
+        "link": "https://list.iptvcat.com/my_list/s/a40f89e2059711219712aadd3d1d4422.m3u8",
+        "country": "argentina",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "argentina"
+        ]
+    },
+    {
+        "id": "2690190",
+        "channel": "HD MBC PLUS DRAMA",
+        "link": "https://list.iptvcat.com/my_list/s/0ef00e36d96f728716f6e2b76989abd2.m3u8",
+        "country": "argentina",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "argentina"
+        ]
+    },
+    {
+        "id": "2690304",
+        "channel": "HD MBC VARIETY",
+        "link": "https://list.iptvcat.com/my_list/s/ce766214edf2d432c3bf6b10840ce0ec.m3u8",
+        "country": "argentina",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "argentina"
+        ]
+    },
+    {
+        "id": "2689861",
+        "channel": "HD MEDI1 AFRIQUE TV",
+        "link": "https://list.iptvcat.com/my_list/s/ca4ad689b15e8189c31852d18088a245.m3u8",
+        "country": "argentina",
+        "liveliness": "87",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "argentina"
+        ]
+    },
+    {
+        "id": "2689858",
+        "channel": "HD MEDI1 MAGHERIB TV",
+        "link": "https://list.iptvcat.com/my_list/s/a46ed549ef3a2b43af0d6820ccce0cee.m3u8",
+        "country": "argentina",
+        "liveliness": "87",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "argentina"
+        ]
+    },
+    {
         "id": "22050",
         "channel": "24/7 Canal de Noticias, CN 24/7",
         "link": "https://list.iptvcat.com/my_list/s/bd1ff1f16c00ec85c0317e4e95160ae9.m3u8",
@@ -13692,34 +13468,6 @@
         ]
     },
     {
-        "id": "2690046",
-        "channel": "4K BEIN BARAEAM",
-        "link": "https://list.iptvcat.com/my_list/s/9aff68e4dcc33c39a93e2bf99dc03abc.m3u8",
-        "country": "argentina",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690041",
-        "channel": "4K BEIN MOVIES 3",
-        "link": "https://list.iptvcat.com/my_list/s/d7233e4dcdbbc6784d260188475048b5.m3u8",
-        "country": "argentina",
-        "liveliness": "56",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "2690042",
         "channel": "4K BEIN MOVIES 4",
         "link": "https://list.iptvcat.com/my_list/s/6bce6b0b6de33a97a4d445f3fecd0de8.m3u8",
@@ -13729,20 +13477,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690010",
-        "channel": "4K BEIN SPORTS NEWS",
-        "link": "https://list.iptvcat.com/my_list/s/5dbb4cee94d7d1626cea1adda56eca23.m3u8",
-        "country": "argentina",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "argentina__1"
         ]
@@ -13986,20 +13720,6 @@
         ]
     },
     {
-        "id": "2690265",
-        "channel": "4K ROTANA KIDS",
-        "link": "https://list.iptvcat.com/my_list/s/cb75a1c47ffdd68272326e6f1b3930ee.m3u8",
-        "country": "argentina",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "sd",
-        "mbps": "917",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "44",
         "channel": "5RTV Santa Fe",
         "link": "https://list.iptvcat.com/my_list/s/05141faca6baccaaee8c99c3a377a83e.m3u8",
@@ -14229,8 +13949,8 @@
         "link": "https://list.iptvcat.com/my_list/s/60d4ed6ab1590c8c8a7a41ea1878fc51.m3u8",
         "country": "argentina",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "1761",
         "URI": [
@@ -14732,9 +14452,9 @@
         "channel": "Chilecito TV",
         "link": "https://list.iptvcat.com/my_list/s/ac7823e14dd41b6f6f534bdca92d9c2e.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "2743",
         "URI": [
@@ -14854,20 +14574,6 @@
         ]
     },
     {
-        "id": "2692533",
-        "channel": "FHD KSA SSC 1",
-        "link": "https://list.iptvcat.com/my_list/s/56d310b8755409c0c054f588dd5b7cd7.m3u8",
-        "country": "argentina",
-        "liveliness": "44",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "2692538",
         "channel": "FHD KSA SSC 2",
         "link": "https://list.iptvcat.com/my_list/s/e7278661c497dbd20082a3dbce738465.m3u8",
@@ -14902,20 +14608,6 @@
         "country": "argentina",
         "liveliness": "81",
         "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2692552",
-        "channel": "FHD KSA SSC 7",
-        "link": "https://list.iptvcat.com/my_list/s/7a23a8ee1b2e41c0bd1007bc1a188f5f.m3u8",
-        "country": "argentina",
-        "liveliness": "40",
-        "status": "offline",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -15138,9 +14830,9 @@
         "channel": "HD AL AOULA LAAYOUNE TV",
         "link": "https://list.iptvcat.com/my_list/s/aef3853c66c0e67162f88b24d68d10c1.m3u8",
         "country": "argentina",
-        "liveliness": "84",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "liveliness": "82",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -15250,9 +14942,9 @@
         "channel": "HD AL BASIRA TV",
         "link": "https://list.iptvcat.com/my_list/s/4fd295d38c7458c66e8baa46faceea89.m3u8",
         "country": "argentina",
-        "liveliness": "65",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "liveliness": "66",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "1796",
         "URI": [
@@ -15657,7 +15349,7 @@
         "link": "https://list.iptvcat.com/my_list/s/67c7d4183d01283242c6adc72768c02c.m3u8",
         "country": "argentina",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -16202,9 +15894,9 @@
         "channel": "HD ASSADISSA TV",
         "link": "https://list.iptvcat.com/my_list/s/7412384b04c2f0172dc97eae05e0310c.m3u8",
         "country": "argentina",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "liveliness": "87",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -16464,6 +16156,90 @@
         ]
     },
     {
+        "id": "2690005",
+        "channel": "HD BEIN SPORTS 4",
+        "link": "https://list.iptvcat.com/my_list/s/08bd42b8c912c1e9198e23930637c7ae.m3u8",
+        "country": "argentina",
+        "liveliness": "55",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2689942",
+        "channel": "HD BEIN SPORTS NEWS",
+        "link": "https://list.iptvcat.com/my_list/s/bbe59d1a3ff513c2ee3351696cc4467e.m3u8",
+        "country": "argentina",
+        "liveliness": "83",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2689998",
+        "channel": "HD BEIN SPORTS PREMIUM 1",
+        "link": "https://list.iptvcat.com/my_list/s/daca47bc16c5724ba33e010f2b7999f6.m3u8",
+        "country": "argentina",
+        "liveliness": "73",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2690000",
+        "channel": "HD BEIN SPORTS PREMIUM 2",
+        "link": "https://list.iptvcat.com/my_list/s/39b2b3f10022dddcaab1c71c287b2bfe.m3u8",
+        "country": "argentina",
+        "liveliness": "57",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2690001",
+        "channel": "HD BEIN SPORTS PREMIUM 3",
+        "link": "https://list.iptvcat.com/my_list/s/8f9cc7e26b5d33213335c09edc8255f4.m3u8",
+        "country": "argentina",
+        "liveliness": "59",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2692493",
+        "channel": "HD BEUR TV",
+        "link": "https://list.iptvcat.com/my_list/s/0d314df2e4ee97f229fa7d2b8721f568.m3u8",
+        "country": "argentina",
+        "liveliness": "74",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
         "id": "22050",
         "channel": "24/7 Canal de Noticias, CN 24/7",
         "link": "https://list.iptvcat.com/my_list/s/bd1ff1f16c00ec85c0317e4e95160ae9.m3u8",
@@ -16492,34 +16268,6 @@
         ]
     },
     {
-        "id": "2690046",
-        "channel": "4K BEIN BARAEAM",
-        "link": "https://list.iptvcat.com/my_list/s/9aff68e4dcc33c39a93e2bf99dc03abc.m3u8",
-        "country": "argentina",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690041",
-        "channel": "4K BEIN MOVIES 3",
-        "link": "https://list.iptvcat.com/my_list/s/d7233e4dcdbbc6784d260188475048b5.m3u8",
-        "country": "argentina",
-        "liveliness": "56",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "2690042",
         "channel": "4K BEIN MOVIES 4",
         "link": "https://list.iptvcat.com/my_list/s/6bce6b0b6de33a97a4d445f3fecd0de8.m3u8",
@@ -16529,20 +16277,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2690010",
-        "channel": "4K BEIN SPORTS NEWS",
-        "link": "https://list.iptvcat.com/my_list/s/5dbb4cee94d7d1626cea1adda56eca23.m3u8",
-        "country": "argentina",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "argentina__1"
         ]
@@ -16786,20 +16520,6 @@
         ]
     },
     {
-        "id": "2690265",
-        "channel": "4K ROTANA KIDS",
-        "link": "https://list.iptvcat.com/my_list/s/cb75a1c47ffdd68272326e6f1b3930ee.m3u8",
-        "country": "argentina",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "sd",
-        "mbps": "917",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "44",
         "channel": "5RTV Santa Fe",
         "link": "https://list.iptvcat.com/my_list/s/05141faca6baccaaee8c99c3a377a83e.m3u8",
@@ -17029,8 +16749,8 @@
         "link": "https://list.iptvcat.com/my_list/s/60d4ed6ab1590c8c8a7a41ea1878fc51.m3u8",
         "country": "argentina",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "1761",
         "URI": [
@@ -17532,9 +17252,9 @@
         "channel": "Chilecito TV",
         "link": "https://list.iptvcat.com/my_list/s/ac7823e14dd41b6f6f534bdca92d9c2e.m3u8",
         "country": "argentina",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "sd",
         "mbps": "2743",
         "URI": [
@@ -17654,20 +17374,6 @@
         ]
     },
     {
-        "id": "2692533",
-        "channel": "FHD KSA SSC 1",
-        "link": "https://list.iptvcat.com/my_list/s/56d310b8755409c0c054f588dd5b7cd7.m3u8",
-        "country": "argentina",
-        "liveliness": "44",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
         "id": "2692538",
         "channel": "FHD KSA SSC 2",
         "link": "https://list.iptvcat.com/my_list/s/e7278661c497dbd20082a3dbce738465.m3u8",
@@ -17702,20 +17408,6 @@
         "country": "argentina",
         "liveliness": "81",
         "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "argentina__1"
-        ]
-    },
-    {
-        "id": "2692552",
-        "channel": "FHD KSA SSC 7",
-        "link": "https://list.iptvcat.com/my_list/s/7a23a8ee1b2e41c0bd1007bc1a188f5f.m3u8",
-        "country": "argentina",
-        "liveliness": "40",
-        "status": "offline",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -17859,6 +17551,90 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2689955",
+        "channel": "HD AD 3 SERIES A",
+        "link": "https://list.iptvcat.com/my_list/s/d93a28c3dc7518348f77cbc6186ab1f1.m3u8",
+        "country": "argentina",
+        "liveliness": "58",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2689958",
+        "channel": "HD AD 5 SERIES A",
+        "link": "https://list.iptvcat.com/my_list/s/eb431cf1cffb3ac952b4f5adbf5138a3.m3u8",
+        "country": "argentina",
+        "liveliness": "51",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2690228",
+        "channel": "HD AD SPORT 1",
+        "link": "https://list.iptvcat.com/my_list/s/28b2d8e6bf505f7636e0c3badd967d65.m3u8",
+        "country": "argentina",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2690230",
+        "channel": "HD AD SPORT 3",
+        "link": "https://list.iptvcat.com/my_list/s/9d98f3ad1b8ceb270eadd4c4ffb6cb43.m3u8",
+        "country": "argentina",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2690154",
+        "channel": "HD AL ALAM TV",
+        "link": "https://list.iptvcat.com/my_list/s/d820c120a7387c217ccafa16716858c8.m3u8",
+        "country": "argentina",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "argentina__1"
+        ]
+    },
+    {
+        "id": "2689859",
+        "channel": "HD AL AOULA LAAYOUNE TV",
+        "link": "https://list.iptvcat.com/my_list/s/aef3853c66c0e67162f88b24d68d10c1.m3u8",
+        "country": "argentina",
+        "liveliness": "82",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "argentina__1"
         ]
